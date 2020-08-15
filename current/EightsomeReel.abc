@@ -1,0 +1,80 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 3"
+%%scale 0.7
+X: 1
+T:Eightsome Reel
+L:1/8
+M:4/4
+N:Play each tune THREE times except play Breakdown once. Play Breakdown at end
+P:AB3C3D3E3F3G3H3I3A
+Q:1/4=220
+R:reel
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%%text Play each tune THREE times except play Breakdown once. Play Breakdown at end
+P:A
+T:Breakdown
+K:A
+|: !segno! "A"a2A2 AcBA | E2A2 AcBA | "Bm"F2B2 BcBA | "E"GABc defg |
+"A"a2A2 AcBA | E2A2 AcBA | "E7"GABc defg | "A"a4 a4 |
+"A"A2a2 A2a2 | A2AB cBA2 | "E"E2e2 E2e2 | E2B2 BcdB |
+"A"A2a2 A2a2 | A2AB cBA2 | "E"E2B2 BcdB | "A"A4 A2z2 :|
+"A"ceee ceee | "D"dfff dfff | "A"ceee ceec | "E7"d2B2 B3d |
+"A"ceee ceee | "D"dfff dfff | "E7"eagf edcB | "A"A2a2 A2 "^(no repeat)"z2|]
+P:B
+T:The Wind That Shakes The Barley
+K:D
+"D"A2AB AFED|"Em"B2BA BcdB|"D"A2AB AFED|"G"gfed BcdB|
+"Bm7"A2AB AFED|"G"B2BA BcdB|"D"A2AB AFED|"G"gfed Bcde||
+"D"f2fd "G5"g2ge|"D"f2fd Bcde|"D"f2fd "G5"g2fg|"A"afed Bcde|
+"Bm"f2fd "G"g2ge|"D"f2fd Bcde|"D"f2ae "Em"g2be| "A"afed "G"BcdB|]
+P:C
+T:The Drummer
+K:Am
+|:"Am"ABcA E2E^F | "G"GABc d2cB | "Am"ABcA E2Ef | "E"edcB "Am"A3 B:|
+"C"c2ce "G"d2de| "C"c2ce "G"dBGB| "C"c2ce "Dm"d2df| "E"edcB "Am"A2AB|
+"C"c2ce "G"d2de| "C"c2ce "G"dBGB| "C"ccce "Dm"dddf|  [1,2"E"edcB "Am"A2AE ||  [3 "E"edcB "Am"A2A2|]
+%%newpage
+P:D
+T:The Sloe
+K:D
+A2 | "D"d2A2 d2e2 | "Bm"f3e d2c2 | "G"B2A2 BcdB | "D"A2G2 F2A2 |
+"D"d2A2 d2e2 "Bm"| f3e d2c2 | "G"B2A2 "A" B2c2 | "D"d4d2A2 |
+"G"(3BcB A2F2A2| "D"(3BcB A2F2dd | "A"d2cc c2BB|
+"D"B2A2 A2dd | "A"d2c2 c2ee | "D"e2d2 d2f2 | "A7"f2e2 B2c2 | [1,2 "D"d4 d2 A2|| [3"D"d4 d4|]
+P:E
+T:Davy Davy Knick Knack
+K:G
+"G"GFGA B2B2 |"Em" GFGA B2B2 | "Am"dcBc A2A2 |"D" dcBc A2A2 |
+"G"GFGA B2B2 |"Em" GFGA B2B2 | "Am"dcBc "D"AcBA | "G"G2B2 G2Bc |
+"G"d3c B2d2 | "Em"g2g2 d4 | "Am"dcBc A2A2 |"D" dcBc A2A2 |
+"G"d3c B2d2 |"Em" g2g2 d4 | "Am"dcBc "D"AcBA | "G"G2B2  [1,2 G4 ||  [3 G2F2 |]
+P:F
+T:The Dancing Bear
+K:Em
+"Em"EFGF EFGF | EFGA G2E2 |"C" EFGF EFGF | EFGA G2E2 |
+"Em"EFGF EFGF | EFGA B2e2 | "B"B2Bc BAGF | "Em"G2E2 E4 |
+"Em"[e2B2]ef gfef | gfe2 e4 | "A"[e2^c2]ef gfef | gfe2 e4 |
+"Em"[e2B2]ef gfef | gfe2 e2dc | "B"BABc BcBA | "Em"GFE2  [1,2 E4 ||  [3 E2FG |]
+%%newpage
+P:G
+T:Dark Girl Dressed In Blue
+K:G
+"D"A3G F2G2|"Am"AB cA "G"B2G2|"D"A3G F2G2|"C"Addc "G"d4|
+"D"A3G F2G2|"Am"AB cA "G"B2G2|"A"A2d2^cdec|"G"d4 d2 de |
+"D"f2f2"C"g2fe|"D"de dB A2 de|"D"f2f2"C"g2fe|"G"d3B A2 de|
+"D"f2f2"C"g2fe|"D"de dB A2B2|"C"c2c2B2A2|"G"G4 G4 |]
+P:H
+T:White Cockade
+K:G
+"G"B2B2 B2(AG) | B2B2 B2g2 | d2B2 B2(AG) | "Am"B2A2 "D"A2(GA) |
+"G"B2B2 cBAG | "Em"B2d2 g3a | "C"bagf "D"agfe| "G"d2B2 B2(Bc) |
+"G"d2B2 g2B2 | "Am"d2d2 "D"d3e | "G"d2B2 "Em"g2(fg) | "Am"a2A2 "D"A2(GA) |
+"G"B2B2 cBAG | "Em"B2d2 g3a | "C"bagf "D"agfe|"G"d2B2  [1,2 B4 ||  [3 B2(AB) |]
+P:I
+T:Jenny Nettles
+K:Am
+|: "Am"c2B2 A2a2 | e^fge "G"dBGB | "Am"c2B2 A2a2 | "Bm"ge^fd "Em"e2(AB) :|
+|: "C"cde^f gage | "G"gage dBGB | "C"cde^f gage | "E"ea^gb "A"a2 !D.S.!(AB) :|

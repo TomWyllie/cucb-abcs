@@ -1,0 +1,42 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.73
+X: 1
+T:Peggy's Nettles
+C:Noel Ryan (Peggy's Nettles)
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2B2C2
+R:jig 48
+K:Dmix
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Banish Misfortune
+|:"D5" fed cAG| A2d cAG| F2D DED| FEF GFG|
+AGA cAG|"C" AGA cde|"Am" fed cAG| "G"Ad^c d3:|
+|:"D"f2d d^cd| f2g agf| "C"e2c cBc|"Em"e2f gfe|
+"D"f2g agf| "C"e2f gfe|"Am"fed cAG|"G"Ad^c d3:|
+|:"D5"f2g e2f| d2e c2d|ABA GAG| F2F GED|
+"F"c3 cAG| "D"AGA cde| "Am"fed cAG| "G"Ad^c d3:|
+P:B
+T:The Coming Of Spring
+K:Edor
+|: "Em" BEE B2 A | BdB BAG | "D" ~F3 DFA | dfe dBA |
+"Em" BEE B2 A | "G" Bef gfe | "D" dBG FGA |1 "Em" BGE Ed=c :|2 "Em" BGE E2 F ||
+|: "G" GEF G2 A | B2 A BeB | "D" dAA BAG | ~F3 DEF |
+"Em" GFE FGA | "G" Bef gfe | "D" dBG FGA |1 "Em" BEE E2 F :|2 "A" BEE Eef ||
+|: "Em" ~g3 efe | Beg bag | "Bm" f2 d dcd | AFA def |
+"C" g2e efe | Beg bag | "D" fed f/2g/2af | "B7" ge^d "(Em last time)"e2 f :|
+%%newpage%%
+P:C
+T:Peggy's Nettles
+K:Amaj
+|:"A"ecB ~A2B|cef ecA|"Bm"~B3 f2e|"D"fga fga|
+"A"ecB ~A2B|"C#m"cef ecA|"Bm"~B3 f2e|"E"ecB A2f:|
+|:"A"ecA cBA|~c3 cBA|"E"GAB EFA|GAB agf|
+"A"ecA cBA|"C#m"~c3 cBA|"Bm"~B3 f2e|1"E"ecB A2a:|2"E"ecB Ace||
+|:"F#m"~a3 gfe|"D"fae fec|"E"~B3 f2e|"E7"fga "(E#dim)"fge|
+"F#m"~a3 gfe|"D"faf ecA|"Bm"~B3 f2e|1"E"ecB Ace:|2"E"ecB "A"A3||

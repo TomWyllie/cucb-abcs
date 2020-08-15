@@ -1,0 +1,37 @@
+%%header "$T		Page $P of 1"
+%%printparts 0
+%%printtempo 0
+%%scale 0.67
+X:1
+T:Dashing White Sergeant, The
+M:4/4
+L:1/8
+R:reel
+Q:1/4=180
+P:A2B2C2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:The Dashing White Sergeant
+A, \
+|: "D"D2 D2 DEFG | "D"A^GAB A2 fe | "G"d2 B2 "D"A2 F2 | "Em"B2 E2 "A7"EGFE | "D"D2 DC DEFG |
+"D"A^GAB A2 f2 | "E7"e2 d2 c2 B2 |1 "A"ABcB "A7"AGFE :|2 "A"A4 A2 E2 | "A"A2 AB c2 cd | "A"e2 ec A4 |
+"Bm"B2 Bc d2 de | "Bm"fgfd B3 B | "A"c2 AA "D"d2 AA | "A7"e2 AA "D"f2 ef | "Em"g2 f2 "E7"e2 d2 |
+"A"cdBc "A7/G"ABGA | "D"F2 d2 dcde | "D"d2 A2 A3(^A | "G"B2) e2 edef | "Em"e2 B2 B2 cB |
+"D"A2 d2 dcde | "D"f2 d2 dcde | "D"f2 z2 "A"a2 z2 |  [1 "D"d2 cB "A7"AGFE ||  [2 "D"d6 |]
+P:B
+T:Petronella
+|: dA| \
+"D"F2 AF "A"E2 AF | "D"D2 D2 D2 FA| "G"d2 cd "E7"e2 d2 | "A"cdec "A7"A2 dA |
+"D"F2 AF "A"E2 AF | "D"D2 D2 D2 FA | "D"d2 cd "A"e2 c2 | "D"d4 d2 :|
+|: dA| "D"F2 fd A2 af | "A"g2 gf edcB| "A7"A2 ec A2 ge | "D"f2 fd AdAF|
+"D"D2 fd A2 af | "G"g2 gf edcB| "A"A2 ec Agec | "D"d4 d2 :|
+P:C
+T:The Deveron Reel
+a2 \
+|: "D"LD2 LD2 FEDF | "D"LA2 LA2 BAFA | "D"Ld2 Ld2 fede | "A"f2 e2 e2 f2 |
+"D"LD2 LD2 FEDF | "D"LA2 LA2 BAFA | "D"d2 f2 "A7"efga |1 "D"f2 d2 (d2 a2) :|2 "D"f2 d2 d3 e |
+|:"D"f2 f2 defd | "A"e2 A2 A3 ^A | "G"B2 B2 GABG | "D"A2 D2 D3 F |
+"Em"G2 G2 EFGE | "D"F2 A2 d2 A2 | "G"BAGF "A"EFGA |1 "D"F2 D2 D2 e2 :|2 "D"F2 D2 D2 |]

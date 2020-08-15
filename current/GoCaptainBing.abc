@@ -1,0 +1,64 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.71
+X: 1
+T:Go Captain Bing
+C:Gilles Chabenat (Chassepain)
+M:2/4
+L:1/8
+Q:1/4=200
+P:A2B2C2D2E2
+R:polka
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+T:Sean McGovern's
+|:d>B|"D" AD FA|"C" GF EF/2G/2|"D" AD FA|"G" d2 c/2d/2c/2B/2|
+"D" AD FA|"C" GF E>d|"A" ce Ac|"G" d2:|
+|:d>e|"D" fd gf |"A" e/2f/2e/2d/2 Ae|"D" fd gf|"A" e2 a/2b/2a/2g/2|
+"D" fd gf|"A" ec A>c|"G" Bd "A" ce|"D" d2:|
+%
+P:B
+T:Gullane
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"D" d>B AF|A2 A2|"E7" B/2c/2d/2B/2 AF|"A" E2 E2|
+"D" d>B AF|Ad f>e|"G" dB "A" AF|"D" D2 D2:|
+|:"D" fd fa|"A" eg "D" fe|"D" fd fa|"E7" f2 "A" f>e|
+"D" fd fa|"A" eg "D" f>e|"G" dB "A" AF|"D" D2 D2:|
+%
+P:C
+T:Chassepain
+K:Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"D" d>A Ad |"C" cB AB |"Am7" E>F GB |AE "D"FD |
+"D" d>A Ad |"C" cB AB |"Am7" E>F GA |B^c "D" d2 :|
+|:"Em" BG E(d|"G" d)B G(e|"A"e)^c AB |^cd cA |
+"Em" BG E(d|"G" d)B G(e|"A" e)^c AF |"(D)" GA FD :|
+%
+%%newpage
+%
+P:D
+T:Captain Bing
+K:Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"G" g>f gd| BG GA/2B/2|"Am" cA a>g |"D/F#" fd ef|
+"G" g>f gd |BG GA/2B/2|"Am" cA "D" dF |"G" G2 G>d:|
+|:"G" BG dG | BG GA/2B/2|"Am" cA eA|"D/F#" cA A>c|
+"G" BG dG |BG GA/2B/2|"Am" c/2B/2A "D" dF |"G" G2GA:|
+%
+P:E
+T:Paddy's
+K:Amaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"A" E2 A>B|ce c2|"G/A" BA cB|BA FA|
+"F#m7" E>F AB|ce c2|"Dm/F" BA cB|1 "A/E" A2 AF:|2 "A" AB ce||
+|:"A" aa f/2g/2a/2f/2|ec e2|"G/A" A>B cB|BA FA|
+"F#m7" E>F AB|ce c2|"Dm/F" BA cB|1 "A/E" AB ce:|2 "A" A2 AF||

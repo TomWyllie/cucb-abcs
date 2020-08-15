@@ -1,0 +1,108 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Jigs 4
+R:jig
+L:1/8
+M:6/8
+Q:1/4=180
+P:A2B2C2D2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Muckin' o' Geordie's Byre
+B \
+|: "D"ABA AFA | \
+"D"d2e f2a | \
+"G"g2e "D"f2d | \
+"A"e2d "G"Bcd | 
+"D"ABA AFA | \
+"D"d2e f2a | \
+"A7"afd efe |1 \
+"D"d3- d2B :|2 \
+"D"d3- def |
+|: "G"gag gag | \
+"D"fgf fgf | \
+"A"ede efg | \
+"G"fed B2d | 
+"D"ABA AFA | \
+"D"d2e f2a | \
+"A7"afd efe |1 \
+"D"d3- def :|2 \
+"D"d3- d |]
+P:B
+T:The Midlothian Pipe Band
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+GA \
+|: "G"B2D DED | \
+"C"E2G G2e | \
+"G"d2B BAG | \
+"D"B2A ABc | 
+"G"B2D DED | \
+"C"E2G G2e | \
+"G"d2B "D"ABA |1 \
+"G"G3- GGA :|2 \
+"G"G3- GBc |
+|:"G"d2d dBd | \
+"C"e2g gfe | \
+"G"d2B BAG | \
+"D"B2A ABc | 
+"G"d2d def | \
+"C"g2g gfe | \
+"G"d2B "D"ABA |1 \
+"G"G3- GBc :|2 \
+"G"G3- G |]
+%%newpage
+P:C
+T:Kenmuir's Up an' Awa'
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+cB \
+|: "A"Ace aec | \
+"A"efe e2c | \
+"A"Ace aec | \
+"E"BcB BcB | 
+"A"Ace aec | \
+"D"efg agf | \
+"A"edc "E"dcB |1 \
+"A"ABA AcB :|2 \
+"A"ABA Afg |
+|: "A"a2e fec | \
+"A"efe efg | \
+"A"a2e fec | \
+"E"BcB Bfg | 
+"A"a2e fec | \
+"D"efg agf | \
+"A"edc "E"dcB |1 \
+"A"ABA Afg :|2 \
+"A"ABA A |]
+P:D
+T:Irish Washerwoman
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+dc \
+|: "G"BGG DGG | \
+"G"BGB dcB | \
+"Am"cAA EAA | \
+"Am"cBc edc | 
+"G"BGG DGG | \
+"G"BGB dcB | \
+"C"cBc "D"Adc |1 \
+"G"BGG Gdc :|2 \
+"G"BGG G2g |
+|: "G"gdg gdg | \
+"G"gdg bag | \
+"D"fdf fdf | \
+"D"fdf agf | 
+"C"egg "G"dgg | \
+"C"cgg "G"Bgg | \
+"C"cBc "D"Adc |1 \
+"G"BGG G2g :|2 \
+"G"BGG G2 |]

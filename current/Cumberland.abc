@@ -1,0 +1,46 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Cumberland Set
+M:6/8
+L:1/8
+R:jig
+Q:1/4=180
+P:A2BC2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Cumberland Reel
+|: A| "D"f2 e d2 c | "G"d2 B "D"A2 F | "A"GFG EFG | "D"F2 G A2 A| "G"B2 G d2 B|
+"D/F#"A2 F d2 d| "A"cde ABc | "D"d3 d2 :| e | "D"f2 f f2 e | "D"f2 f f2 e |
+"D"f2 f g2 f | "A"e2 e e2 c | "Bm"d2 d d2c | "Bm"d2 d d2 c | "Bm"d2 B "E7"e2 d| "A"c2 B "A7"ABc|
+"D"d2 d cBA| "G"B2 c "D"d2 A| "D"ded cBA| "G"B2 c "D"d2 f |
+"A"e2 e e2 e | "A"e2 e efg | "A7"a2 a ABc | "D"d3 d||
+P:B
+T:Cock o' the North
+N:Play once only
+%%text Play once only
+|: e | "A"cAc "E"B2 A | "A"Ace "D"f2 e | "A"cAc cBA | "G"B3 B2 e | "A"cAc "E"B2 A |
+"A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 :| g | "A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e |
+"A"cAc cBA | "G"B3 B2 g | "A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g |
+"A/C#"a2e "D"f2 e | "A/C#"a2e "G"f2 e | "A"cAc cBA | "G"B3 Bcd | "A"efe c2 A |
+"A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 |:e | "A"c2 c cBA | "A"c2 e "D"f2 e |
+"A"c2 c cBA | "Em".B z z e2 d| "A"c2 c cBA| "A"c2 e "D"f2 e| "A"cAc "G"B2 G| "A"A3 A2 :|
+%%newpage
+g | "A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e | "A/C#"cAc cBA | "E7/B"B3 B2 g | "A/C#"aee "D"f2 e |
+"A/C#"aee "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g | "A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e |
+"A"cAc cBA | "G"B3 Bcd | "A"efe c2 A| "A"Ace "D"f2 e| "A"cAc "G"B2 G | "A"A3 A2||
+P:C
+T:Atholl Highlanders
+K:A
+|:"A"e3 ecA| "A"ecA "E7/G#"Bcd| "A"e3 ecA| "E"Bcd "A"cBA|
+"A"e3 ecA | "A"ecA "E"Bcd | "A"eae "D"fed | "E"cdB "A"A3 :|
+|:"A"Ace Ace | "D"Adf Adf | "A/E"Ace Ace | "E"Bcd cBA |
+"A"Ace Ace | "D"Adf Adf | "A"eae "D"fed | "E"cdB "A"A3 :|
+|:e| "A/C#"aee edc | "A/C#"aee edc | "A/C#"aee edc | "E7/B"Bcd cBA |
+"A/C#"aee edc | "A/C#"aee edc | "A/C#"aee fed | "E7/B"cdB "A/C#"A3 :|
+|: "A"B | "A"cAc cAc | "Bm"dBd dBd | "A"cAc cAc | "G"B=GB BGB |
+"A"cAc cAc | "Bm"dBd dBd | "A"eae "D"fed | "E"cdB "A"A2 :|

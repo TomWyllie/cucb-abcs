@@ -1,0 +1,50 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.7
+X: 1
+T:Irish Jigs
+R:jig
+L:1/8
+M:6/8
+Q:1/4=180
+P:A2BKBC2D2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Lark in the Morning (play once only)
+N:Play once only
+%%text Play once only
+|: "D"AFA AFA | "G"BGB BdB | "D"AFA Ade | "Bm"fed "G"BdB |
+"D"AFA AFA | "G"BGB BdB | "D"def "A"afe | "Bm"fdB BAB :|
+|: "D"def afa | "G"bab "D"afe | "D"def "A"afe | "Bm"fdB "G"BAB |
+"D"def afa | "G"bab "D"a2f | "Em"gfg "D"fgf | "Bm"edB BAB :|
+|: "D"d2f fef | "D"fef fef | "D"def fef | "Bm"edB "G"BAB |
+"D"d2f fef | "D"fef fef | "G"gfg "D"fgf | "Bm"edB BAB :|
+|: "D"Add fdd | "D"edd feB | "D"Add fdd | "Bm"edB "G"BAB |
+"D"Add fdd | "A"ede "D"fef | "G"gfg "D"fgf |1 "Bm"edB BAB :|2 "Bm"edB Bz2 |]
+%%newpage
+P:B
+T:The Lilting Banshee
+K:ADor
+|: "Am"EAA EAA | "G"BAB G2A | "Em"Bee edB | "D"def "G"gfg |
+"Am"eAA eAA | "G"BAB G2A | "Em"Bee edB |1 "G"dBA "Am"A2G :|2 "G"dBA "Am"A2 |
+|: g | "Am"eaa age | "G"dBA G2A | "Em"Bee edB | "D"def "G"gfg |
+"Am"eaa age | "G"dBA G2A | "Em"Bee edB | "G"dBA "Am"A2 :| \
+[P:K] \
+"^End of\nfirst time""<("">)" G |]
+P:C
+T:The Connaught Man's Rambles
+K:D
+|: A | "D"FAA dAA | "G"BAB dAG | "D"FAA dfe | "G"dBB B2A |
+"D"FAA dAA | "G"BAB def | "Em"gfe "Bm"dfe | "G"dBB B2 :|
+|: e | "Bm"fbb faa | "Bm"fef def | "Bm"fbb faa | "Bm"fed "A"e2e |
+"Bm"fbb faa | "D"fef def | "Em"gfe "Bm"dfe | "G"dBB B2 :|
+P:D
+T:The Kesh
+K:G
+|: D | "G"G3 GAB | "D"ABA ABd | "C"edd gdd | "D"edB dBA |
+"G"GAG GAB | "D"ABA ABd | "C"edd "G"gdB | "D"AGF "G"G2 :|
+|: A | "G"BAB dBd | "C"e/2f/2ge dBG | "G"BAB dBG | "Am"ABA "D"AGA |
+"G"BAB dBd | "C"e/2f/2ge dBd | "C"gfg "D"aga | "G"bgg g2 :|

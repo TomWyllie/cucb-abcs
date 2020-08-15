@@ -1,0 +1,34 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.7
+X:1
+T:Morning Star, The
+R:hornpipe
+M:4/4
+L:1/8
+Q:1/4=140
+P:A2B2C2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Morning Star
+GA |: "G" B2 BA "Em" BGEF | "G" GABd "C" efed|"G" B2BA "Em" BGEF| "G" GB"D"AF "G" G2GA|
+"G" B2BA "Em" BGEF | "G" GABd "C" efed|"G" B2 BA "Em" BGEF| "G" GB"D"AF "G" G2GA:|
+|: "G" Bdef "C" g2 eg| "D" f2df "Em" edBA | "G" Bdef "C" g2fg| "D" agfg "Em" e2ed|
+"G" Bdef "C" g2eg| "D" f2df "C" edBA|"G" Bddc "D" d2ef|1 "C" geaf "G" edBA:|2 "C" geaf "G" g2|
+P:B
+T:Pibddawns Gwyr Wrecsam
+K:G
+|: dc | "G" B2 g2 gdBG | "C" c2 e2 e2 ge | "G" dBdB "C" edcB | "D" ABcA GFED|
+"G" G2 g2 gdBG | "C" c2 e2 e2 g2 | "G" dBdB "D" ecAF | "G" G2 G2 G2 :|
+|: dc | "G" BGBG B2 d2 | "C" ecec e2 g2 | "G" dBdB "C" edcB | "D" ABcA GFED |
+"G" BGBG B2 d2 | "C" ecec e2 g2 | "G" dBdB "D" ecAF | "G" G2 G2 G2 :| 
+P:C
+T:Time Will End
+K:G
+|:"G" G2 gf "C" e3e-| "C" edBd "D" A2GA | "G" BAGF "Em" EDEF | "G" GGAB "D" AGAB |
+"G" G2 gf "C" e3e-| "C"edBd "D"A2 GA | "G" BAGF "Em" EDEF| "G"GB"D"AF "G" G2 GA:|
+|: "G" BAGF "Em" E2 ED | "C" E2 ED "D" EFGA | "G" BAGF "Em" E3E- | "Em"EFGB "A" A3A- |
+"Am" ABAG "C" E2 ED | "Em" E2 ED "D" EFGA | "G" G2 gf "C"(3efg dc| "D" BdBA "G" G2 GA:|

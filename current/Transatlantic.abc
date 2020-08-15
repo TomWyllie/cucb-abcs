@@ -1,0 +1,47 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Transatlantic Reels
+C:Aly Bain (Sophie's Dancing Feet)
+C:Paul Cranford (Union Street Session)
+C:Jerry Holland (Brenda Stubbert's)
+C:Willie Hunter (Cape Breton Fiddlers' Welcome to the Shetland Isles)
+M:4/4
+L:1/8
+Q:1/4=200
+P:A2B2C2D2
+R:reel
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Sophie's Dancing Feet
+|:"D"FGAF "G"GABG|"D"FAdf afdf|"G"gabg "Em"efge|"A"cdec ABAG|
+"D"FGAF "G"GABG|"D"FAdf afdf|"G"gabg "Em"efge|1 "A"cABc "D"d2AG:|2 "A"cABc "D"d2cd||
+|:"A"eA A/2A/2A eAgA|"D"fA A/2A/2A fAaA|"G"gfeg "D"fedf|"A"efgf edcd|
+"A"eA A/2A/2A eAgA|"D"fA A/2A/2A fAaA|"G"bagf "Em"gfed|1 "A"cABc "D"d2cd:|2 "A"cABc "D"d2AG||"_last time" "A"cABc "D"d2AA ||
+P:B
+T:Union Street Session
+K:Dmaj
+|: "D" d2AG F2DF| "A" EA, A,/2A,/2A, GFED| "Bm" F2AF "G" GABd| "A" AE E/2E/2E cdec|
+"D" d2AG F2 DF| "A" EA, A,/2A,/2A, GFED| "Bm" F2AF "G" GABd| "A" AE E/2E/2E "D" FDDc:|
+|: "Bm" d2fd "G" gdfa| "A" eA A/2A/2A cdec| "D" d2fd "Em" g2fg|"A" aeeg "D" f2ec|
+"Bm" d2fd "G" gd fa| "A" eA A/2A/2A cdeg| "D" f2ed "Em" e2cd|1 "A" e2dc "G" d2Ac:|2 "A" e2dc "G" d2dc||"_last time" "A" e2dc "D" d2dB ||
+%%newpage%%
+P:C
+T:Brenda Stubbert's
+K:Ador
+|:"Am" A/2A/2A (BA) GAAB|"F" A/2A/2A (BA) "D"edde|"G"G2 (BA) BGGB| "Em"c2 (BA) BGGB|
+"Am"A/2A/2A (BA) GAAB|"F"A/2A/2A (BA) "D"edda|"G"gedB GABd|"Em"{d}e2 dB "Am"eAAB:|
+|:"N"A/2A/2A "F"a2 "N"A/2A/2A "F"g2| "N"Aa"F"ge "C"ageg|"G"G2 (BA) BGGB|"Em" c2 (BA) BGGB|
+ [1"N"A/2A/2A "F"a2 "N"A/2A/2A "F"g2| "N"Aa"F"ge "C"agea| "G"gedB GABd|"Em"{B}e2 dB "Am"eAAB:|
+ [2"Am"A/2A/2A (BA) GAAB|"F"A/2A/2A (BA) "D"edda| "G"gedB GABd|"Em"{d}e2 dB "Am"eAAB|]
+P:D
+T:Cape Breton Fiddlers' Welcome to the Shetland Isles
+K:A
+|: "A"AFEF ECB,C | "A"A,B,CE FECE | "Bm"FBBA BcBA | "E"Bffe "E7"f2ef |
+"A"ac (3ccc eA (3AAA | "A"cBAF ECCE | "D"FGAF "A"Eaaf |1 "E"ecBc "A"A2AG :|2 "E"ecBc "A"A2 "E7/G#"fg||
+|: "A"ae (3eee efed | "A"ce (3eee fece | "Bm"bffe fgfe | "Bm"defd "E"B2 "E7"(3efg |
+"A"ae (3eee efed | "A"ce (3eee fece | "D"fd"E"ge "A"afed |1 "E"cdBc "A"A2fg :|2 "E"cdBc "A"A4|]

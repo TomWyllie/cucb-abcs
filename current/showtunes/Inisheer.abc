@@ -1,0 +1,30 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.8
+X:1
+T:Inisheer
+C:Thomas Walsh (Inisheer)
+L:1/8
+M:3/4
+Q:1/4=120
+P:AB
+R:air
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+T:Inisheer
+P:A 
+A Bd |:"G"B3A Bd |"Em" B3A Bd |"C" E3B AB |"D" D3B AG | 
+"G"B3A Bd |"Em" B3A Bd |"C" G3B A/2G/2F |1 "D"G3E DG :|2 "G"G3A Bd ||
+|:"C"e3f ed |"Em" B3A Bd |"Am7" ef ed "G/B"B/2c/2d | "C"e3A "G/B"Bd |
+"C" e3f ed | "Em"B3A Bd |"C" G3B A/2G/2F | [1"G"G3A Bd :| [2"G" G6 ||
+T:Slow Air
+K:Dmaj
+P:B
+|: FE | "D" D3 E FA | "A" E4 FE | "Bm" D2 d2 c2 | "G" B3 B dB | "D" AG FD AF | 
+"E7" E4 DE | "G" F2 F G2 F | "A"E4 FE | "D" D3 E FA | "A" E4 FE | 
+"Bm" D2 d2 c2 | "G" B3 B AG | "D" FG A2 F2 | "A" E4-ED | "D" D6 - |D2 z2 :|
+|: fg | "D" a3 d f2 | "A" e3 e dc | "F#m" d2 c2 A2 | "G" B3 B AG | "D" FA d2 f2 | 
+"A" e4 dc | "Bm" Bd f2 b2 | "F#m" a4 fe | "D" a3 d f2 | "A" e3 e dc | 
+"F#m" d2 c2 A2 | "G" B4 AG |"D" FG A2 F2 | "A7" E4-ED | "D" D6 - |D2 z2 :|

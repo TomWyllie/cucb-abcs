@@ -1,0 +1,45 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Mostly Irish Reels
+C:Sean Ryan (The Road To Rio)
+C:Ian Burns (Spootiskerry)
+R:reel
+M:4/4
+L:1/8
+Q:1/4=200
+P:A2B2C2D2
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Salamanca, The
+|:dB|"D"ADED ADED|"D/F#"Adcd fedc|"Em"BE (3EEE BE (3EEE|"A"Beed cdeg|
+"Bm"fB (3BBB fB (3BBB|"F#m"fdec dfag|"G"fgef "Em"dBAG|"A"FGEF "D"D2:|
+|:fg|"D"afdg "Em7"bgeg|"D/F#"fdec dcBc|"G"Addc defg|"Em"a2gb "A"a2fg|
+"D"a3f "Em7"g3e|"D/F#"f3e dfag|"F#m"fgef "G"dBAG|"A"FGEF "D"D2:|
+P:B
+T:The Silver Spire
+K:Dmaj
+|:FE|"D"D2FE DFAc|"D"dcde fdAF|"G"G2BG "D/F#"FADF|"Em"GFED "A"CEA,C|
+"D"D2FE DFAc|"D"dcde fdAF|"G"GABG "D"FEDF|"A"EDCE "D"D2:|
+|:CB,|"A/E"A,B,CD EFGE|"Bm/F#"FDEF GABc|"G"dBBA Bcde|f2gf "A"e2 (3ABc|
+"D"d2fd "A/C#"c2ec|"Bm"B3d "F#m"BAFA|"G"G2BG "D"FGAF|"A"EDCE "D"D2:|
+%%newpage
+P:C
+T:The Road To Rio
+K:Gmaj
+|:GE|"G"DEGA BABd|"Em"eg~g2 agef|"C/G"gede "G"gedB|"D/F#"AcBA "C/G"GEE2|
+"G"DEGA "B7"BABd|"Em"egg2 agef|"C/G"gede "G"gedB|"D/F#"cABA "G"G2:|
+|:Bc|"G"dg~g2 bgg2|"G/F#"bgag edBd|"Em"eBB2 GABd|"Em"e2dB "C"AGEG|
+"G"DEGA "G(B7)" BABd|"Em"egg2 agef|"C/G"gede "G"gedB|"D/F#"cABA "G"G2:|"_last time" DE ||
+P:D
+T:Spootiskerry
+K:Gmaj
+|: "G"G2 DE GDEG | DEGA B2 AB | "C"G2 DE GABd |"D/F#"eged B2 AB |
+"G" G2 DE GDEG | "Em"DEGA B2 AB | "C"g2 ed edBA | B2 "D/F#"G2 "G"G2 ef :|
+|: "Em" g2 ed ed B2 | "Bm" BABG E2 DE | "C" GABd eged | "D"B2 A2 A2 ef |
+ [1 "Em" g2 ed ed B2 | "Bm" BABG E2 DE | "C" GABd eged | B2 "D/F#" G2 "G" G2 ef :|
+ [2 "G" G2 DE GDEG | DEGA B2 AB | "C" g2 ed edBA |B2 "D/F#" G2 "G" G4|]

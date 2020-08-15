@@ -1,0 +1,30 @@
+%%header "$T		Page $P of 1"
+%%printparts 0
+%%printtempo 0
+%%scale 0.70
+X: 1
+T:Canadian Barn Dance
+C:John McColl
+R:schottische
+L:1/16
+M:2/4
+Q:1/4=100
+P:A2
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:John MacFadyen of Melfort
+|: "\n(Capo 2)"va>f |"A \n(G)"e2>A2 e>dc>B | "B7 \n(A7)"A>a (g<a) (f<a)e>c | "D \n(C)"A>AA>B (c<e)f>e | "E \n(D)"c2B2 B2a>f |
+"A \n(G)"e2>A2 e>dc>B | "B7 \n(E7)"A>a (g<a) (f<a)"A \n(G)"e>c | "D \n(C)"A>AA>c B>cf>e | "A \n(G)"({d}c2A2) {A}A2 :|
+%
+|: (c>d) | "F#m \n(Em)"e>fe>c A2a>g | "D \n(C)"(f<a)f>e d2(c>d) | "A \n(G)"e>fe>c A>cf>e | {d}"E \n(D)"c2B2 B2(c>d) |
+ [1 "F#m \n(Em)"e>fe>c A2a>g | "D \n(C)"(f<a)f>e d2(c>d) | "A \n(G)"e>Ad>c "E \n(D)"B>cf>e | "A \n(G)" ({d}c2A2) {A}A2 :|
+ [2 "A \n(G)"(c<e)(d<f) "A/G \n(G/F)"(c<e)(B>c) | "B7 \n(A7)"A>a (g<a) (f<a)e>c | "D \n(C)"A>AA>c "E \n(D)"B>cf>e | "A \n(G)"({d}c2A2) {A}A2 |
+%
+|: e2 | "A \n(G)"A2(c<e) A2c2 | "G/A \n(F/G)"e>Aa>e f>e (c<A) | "D \n(C)"e>c (B<c) A>cf>e | "E \n(D)"{d}c2B2 B2a2 |
+"A \n(G)"A2(c<e) A2c2 | "G/A \n(F/G)"e>Aa>e f>e (c<A) | "D \n(C)"(c<e)A>c "E \n(D)"B>cf>e | "A \n(G)"({d}c2A2) {A}A2 :|
+%
+|: uf>g | "A \n(G)"a>e (c<e) A>c (B<c) | "B7 \n(A7)"e>Aa>e f>e (c<A) | "D \n(C)"a>e (c<e) A>cf>e |
+ [1 {d}"E \n(D)"c2B2 B2 (f>g) | "A \n(G)"a>e (c<e) A>c (B<c) | "B7 \n(A7)"e>Aa>e f>e (c<A) | "D \n(C)"(c<e)A>c B>cf>e | "A \n(G)"({d}c2A2) {A}A2 :|
+ [2 {d}"E \n(D)"c2B2 B2 (c>d) | "A \n(G)"(c>e)(d>f) (c>e)(B>c) | "B7 \n(A7)"A>a (g>a) (f>a)e>c | "D \n(C)"A>AA>c "E \n(D)"B>cf>e | "A \n(G)"({d}c2A2) {A}A2 |]

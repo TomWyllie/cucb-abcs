@@ -1,0 +1,129 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.75
+X: 1
+T:Northumbrian Waltzes
+C:Achie Dagg (Elsey's Waltz)
+C:Jack Armstrong (Rothbury Hills)
+R:waltz
+M:3/4
+L:1/4
+Q:1/4=100
+P:A2B2C2
+%%scale 0.72
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:Sweet Hesleyside
+d | \
+"G"g2 d| \
+"G"B3/2A/2G | \
+"D"f2 e| \
+"C"c2B/2c/2 | \
+"G"d3/2^c/2d| \
+"D"edc | \
+"G"B3-| \
+"D7"B2d |
+"G"g2d| \
+"G"B>AG | \
+"D"f2e| \
+"C"c2B/2c/2 | \
+"G"d>^cd| \
+"D7/F#"edF | \
+"G"G3-| \
+G2 G |
+"C"c2 c| \
+"G"B2 B | \
+"D"A>Bc| \
+"G"B2 B | \
+"A"A2 A| \
+"A7/G"B2 ^c | \
+"D/F#"d3-| \
+"D7"d2d |
+"G"g2d| \
+"G"B>A G | \
+"D"f2 e| \
+"C"c2 B/2c/2 | \
+"G"d>^c d| \
+"D"fef | \
+"G"g3-| \
+g2 |]
+P:B
+T:Elsey's Waltz
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+A/2G/2 | \
+"D"F>E F| \
+"D"DFA | \
+"G"BGd | \
+"A"A2g | \
+"D"f>e d| \
+"D"dcd | \
+"D"dAf | \
+"A7"e2 A/2G/2 |
+"D"F>E F/2E/2| \
+"D"DFA | \
+"G"BGd | \
+"A7/E"A2 g | \
+"D"f>e d| \
+"A7"ABc | \
+"D"d3| \
+"D"d2 A |
+"D"f>g f/2e/2| \
+"D"def | \
+"G"gBg | \
+"D/F#"f2A | \
+"D"f>g f/2e/2| \
+"D"dcd | \
+"D"dA"Bm"f| \
+"A7"e2 A/2G/2 |
+"D"F>E F/2E/2| \
+"D"DFA | \
+"G"BGd | \
+"A7/E"A2g | \
+"G"f>e d| \
+"A"ABc | \
+"D"d3| \
+"D"d2 |]
+P:C
+T:Rothbury Hills
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+d | \
+"G"g>f g | \
+"G"d>B G | \
+"C"A>B A | \
+"D"F2 D | \
+"G"G2 B/2>c/2 | \
+"G"d2 g | \
+"A7/G"f>a f | \
+"D"d2 "G"B |
+"C"c>e c| \
+"G"BAG | \
+"C"E2 c/2>B/2| \
+"D"A2 B/2c/2 | \
+"G"d>B G| \
+"D"AdF | \
+"G"G3| \
+"G"G2 d |
+"C"e>c e| \
+"C"g>f e | \
+"G"dDG| \
+"Em"B2 d/2>^c/2 | \
+"D7"c>B c| \
+"D7"DEF | \
+"G"G2 B/2>c/2 | \
+"D7/F#"d2 d |
+"G"g>f g| \
+"G"d>B G | \
+"C"A>B A| \
+"D"F2 D | \
+"C"E>c A| \
+"D"dfa | \
+"G"g3| \
+"G"g2 |]

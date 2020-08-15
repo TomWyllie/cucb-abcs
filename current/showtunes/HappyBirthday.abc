@@ -1,0 +1,30 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.75
+X: 1
+T:Happy Birthday
+L:1/4
+M:3/4
+R:air
+Q:1/4=140
+V:1 clef=treble
+V:2 clef=bass
+K:G
+%ALTO [V:1][K:clef=alto middle=c]
+%BASS [V:1][K:clef=bass middle=d]
+[V:1]z3 D/2D/2 | "G"dBG | "C"FE "Am"c/2c/2 | "G"BG "D7"A |
+w:**|***|****|***|
+[V:2]z4 | G,[DB,][DB,]| E,[G,C][A,C] | D,[G,B,][F,A,] |
+%
+[V:1] "G"G2 D/2D/2 | ED[B,G] | "D7"[C2F2] D/2D/2 |
+w:* Hap-py Bith-day to you, Hap-py
+[V:2] [D,2G,2B,2]z | G,[DB,][DB,] | F,[CD][CD] |
+%
+[V:1] [CE]D[CA] | "G"[B,2G2] D/2D/2 | [Bd][DB][DG] |
+w:Birth-day to you, Hap-py Birth-day dear
+[V:2] F,[CD][CD] | G,[DB,][DB,] | G,[DB,][=F,B,] |
+%
+[V:1] "C"[DF][CE] "Cm6"[_E/2c/2]c/2 | "G"[DB][DG] "D7"[CA] | "G"[B,3G3] |]
+w:\-\-\--\-\-\-, Hap-py Birth-day to you
+[V:2] E,[G,C][_E,C] | D,[G,B,][F,A,] | [D,3G,3B,3] |]

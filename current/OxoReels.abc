@@ -1,0 +1,89 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.78
+X: 1
+T:Oxo Reels
+R:polka
+M:2/4
+L:1/8
+Q:1/4=100
+P:A2B2C2D2
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:Quebec
+|: "A"A>B cc| \
+"D"dB "A"c2| \
+"A"cB "E"BA| \
+"A"cB "E7"BA|
+"A"A>B cc| \
+"D"dB "A"c2| \
+"A/E"cB "E"ee| \
+"A"A2 A2 :| \
+"D"f2 "A"e2| \
+"E"d2 "A"c2|
+"A"cB "E"BA| \
+"A"cB "E"BA| \
+"D"f2 "A"e2| \
+"E"d2 "A"c2| \
+"A/E"cB "E"ee|
+"A"A2 A2| \
+"D"f2 "A"e2| \
+"E"d2 "A"c2| \
+"A"cB "E"BA| \
+"A"cB "E"B"A"A|
+"D"fa "A"e>c| \
+"E"de "A"c2| \
+"E"cB ee| \
+"A"A2 A2 |]
+P:B
+T:Denis Murphy's Polka
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "D"f/2g/2f/2e/2 "G"d>B| \
+"D"AD FA| \
+"G"GE e>d| \
+"A"cB BA|
+"D"f/2g/2f/2e/2 "G"d>B| \
+"D"AD FA| \
+"A7"GE e>f|1 \
+"D"ed d2 :|2 \
+"D"ed d>B|
+|: "D"Af f/2e/2f| \
+"G"Ag g/2f/2g| \
+"D"Af f/2e/2d| \
+"A"e/2f/2e/2d/2 "A7"BA|
+"D"Af f/2e/2f| \
+"G"Ag g>a| \
+"A"ba gc |1 \
+"D"ed "G"d>B :|2 \
+"D"ed d2|]
+%%newpage
+P:C
+T:The £42 Cheque
+|: "D"AD "G"BD| \
+"D"A>G FD| \
+"Em"G/2F/2E BE| \
+"D"A>G FD|
+"D"AD "G"B=c/2B/2| \
+"D"AD FA| \
+"A7"GE A>G| \
+"D"FD D2 :|
+|: "D"de fe/2f/2| \
+"G"g>f ed| \
+"A"c/2B/2A eA| \
+"A7"e>d cA|
+"D"df fe/2f/2| \
+"G"g>f ed| \
+"A"c/2B/2A Bc| \
+"D"d2 d2 :|
+P:D
+T:John Ryan's Polka
+|: "D"dd ["" "^Solo 2nd time""G" B/2c/2d/2B/2| "D"AF AF ] | "D"dd ["" "G"B/2c/2d/2B/2| "D"AF "A"E"D"D ] |
+"D"dd ["" "G"B/2c/2d/2B/2| "D"AF A ] d/2e/2| "D"fd "A"ec| "D"d2 d2 :|
+|: "D"fd de/2f/2| "G"gf ed/2e/2| "D"fd Ad| "D"ff/2g/2 "A7"a>g|
+"D"fd de/2f/2| "G"gf "A"ed/2e/2| "D"fd "A"ec| "D"d2 d2 :|

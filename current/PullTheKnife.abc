@@ -1,0 +1,56 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T\t\tPage $P of 2"
+%%footer "2019/20"
+%%scale 0.75
+X:1
+T:Pull the Knife
+C:John Carty (Seanamhach Tube Station)
+R:jig
+L:1/8
+M:6/8
+Q:1/4=180
+P:A2B2JC2D2
+K:Ddor
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%chord for no 3rd (\ is an escape char for abcm2ps)
+%%MIDI chordname \ 0 7
+P:A
+T:Seanamhach Tubestation
+|: "D\ no 3rd"dcA A2c|"D\ no 3rd"dega3|"D\ no 3rd"age "G"gec|"C"dcA "G"G2A|
+"D no 3rd"dcAA2c|"D\ no 3rd"dega3| "A\ no 3rd"age ge^c|1 "G"d3d2e:|2"G"d3deg|]
+"F"a3age|"C"g3geg|"F"age "C"gec|"A\ no 3rd"dcA "G"G3|
+"F"a3age|"C"g3geg|"A\ no 3rd"age ge^c |"G"d3 deg|
+"F"a3age|"C"g3geg|"F"age "C"gec|"A\ no 3rd"dcA "G"G2A|
+"D no 3rd"dcA dcA|"D\ no 3rd"dcA dcA|"A\ no 3rd" age age|"G"d3d3|]
+P:B
+T:Pull the Knife and Stick it Again
+K:Bmin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Bm"~B3 dcB |"A"AFB AFA| "G"~B3 dcB | "A"efd edc |
+"Bm"~B3 dcB | "A"AFB ABc | "D"dcB "A"c2A| "Bm"FBB B3:|
+|: "Bm"baf fec| "F#m"BAF A2 a |"Bm"baf fec | "A"ef^g a3 |
+"Bm"baf fec | "F#m"BAF ABc | "D"dcB "A"c2A|1: "Bm"FBB B3:| \
+[P:J] \
+2:"^last time bar"FBB B2|
+%%newpage
+P:C
+T:Felix the Wrestler
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: e| "A"c2A ABA | "A"ecA AB=c| "G"B2=G GBG| "G"dB=G Bcd|
+"A"c2A ABA| "A"ecA ABc| "D"ded "E"Bcd | "E"ec"A"A A2:|
+|: d| "A"c2 a aga| "A"efe edc| "G"B2 =g gfg | "G"ded dcB|1
+"A"c2 a aga| "A"efe edc | "D"ded "E"Bcd |"A"ecA A2:|2
+"A"cBA "D"dcB | "A"edc "D"fed| "A"cBA "E"Bcd|"E"ec"A"A A2|]
+P:D
+T:Stool of Repentance
+g|:"A"a2e c2e|agf edc|"D"aff ~f2e|"E"fag f2e|
+"A"a2e c2e|agf edc|"D"d2e f2e|"D"fac "E"B2A:|
+|:"A"cAA eAA|cAA edc|"Bm"dBB fBB|dBB fed|
+"A/C#"cAA eAA|fag a2c|"D"d2e f2e|"E"fac B2A:|
+
+%%footer ""

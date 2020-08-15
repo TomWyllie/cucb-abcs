@@ -1,0 +1,49 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.71
+X: 1
+T:Dusty Windowsills
+C:John Harling (Dusty Windowsills)
+C:Tommy Peoples (The Wishing Well)
+L:1/8
+M:6/8
+P:A2B2C2
+Q:1/4=180
+R:jig 48
+K:Gmaj
+%ALTO K: Gmaj clef=alto middle=c
+%BASS K: Gmaj clef=bass middle=d
+P:A
+T:Katie's Fancy
+|: "G"DEF G2 A | Bgf "C"efg | "G"dBG FGA | BGB "D"AFE |
+"G"DEF G2 A | Bgf "C"efg | "G"dBG "D"FGA | BGF "G"G2 :|
+|: B/2d/2 | "Em"gfe agf | gfe "G"dBG | gfe "D"dcB | AGA "Em"BGE |
+"G"DEF G2 A | Bgf "C"efg | "G"dBG "D"FGA | BGF "G"G2:|
+|: B | "G"dgf gab | "C"eag "D"fed | "G"bag "D"agf | "G"gfe dBd |
+"C"ece gfe | "G"dBG DGB | "D"cAF DFA| BGF "G"G2 :|
+%
+P:B
+T:The Dusty Windowsills
+K:Ador
+%ALTO K: Ador clef=alto middle=c
+%BASS K: Ador clef=bass middle=d
+|: "Am"A2B cBA | eAB cBA | "G"GAG EGG | DGG EGG |
+"Am"A2B cBA | "Em"e2d efg | "Am"age "G"dBG | "Am"ABA A3 :|
+|: "Am"a3 age | dBd g3 | "G"gag gfe | dBA GAG |
+"Em"EGG DGG | "(F7 on repeats)"EGG ABc | "G"Bee dBG | "Am"ABA A3 :|
+|: "Am"A2A gAf | A2A gAf | "G"G2G eGd |G2G edB |
+"Am"A2A gAf | A2d "Em"efg | "G"age dBG | "Am"ABA A3 :|
+%%newpage
+%
+P:C
+T:The Wishing Well
+K:Dmaj
+%ALTO K: Dmaj clef=alto middle=c
+%BASS K: Dmaj clef=bass middle=d
+F|: "D"DFA d2e | "Bm"fdB BAF | "G"d2B BAF | B/2c/2dB BAF |
+"D"DFA d2e | "Bm"fdB BAF | "G"BAF dBA | "A"fac "D"d2 :|
+|: B | "D"Adf a3 | baf afd | "F#m"f2g afd | "Bm"Bdg "G"bge |
+"D"Adf a3 | baf afd | "G"b2a afd | "A"Ace "D"d2 :|
+|: e | "D"fdd "A"ceA | "D"d2g fdB | "A"c2B ceA | a3 bag |
+"D"f2d ecA | d2g fdA | "F#m"FAD "G"GBD | "A"Aec "D"d2 :|

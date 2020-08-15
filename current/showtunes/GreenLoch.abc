@@ -1,0 +1,34 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.75
+%%MIDI gchord fzczcz
+X: 1
+T:Green Loch
+C:Gary Coupland
+O:Edinburgh
+R:air
+L:1/4
+M:3/4
+Q:1/4=100
+P:AB2C
+K:Dm
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+%%text Guitar Intro: Arpeggios
+|: "Dsus2 \n(xx0230)"D/2A/2 d/2e/2 d/2A/2 | "(xx0560)" D/2c/2 f/2e/2 f/2c/2 :|
+P:B
+%%text Tune
+"\n(Capo 5)"|: "Dm \n(Am)"D>EF | "Am \n(Em)"dc A/2G/2 | "Dm \n(Am)"A/2D/2- "F \n(C)"D2 | "G \n(D)"dD2 |
+"Dm \n(Am)"D>EF | "Am \n(Em)" dc A/2c/2 | "G \n(D)"d3- |"Bb \n(F)"d2 d/2e/2 |
+"Dm \n(Am)"f>d e/2f/2 | "C \n(G)"ed>c | "Dm \n(Am)"d/2D/2- D d/2A/2 | "Am \n(Em)" cAG |
+"Dm \n(Am)"F>DD | "G \n(D)"=BAG | "Bb \n(F)"F3 | "Am \n(Em)"FEC :|
+|: "Dm \n(Am)"d>ef | "C \n(G)"ed>c | "Dm \n(Am)"d/2D/2- D d/2A/2 | "Am \n(Em)" cAG |
+"Dm\n(Am)"d>e f/2d/2 | "C \n(G)"edc | "G \n(D)"d3- |"Bb \n(F)"d2 d/2e/2 |
+"Dm \n(Am)"f>d e/2f/2 | "C \n(G)"edc | "Dm \n(Am)"d/2D/2- D d/2A/2 | "Am \n(Em)" cAG |
+"Dm \n(Am)"F>DD | "G \n(D)"=BAG | "Bb \n(F)"F3- | "Am \n(Em)"FEC :| \
+P:C \
+%%End
+%%MIDI gchord c6
+"Dm \n(Am)"D3 |]

@@ -1,0 +1,59 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Jigs 5
+P:A2B2C2D2
+R:jig
+C:Hammy Hamilton (The Kerfunten Jig, The Woodcock)
+C:Colin Farrell (The First Pint)
+M:6/8
+L:1/8
+R:jig
+Q:1/4=180
+K:Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+T:The Kerfunten Jig
+|:"G" B3 BAB|GBd "Em" efg|"C" d2 e edB|"D" ~A3 AGA|
+"G" ~B3 BAB|GBd "Em" efg|"C" d2 e edB|1 "D" ABA G2 A:|2 "D" ABA GBd|
+|:"G" g3 gab|"C" e3 ede|"Em" g3 gab|"D" bag aba|
+"G" g3 gab|"C" e3 ede|d2 g gdB|1 "D" ABA GBd:|2 "D" ABA "G" G2 A|]
+%
+P:B
+T:The First Pint
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "D" dAB "G" d2A | "D" Bdf e2d |"E7" ~B3 ede |"A" faa g2f |
+"D" dAB "G" d2A | "D" Bdf efd | "E7" ~B3 edB | "A" AFE DFA :|
+|: "G" ~B3 BAF |"F#7" ABc "Bm" d2B |"A" ~A3 AFE | EFA "Bm7" DFA |
+"G" ~B3 BAF | "F#7" ABc "Bm" d2c | "G" ~d3 dBA | "A" abg f2e :|
+%
+%%newpage
+%
+P:C
+T:The Tar Road To Sligo
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:e|"Bm" fdB Bcd|"A" ecA BAG|"D" FGA ABc|"G" dcd "A" efg|
+"Bm" fdB Bcd|"A" ecA BAG|"Bm" FGA "Em" Aag|"A" fdc "D" d2:|
+|:B|"D" Adf Adf|"A" gfg efg|"Bm" afd dcd|"G" Bed "A" cBA|
+ [1 "D" Adf Adf|"A" gfg efg|"Bm" afa "Em" bge|"A" edc "D" d2:|
+ [2 "D" fef "Em" gfg|"F#m7" ~a3 "G" bge|"A" ~a3 bge|edc "D" d2|]
+%
+P:D
+T:The Woodcock
+K:Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+B|:"G" dBG "Am7" cGE|"G" D[BB,]D ~G3|"Em" ~B3 dcB|"D" dcB ABc|
+"G" dBG "Am7" cGE|"G" D[BB,]D ~G3|"Em" ~B3 ded|1 "D" ABA "G" ~G3:|2 "D" ABA "G" G2B||
+"G" dBG "Am7" ecA|"C add9" ~f3 g2d|"Em" e/2f/2ge dBG|"D" dcB ABc|
+"G" dBG "Am7" ecA|"C add9" ~f3 g2d|"Em" e/2f/2ge dBG|"D" ABA "G" GBc|
+"G" dBG "Am7" ecA|"C add9" ~f3 g2g|"Em" e/2f/2ge dBG|"D" dcB ABc|
+"G" dBG "Am7" cGE|"G" D[BB,]D ~G3|"Em" ~B3 dcB|"D" AGF "G" ~G3|]

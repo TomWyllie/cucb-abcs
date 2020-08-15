@@ -1,0 +1,76 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T\t\tPage $P of 1"
+%%footer "2019/20"
+%%scale 0.85
+X:1
+T:Islay in da Mornin'
+R:reel
+L:1/8
+M:4/4
+P:ABC2B
+Q:1/4=240
+%%staves 1
+%%score 1
+K:Ador
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Intro
+V:1
+Aa-a^g a"Am"z"Stop"z2 | \
+Gg-gf g"G"z"Stop"z2 | \
+Aa-a^g a2ef | \
+"Em"gedB "Am"A4 |]
+V:2
+%% Voice 2 used to provide solo accompanment
+V:2
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+"^Accompaniment to Intro"
+z4 z[A,3=C3E3] | \
+z4 z[E,3G,3B,3] | \
+[A,8=C8E8] | \
+[E,4G,4B,4] [A,4=C4E4]|]
+P:B
+T:Sleep Soond in da Mornin
+|: "Am"A(a-a^g) a2(ef) | \
+"Em"gedB "G"GABG | \
+"Am"A(a-a^g) a2(ef) |1 \
+"Em"gedB "Am"A2(BG) :|2
+"Em"gedB "Am"A3B || \
+"Am"cAe(A cA)e(A | \
+"G"Bc)dB "Em"G3B | \
+"Am"cAe(A cA)e(A |
+"G"BA)GB "Am"A2(AB) | \
+"Am"cAe(A cA)e(A | \
+"G"Bc)dB "Em"G2(GB) | \
+"Am"ABcd "C"efga | \
+"Em"gedB "D"A4 |]
+P:C
+T:Islay Ranter's Reel no. 2
+|: "Am"EAAG ABcd| \
+"Am"e2ed eB"D7"Af| \
+"G"g2gf gABA| \
+"Em"GABG cA"G"BA|
+"Am"EAAG ABcd| \
+"Am"e2ed eB"D7"Af| \
+"G"g2gf "Em"gABA|1 \
+"Em"GABG "D"A4:|2 \
+"Em"GABG A4|
+%%MIDI gchord c8
+|:"Am"a3"^hold"b aged| \
+%%MIDI gchord z4fzcz
+"Am"eA (3AAA "Am/E"eA"D/F#"fA| \
+%%MIDI gchord c8
+"G"g2"^hold"gf gABA| \
+%%MIDI gchord z4fzcz
+GABG cABG|
+%%MIDI gchord fzczfzcz
+"A"^cA (3AAA cA"D"dA|\
+"A"eA (3AAA eA"D/F#"fA| \
+"G"g2gf gABA|1
+"Em"GABG A4:|2 \
+"Em"GABG "D"A4||"_Last Time""Em"GABG "Am"A4|]
+
+%%footer ""

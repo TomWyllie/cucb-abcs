@@ -1,0 +1,31 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.77
+X:1
+T:Rosza
+C:Undine Hornby (Rosza)
+C:Andy Cutting (Flatworld)
+L:1/8
+M:3/4
+Q:1/4=120
+P:A2B2
+R:waltz
+K:Dmin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Rosza 
+"\n(Capo 5)"BAF|: "Dm \n(Am)" D2DFAd | "Dm \n(Am)" f2fdAD | "Gm \n(Dm)" B2GABc | "Am \n(Em)" ABAGFE|
+"Dm \n(Am)" D2DFAd | "Dm \n(Am)" f2fdAd | "Gm \n(Dm)" B2GABc |1 "Am \n(Em)" A3BAF :|2  "Am \n(Em)" A4A2|
+"Bb \n(F)" B2def2 | "F \n(C)" A2def2 | "C \n(G)" efg2fe | "Dm \n(Am)" f2e2d2|
+"Bb \n(F)" B2def2 | "F \n(C)" A2def2 | "C \n(G)" efg2fe | "Dm \n(Am)" d3cBA |
+"Bb \n(F)" Bdefed | "F \n(C)" Adefed | "C \n(G)" efg2fe | "Dm \n(Am)" f2e2d2 |
+"Bb \n(F)" Bdefed | "F \n(C)" Adefed | "C \n(G)" efg2fe | "Dm \n(Am)" d3||
+P:B
+T:Flatworld
+K:Amin
+e de |: "Am \n(Em)"ce Be Ac | "F \n(C)"F2 AB cA | "Dm \n(Am)"f2 fe dc | "G \n(D)"B3 e de |
+"Am \n(Em)"ce Be Ae | "F \n(C)"F2 fe dc | "G \n(D)"B2 Bd cB |1 "Am \n(Em)"A3 e de :|2 "Am \n(Em)"A3 B cB |
+|: "Am \n(Em)"AB cA ag | "F \n(C)"f2 fe dc | "G \n(D)"Bc dB gf | "C \n(G)"e2 ed cB | "F \n(C)"AB cA fe |
+"Dm \n(Am)"d2 dc BA |1 "Bm7 \n(F#m7)"B2 Bd^cd | "E7 \n(B7)"B3 B cB :|2 "E7 \n(B7)"B2 BdcB | "Am \n(Em)"A3 |]

@@ -1,0 +1,103 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Jigs 3
+R:jig
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2B2C2D2
+K:G 
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:The Blackthorn Stick
+|: d| \
+"G"gfg "C"ege| \
+"G"dBG "C"AGE| \
+"G"DGG "D"FAA| \
+"Em"GBB "D7"A2d|
+"G"gfg "C"ege| \
+"G"dBG "C"AGE| \
+"G/D"DGG "D"AGA| \
+"G"BGG G2 :|
+|: d| \
+"C"edd "G/B"gdd| \
+"C"edd "G/B"gdd| \
+"C"edd "G/B"gfe| \
+"C"dcB "D"A2d|
+"G"gfg "C"age| \
+"G"dBG "C"AGE| \
+"G/D"DGG "D"AGA| \
+"G"BGG G2 :|
+P:B
+T:The Rakes of Kildare
+|: E| \
+"Am"EAA AGA| \
+"Am"ABd "D/F#"e2f| \
+"G"gfg ege| \
+"G"dBA "Em"G2E| \
+"Am"EAA AGA|
+"Am"ABd "D/F#"e2f| \
+"G"gfe "Em"dBG| \
+"Am"A3 A2 :| \
+a | \
+"Am"aea aea| \
+"Am"aea b2a|
+"G"gfg ege| \
+"G"dBA G2a| \
+"Am"aea aea| \
+"Am"aea b2a| \
+"G"gfe "Em"dBG|
+"Am"A3 A2a| \
+"Am"aea aea| \
+"Am"aea "D/F#"b2a| \
+"G"gbg ege|
+"G"dBA "Em"G2E| \
+"Am"EAA AGA| \
+"Am"ABd "D/F#"e2f| \
+"G"gfe "Em"dBG| \
+"Am"A3 A2 |]
+%%newpage
+P:C
+T:The Tenpenny Bit
+|: "Am"eAA eAA | \
+"G"BAB GBd | \
+"Am"eAA eAA | \
+"D"def "G"gfg |
+"Am"eAA eAA | \
+"G"BAB GBd | \
+"Em"edB "G"gBB | \
+"G"BAG "Am"A3 :|
+|: "Am"A2 a aga | \
+"G"bge dBG | \
+"Am"A2 a aga | \
+"Em"bge "G"g3 |
+"Am"A2 a aga | \
+"G"bge dBG | \
+"Em"edB "G"gBB | \
+"G"BAG "Am"A3 :|
+P:D
+T:Kenmuir's Up and Awa'
+D \
+|: "G"GBd gdB| \
+"G"ded "D7/F#"d2B| \
+"G"GBd gdB| \
+"D"ABA "D7"ABA|
+"G"GBd gdB| \
+"G"def "C"gfe| \
+"G"dcB "D"cBA|1 \
+"G"GAG G2D :|2 \
+"G"GAG GBd||
+|: "G"g2d edB| \
+"D7/F#"ded def| \
+"G"g2d edB| \
+"D"ABA Aef|
+"G"g2d edB| \
+"G"def "C"gfe| \
+"G"dcB "D"cBA|1 \
+"G"GAG Gd/2e/2f :|2 \
+"G"GAG G2 |]

@@ -1,0 +1,46 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Dance Above the Rainbow
+C: Joe Scurfield (Balls To Hall)
+C: John Spiers (Jiggery Pokerwork)
+C: Ronan Hardiman (Dance Above The Rainbow)
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2BCD2E2
+R:jig
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Hogmanay
+ G2 A |: "G" B2 B BcB | "G" A2 G G2 A | "G" B2 B BAG | "C" F2 E E3 | "D" F2 F FGF |
+"D" E2 D D3 |1 "D7" DFA d^cd | "D7" c2 B BGA :|]2 "D7" DFA cBA | "G" G3 G2 A ||
+|: "G" B2 B "D" A2 A | "C" G2 G "D"F2 F | "Em" E2 E EDE | "D" F3 D3 | "Am" c2 c "G" B2 B |
+"D" A2 A "C" G2 G |1 "D" F2 F EDE | "D7" D3 - DGA :|]2 "D7" FED DEF | "G" G3 |]
+P:B
+T:Balls To Hall
+K:Emin
+E2 F |: "Em" GEE AEE | "Em" BEE "Am" cBA | "Bm" B2 B BAG | "Bm" FGF DEF |
+"Em" GEE AEE | "Em" BEE "Am" cBA | "Bm" B2 B B2 A |1 "Em" GED E2 F:|2 "Em" GED E3||
+|:"E" B>ee e2 f | ^g2 g gfe | "A" ^c>aa a2 ^g | "B" f2 f fe^c | "E" B>BB e2 f |
+[1 "E" ^g3 g2 a| "E" bee "A" aee|"E" ^gag fe^c:|
+[2 "E" ^g3 g2 g| "D" aef dAB | "D" FEF DEF||
+%%newpage
+P:C
+T:Jiggery Pokerwork
+K:Emin
+|:"Em" E2 F GFE | "Em" B2 c "Am" A3 | "Am" A2 B "G" G2 B | "G" BAG "D" FGF |
+"Em" E2 F GFE |"Em" B2 c "Am" A3 |"Am" A2 B "G" G2 B | "D" BAF "Em" E3 :|
+|: "Em" B^AB GEB | "C" ^ABG EBA | "Em" BGE "C" cGE | "D" dAF "G" gdB |
+"Em" B^AB GEB | "C" ^ABG EBA | "D" =A3 d3 | "D" BAF "Em" E3 :| 
+P:E
+T:Dance Above The Rainbow
+K:D
+|: "D" DED DFA | "D" dcB A2 A | "G" Bcd "D" AFD | "A" EAA EAA |
+"D" DED DFA | "D" dcB A2 A | "G" BGd "A" cAe |[1 "D" d3 dAF :|[2 "D" d3 d2 e |
+|: "D" f2 f fef | "D" ABA def | "G" g2 g gfg | "G" BcB efg |
+"D" f2 f fef | "D" ABA dAd | "G" BGd "A" cAe |[1 "D" d3  d2 e:|[2 "D" d3 dAF |

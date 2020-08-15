@@ -1,0 +1,54 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.9
+X:1
+T:Knockdhu
+C:Ian Hardie (Knockdhu)
+C:John McCusker (Frank's)
+R:strathspey and reel
+M:4/4
+L:1/8
+Q:1/4=160
+P:A2B2C2
+K:Amin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+T:Captain Campbell
+K:Amin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"Am" E<A A>B c>A B>G|"G" D<G G>A B>d c/2B/2A/2G/2|"F" E<A A>B c>B c<e|"Em" d<B g>B "D(Am)" B<A A2:|
+"Am" A<a a>g e>d c<e|"G" d>e g>e d>B G<B|"F" A<a a>g e>d c<e|"Em" d<B g>B "D" B<A A2|
+"Am" A<a a>g e>d c<e|"G" d>e g>e d/2c/2B/2A/2 G<B|"F" c<A d<B e>d c<e|"Em" d<B g>B "Am" A2 A2|]
+%
+P:B
+Q:1/4=200
+T:Knockdhu
+K:Amin
+%ALTO K:clef=alto middle=C
+%BASS K:clef=bass middle=d
+|:"Am" A,2 ED CA,A,G,|"Am" A,CEG A2 E^F|"G" G2 BG cGBG|"G" DEGD EDB,G,|
+"Am" A,2 ED CA,A,G,|"Am" A,CEG A2 E^F|"G" G2 BG cGBG|1 "G" DEGG, B,A,A,G, :|2 "G" DEGA BAGB ||
+%ALTO K:clef=alto middle=c
+|:"F" A2 aA gAaA|"Am" e2 ed cAAB|"G" G2 BG cGBG|DEGA BAGB|
+"F" A2 aA gAaA|"Am" e2 ed cAAB|\
+%ALTO K:clef=alto middle=C
+"G" G2 BG cGBG|DEGG, B,A,A,[GG,]:|
+%
+%%newpage
+%
+P:C
+Q:1/4=200
+T:Frank's
+K:Amaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"A"Ac BA F2 AF|EF AB cA Bc |"D" d3 f eA ce |"F#m"(3fga ec "E"Bd cB |
+"A"Ac BA F2 AF|"A/C#"EF AB cA Bc |"D"d3 f eA cA |"E"BA GB "A"A2 (3EFG :|
+"F#m"aA Ag AA fA |"D"ef fe cA Bc |"Bm"d3 f eA BA |"E"Bc de fe fg |
+"F#m"aA Ag AA fA |"D"ef fe cA Bc |"Bm"df (3fff ec Ac |"E"BA GB "A"Ae fg |
+"F#m"aA Ag AA fA |"D"e f2 e cA Bc |"Bm"d3 f eA ce |fa ec "E"(3Bcd cB|
+"A"Ac BA F3 A |"A/C#"EF AB cA Bc |"D"d3 f eA cA |"E"BA GB "A"A4 |]

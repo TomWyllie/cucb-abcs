@@ -1,0 +1,67 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.73
+X: 1
+T:Auld Lang Syne
+C:Robert Burns (lyrics)
+R:air
+M:4/4
+L:1/4
+Q:1/4=120
+P:A5
+K:F
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+"^Verse\n(Capo 3)"C | "F \n(D)"F>E FA | "C7 \n(A7)"G>F GA/2>G/2 |
+w:1.~Should auld ac-quaint-ance be for-got, and_
+"F \n(D)"F>F AC | "Bb \n(G)"d3 d | "F \n(D)"c>A AF |
+w:nev-er brought to mind? Should auld ac-quaint-ance
+"C7 \n(A7)"G>F "A7 \n(F#7)"GA/2>G/2 | "Bb \n(G)"F>D "C7 \n(A7)"DC | "F \n(D)"F3 ||
+w:be for-got and_ days of Auld Lang Syne?
+"^Chorus"d | "F \n(D)"c>A AF | "C7 \n(A7)"G>F Gd | "F \n(D)"c>A Ac |
+w:For Auld,_ Lang_ Syne, my dear, For Auld,_ Lang_
+"Bb \n(G)"d3 f | "F \n(D)"c>A AF | "C7 \n(A7)"G>F "A7 \n(F#7)"GA/2>G/2 |
+w:Syne, We'll take a cup of kind-ness yet, For_
+"Bb \n(G)"F>D "C7 \n(A7)"DC | "F \n(D)"F3 |]
+w:Auld_ Lang_ Syne.
+%
+%
+W:
+W:2. We twa hae run a-bout the braes,
+W:And pu'd the gow-ans fine;
+W:But we've wan-der'd mony a wea-ry foot,
+W:Sin' auld lang syne.
+%
+W:
+W:Cho: For Auld Lang Syne, my dear,...
+%
+W:
+W:3. We twa hae paid-l't in the burn
+W:Frae morn-ing sun till dine;
+W:But seas be-tween us braid hae raor'd
+W:Sin' auld lang syne.
+%
+W:
+W:Cho: For Auld Lang Syne, my dear,...
+%
+W:
+W:4. And there's a hand, my turst-y friend,
+W:And gie's a hand o' thine;
+W:And we'll tak' a right gude willy-waught,
+W:For auld lang syne.
+%
+W:
+W:Cho: For Auld Lang Syne, my dear,...
+%
+W:
+W:5. And sure-ly ye'll be your pint stoup,
+W:And sure-ly I'll be mine!
+W:And we'll tak' a cup o' kind-ness yet,
+W:For auld lang syne.
+%
+W:
+W:Cho: For Auld Lang Syne, my dear,...
+
+

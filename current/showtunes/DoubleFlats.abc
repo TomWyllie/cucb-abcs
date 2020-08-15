@@ -1,0 +1,60 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Double Flats
+C:Mairearad Green (The First Rule Of Box Club)
+C:Liz Carroll (Old Maid of Galway)
+C:Bruce MacGregor (Helium Disciples)
+C:Angus R Grant (She's In The Attic)
+P:A2C2D2E2      
+L:1/8
+M:4/4
+Q:1/4=190
+R:reel
+K:Gmin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The First Rule Of Box Club
+K:Cdor
+%ALTO K:clef=alto middle=C
+%BASS K:clef=bass middle=d
+" \n(Capo 3)" |: "Cm  \n(Am)" ECB,C G,2 B,(C | C)EFE G2 FE | "Eb  \n(C)" G2 cG BGF(G | "F  \n(D)" G)EFG FECB, |
+"Cm \n(Am)" ECB,C G,2 B,(C | C)EFE "(Bb) \n((G))"G2 FE | "Ab \n(F)" G2 cG BGFG | [1 "Bb \n(G)" ECB,G, C2 CB, :| [2 "Bb \n(G)" ECB,G, C2 C/2C/2C |
+%ALTO K:clef=alto middle=c
+|: "Cm \n(Am)" G2 cG BGF(G | "Bb \n(G)" G)ccG dcBF | "Gm \n(Em)" G2 cG BGF(G | "F \n(D)" G)EFG FEFG | "Cm \n(Am)" G2 cG BGF(G |
+"Bb \n(G)" G)ccG d2 d/2d/2d | "Ab \n(F)" edc(d d)Bcd | [1 "Bb \n(G)" cBGF GFEF :| [2 "Bb \n(G)" cBGF ECB,G, || \
+[P:B] \
+"_last time" "Cm \n(Am)" cBGF ECB,A, ||
+P:C
+T:The Old Maid Of Galway
+K:Gmin
+%ALTO K:clef=alto middle=C
+%BASS K:clef=bass middle=d
+|: "Gm \n(Em)" GD (3DDD GDFD | CDB,C DG"F \n(D)"GF | "Gm \n(Em)" G3 G GDFD | "F \n(D)" CDB,C DGBA |
+"Gm \n(Em)" GD (3DDD GDFD | CDB,C DGGF | "Eb \n(C)" G3 A BAGF |1 "F \n(D)" (3CCC DF "Gm \n(Em)" G3 F :|2 "F \n(D)" (3CCC DF "Gm \n(Em)" G3 A |
+%ALTO K:clef=alto middle=c
+|: "Gm \n(Em)" B2 AB G3 A | B2 AG Ac "F \n(D)" (3ccc | "Gm \n(Em)" B2 AB G2 FD | "F \n(D)" C2 B,C DGGA |
+"Eb \n(C)" B2 AB G3 A | "Cm \n(Am)" B2 AG Ac (3ccc | "Dm \n(Bm)" cdcB G2 FD |1 "F \n(D)" C2 B,C "Gm \n(Em)"DGGA :|2 "F \n(D)" C2 B,C "Gm \n(Em)" DGG2 ||
+%%newpage%%
+P:D
+T:Helium Disciples
+K:Bbmaj
+%ALTO K:clef=alto middle=C
+%BASS K:clef=bass middle=d
+|: BA | "Bb \n(G)" B2 FD B,DFD | "Cm7 \n(Am7)" EB,EF G2 FE | "Bb \n(G)" DFBF dFBF | "Eb \n(C)" ABcB "F \n(D)" AFAc |
+"Gm7 \n(Em7)" BGFD B,DFD | "Eb \n(C)" EB,EF G2 FE | "Bb \n(G)" DFBF dFBF | "F \n(D)" ABcA "Eb \n(C)" B2 :|
+%ALTO K:clef=alto middle=c
+|: FE | "Bb \n(G)" DFBF dFBF | "Ab \n(F)" E2 BE cEBE | "Gm \n(Em)" D2 BD cDBD | "F \n(D)" ABcB AFAc |
+"Bb \n(G)" DFBF dFBF | "Ab \n(F)" E2 eE dEcE | "F \n(D)" ABcB AFAc | "F \n(D)" AFAc "Bb \n(G)" B2 :|
+P:E
+T:She's In The Attic
+K:Gmin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Gm \n(Em)" gGBA cBAG | "F \n(D)" FCDF CDFG | "Gm \n(Em)" gGBA cBAG | "Bb \n(G)" FGAB "C \n(A)" AG G2 |
+"Gm \n(Em)" gGBA cBAG | "F \n(D)" FCDF CDFG | "Gm \n(Em)" gGBA cBAG | "Bb \n(G)" FGAB "C \n(A)" AG G2 :|
+|: "Eb \n(C)" BGEG EGDG | "F \n(D)" CGDG EG^FG | "Eb \n(C)" BGEG EGDG | "F \n(D)" ^FGAB AG G2 |
+"Eb \n(C)" BGEG EGDG | "F \n(D)" CGDG EG^FG | "Eb \n(C)" BGEB GEBG | "F (D) \n(D (B))" ^FGAF "(Gm) \n((Em))" G4 :|

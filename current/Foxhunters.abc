@@ -1,0 +1,53 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Foxhunter's, The
+C:Mike McGoldrick (Farewell to Whalley Range)
+L:1/8
+M:9/8
+Q:1/4=180
+P:A2B2C2D2E2
+R:slip jig
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+T: The Foxhunter's
+K: Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"D" FDF F2D "G" G2E | "D" FDF F2D "A7" E2D | "D" FDF F2D "G" G2B | "D" AFD DEF "A7" E2D :|
+|: "Bm" B3 BAG FGA | "Em" B2E E2F G2B | "A" ABc dcB ABc | "D" d2 D D2 F E2 D :|
+|: "D" fdf f2d "G" g2e | "D" fdf f2d "A7" e2d | "D" fdf f2d "G" g2b | "D" afd def "A7" e2d :|
+|: "Em" gfe dcB "D" AGF | "Em" B2 E E2 F G2 B | "A" ABc dcB ABc | "D" d2 D DEF E2 D :| 
+P:B
+T: Cucanandy
+K: Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"G" B3 B2A G2A|"Em" B2d d2B d2e|"G" B3 B2A G2A|"Em" B2e efd e3:|
+"C" e2f g2f g2A|"G" B2d d2B d3|"C" e2f gfe dBA|"Em" B2e efd ~e3|
+"C" e2f g2f g2A|"G" B2d d2B d3|"Em" e2B B2A G2A|"Em" B2e efd e3|| 
+%%newpage
+P:C
+T: The Rabbit
+K: Gmaj
+|:"G"d2 B BAG "C"A2 B | "G"G2 B BAG "C"ABc | "G"d2 B BAG "C"A2 B | "D"G2 B AGF G3 :|
+"G"d2 B BAG A2 B |"Em" dee ede g2 a | "C"bag agf ged | "D"e/f/ge dBG A2z|
+"Am"d2 B BAG A2 B |"Bm" dee ede g2 a | "C"bag agf ged | "D"e/f/ge dBG ABc ||
+P:D
+T: Soggy's
+K: Amaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"A" E2E cEB "E" BAE|"F#m" F2F B2c AFE|"D" F2F B2A cef|"E" a2f ecB A3:|
+|:"D" D2D FGA AGF| "E" G2 G EGA BAG|"A" A2e dec eBe |"E" AGF EFG A3:|
+P:E
+T: Farewell to Whalley Range
+K: Amaj
+|:"F#m"F2c BAF F2E|"F#m"F2c BAc fec|"Esus4"~B3 BAB cBA|1"E"~B3 BAB cBA:|2~B3 BAB cef||
+"F#m"a3 fec fec|"E"B3 BAB cef|"D"a3 baf afe|"E"fec Bce fec|
+"F#m"a2f fec fec|"E"B3 BAB cef|"D"a3 baf afe|"E"fec fec BAB"(F#m)"||

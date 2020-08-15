@@ -1,0 +1,48 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Scottish Reels 1
+L:1/8
+M:4/4
+Q:1/4=200
+P:A2B2C2D2
+R:reel
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Lass o' Paties Mill
+|: uA2 | "D"GFED F2A2 | "D"d3e f2A2 | "G"Bcdc "D"BAGF | "E7"F4 "A7"uE2 uA2 |
+"D"GFED F2A2 | "D"d3e f2A2 | "E7"BcdB "A7"cdec | "D"d6 :|
+|:(ef) | "Em"gfed "A7"dcBA | "D"d3e f2A2 | "G"Bcdc "D"BAGF | "E7"F4 "A7"uE2 uA2 |
+"D"GFED F2A2 | "D"d3e f2A2 | "Em"BcdB "A7"cdec | "D"d6 :|
+P:B
+T:Jean Milligan
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: uE2 | "A"A2cB "A7"A2ce | "D"fefg a2(gf) | "A"e2c2 "F#m"dcBA | "B7"c2B2 "E7"B2(cB) |
+"A"A2cB "A7"A2ce | "D"fefg "D#dim"a2(gf) | "A/E"eagf "E7"edcB | "A"c2A2 A2 :|
+|: ue2 | "A"a2(ed) cBA2 | "D"(dc)de f3e | "A"a2e2 "F#7"efec | "Bm"d2B2 "E7"B2e2 |
+"A"a2(ed) "A7"cBA2 | "D"(dc)de f3d | "A"eagf "E7"edcB | "A"c2 "D"A2 "A"A2 :|
+%%newpage
+P:C
+T:Soldier's Joy
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: (FG) | "D"AFDF AFDF | "D"A2d2 "G"d2(cB) | "D"AFDF "Bm"AFDF | "Em"G2E2 "A7"E2(FG) |
+"D"AFDF AFDF | "D"A2d2 "G"d2(de) | "D"fafd "A7"egec | "D"d2 "G"d2 "D"d2 :|
+|: (de) | "D"f2f2 "B7"fagf | "Em"edcd "A7"efge | "D"f2f2 "B7"fagf | "Em"edcB "A7"A2(de) |
+"D"f2f2 "B7"fagf | "Em"edcd "A7"efge | "D"fafd "A7"egec | "D"d2 "G"d2 "D"d2 :|
+P:D
+T:The De'il amang the Tailors
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: ug2 | "A"a2eg a2eg| "A"a2(ea) "F#m"fedc | "Bm"dfBf dfBf | "Bm"dfba "E7"gefg |
+"A"a2eg a2eg | "A"a2(ea) "F#m"fedc | "D"defd "A"ecBA | "E7"E2G2 "A"A2 :|
+|:ue2 | "A"ceAe ceAe | "A"ceag "F#m"fedc | "Bm"dfBf dfBf | "Bm"dfba "E7"gfed |
+"A"ceAe ceAe | "A"ceag "F#m"fedc | "D"defd "A"ecBA | "E7"E2G2 "A"A2 :|

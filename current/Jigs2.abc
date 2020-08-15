@@ -1,0 +1,105 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Jigs 2
+R:jig
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2B2C2D2
+K:D 
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+%T:Roaring Jelly
+T:Smash the Windows
+|: A | \
+"D"DED F2 A | \
+"D"d2 f "A7"ecA | \
+"G"G2 B "D/F#"F2 A | \
+"Em"E2 F "A7"GFE |
+"D"DED F2 A | \
+"D"d2 f "A7"ecA | \
+"Em"Bgf "A7"edc | \
+"D"d3 d2 :|
+|: a | \
+"D"a2 f f2 d | \
+"D"A2 f "B7"agf | \
+"Em"g2 e e2 c | \
+"A7"A2 e gfe |
+"D"fed "Em"gfe | \
+"D/F#"agf "G"bag | \
+"D"fed "A7"edc | \
+"D"d3 d2 :|
+P:B
+T:The Corner House Jig
+|: B | \
+"D"Add dcd | \
+"D"fed A2 d | \
+"G"Bee edB | \
+"A"Bee cBA |
+"D"Add dcd | \
+"D"fed A2 d | \
+"G"Bdd "A7"cBc | \
+"D"d3 d2 :|
+|: A/2G/2 | \
+"D"FAA AFD | \
+"G"GBB BAG | \
+"A"Acc "A7/G"cBc | \
+"D/F#"dcd "G"BAG |
+"D"FAA AFD | \
+"G"GBB BAG | \
+"D"Add "A7"cBc | \
+"D"d3 d2 :|
+%%newpage
+P:C
+T:Humours of Glendart
+|: A | \
+"D"BAF ADD | \
+"D"FEF DFA | \
+"D"BAF "Bm"ADD | \
+"E7"FEE "A7"E2 A |
+"D"BAF ADD | \
+"D"FEF "D/F#"DFA | \
+"G"dcB "A"AFE | \
+"D"FDD D2 :|
+|: A | \
+"D"def d2 B | \
+"D"ABA AFA | \
+"D"def "Bm"d2 f | \
+"E7"efe "A7"edB |
+"D"def "G"edB | \
+"D"ABA "D/F#"AFA | \
+"G"dcB "A7"AFE | \
+"D"FDD D2 :|
+P:D
+T:The Point Road
+|: g/2f/2| \
+"A"eAA eAA | \
+"A7"geg gab | \
+"D"afd "G"g2 b | \
+"D"afd "G"g2 f |
+"A"eAA eAA | \
+"A7"geg gab | \
+"D"afd "A7"gfe |1 \
+"D"f2 d d2 :|2 \
+"D"f2 d dcB ||
+"D"A2 d dcd | \
+"D"fae fdB | \
+"A"Aaa ^ga=g | \
+"A"afg ecA |
+"Bm"Bff cfd | \
+"Bm"fge "D"fdB | \
+"A"Aaa ^gaf | \
+"A7"gec "D"d2 c |
+"Bm"Bff cfd | \
+"Bm"fge "D"fdB | \
+"A"A2 c BdB | \
+"A7"caf gec |
+"D/F#"Add dcd | \
+"D/F#"f/2g/2ae "G"fdB | \
+"A"Aaa ^gaf | \
+"A7"gec "D"d3 |

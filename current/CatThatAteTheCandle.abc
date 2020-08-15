@@ -1,0 +1,57 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Cat That Ate the Candle, The
+C:John Kirkpatrik (Jump at the Sun)
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2BCD2E2
+R:jig
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Cat That Ate The Candle
+|: A | "G"B2G AGE | GAG GBd | "Em"e/2f/2ge dBG | "D"ABA ABc |
+"G"B2G AGE | GAG GBd | ege dBG |1 "D"AGF "G"G2 :|2 "G"AGF GBd |
+|: "G"g3 efg | "D"fag fed | "Em"g3 edB | "D"BAG ABc |
+"G(Em)"B2G AGE | "G"GAG GBd | "G(Em)"ege dBG |1 "D"AGF "G"GBd :|2 "D"AGF "G"G2 |]
+P:B
+T:Swallows Tails
+N: Play once only
+%%text Play once only
+K:Edor
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: EF | "Em"GEE BEE | GEG BAG | "D"FDD ADD | dcd "Bm"AGF |
+"C"GEE BEE | GEG B2c | "D"dcd "Bm"AGF | "Em"GEE E3 :|
+|: "Em"Bcd e2f | e2f edc | Bcd e2f | edB "D"dz2 |
+"Em"Bcd e2f | e2f edB | "D"dcd "Bm"AGF | "Em"GEE E3:|
+P:C
+T:Bridge
+N:Play once only
+%%text Play once only
+|: "Em"GEE BEE | e2 B2 G2 | "D"FDD ADD | d2 A2 F2 | "C"GEE BEE | e2 B2 G2 | "D"A2 F2 D2 | "Em"E2z z3 :|
+|: "Em"Bcd efg | "Am"a2 b2 g2 | "Bm"a2 f2 g2 | f2 d2 B2 | "Em"Bcd efg | "Bm"f2 d2 B2 | "D"A2 F2 D2 | "Em"E2z z3:|
+%%newpage
+P:D
+T:Dribbles Of Brandy
+K:Emin
+%ALTO K: Emin clef=alto middle=c
+%BASS K: Emin clef=bass middle=d
+|: "Em"EGE G2A | B2e dBG | "D(F#m)"A2B cBA | "Bm" BAG FED |
+"Em(G)"EGE G2A | B2e dBG| "D(Bm)"A2B "Bm"cBA | "Em"BGE E3 :|
+|: "Em"e2f g2e | "D"fag fed | "Em"e2f g2e | "Bm"fed "Em"ez2 |
+e2f g2e | "D"fag fed | "Em"e2B "Bm"cBA | "Em"BGE E3 :|
+P:E
+T:Jump at the Sun
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Em"EGB ^A2B | EGB ^A2B | eBB eBB | BAG "B"F3 | 
+"Em"EGB ^A2B | EGB ^A2B | eBB "Am"cBA | "B7"GAF "Em"E2 :|
+B |: "Em"eBB gfe | "B7"fBB agf | "Em"gfe gfe | "B"fBB "B7"c2B | 
+"Em"eBB gfe | "B7"fBB agf | "Em"ezB "Am"cBA | "B7"GAF "Em"E2 :|

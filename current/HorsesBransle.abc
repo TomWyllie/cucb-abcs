@@ -1,0 +1,57 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [20/10/2017]
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%footer "2017"
+%%scale 0.7
+
+X:1
+T:Horse's Bransle
+L:1/8
+M:2/4
+Q:1/4=140
+P:A2B2C2
+R:polka
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Horse's Bransle
+K:Gmaj
+|:"G"G>A BB | "C"cB Ac |"G" BA GF | "Am"E2 "D"D2 |
+"G"G>A BB | "C"cB Ac | "G"BG "D"A(F | "G"F)G G2 :|
+|:"G"dc/2B/2 AB | "C"cB/2A/2 GB | "Am"AG FG |"D" AD A2 |
+"G"dc/2B/2 AB | "C"cB/2A/2 GB | "Am"AG "D"G(F | "G"F)G G2 :|
+|:"Gm"_BA/2G/2 BA/2G/2 | "D" FG A2 | "C" DE FG | "D" A_B AG |
+"Gm"_BA/2G/2 BA/2G/2 | "D" FG A2 | "C" DE FG | "G" GF G2 :|
+P:B
+T:I Have A Bonnet Trimmed With Blue
+K:D
+"D"AB/A/ FA|"D"dA f2|"G"fe/f/ ge|"A"d/c/d/e/ fd|
+"D"AB/A/ FA|"D"dA f2|"G"fe/f/ gc|"A"ed "D"d2:|
+|:"A"ef/e/ ce|"A"ac e2|"G"ef/e/ dB|"D"fe c2|
+"A"ef/e/ ce|"A"ac e2|"Em"ef/e/ dB|"A"BA "D"A2:|
+|:"D"AB/A/ FA|"D"dA f2|"G"fe/f/ ge|"A"d/c/d/e/ fd|
+"Bm"AB/A/ FA|"Bm"dA f2|"G"fe/f/ gc|"A"ed d2:|
+%%newpage
+K:G
+|:"G"GB Bd|"G"de/d/ B2|"C"de/d/ cA|"D"ed B2|
+"Em"GB Bd|de/d/ B2|"C"de/d/ cF|"D"AG "G"G2:|
+|:"C"ge eg|"G"de/d/ B2|"D7"de/d/ cA|"G"ed B2|
+"C"ge eg|"G"de/d/ B2|"C"de/d/ "D"cF|"G"AG G2:|
+K:D
+|:"D"AB/A/ FA|"Bm"dA f2|"F#m"fe/f/ ge|"Bm" d/c/d/e/ fd|
+"D" AB/A/ FA|"Bm" dA f2|"A" fe/f/ gc|"D" ed d2:|
+P:C
+T: The Shepherd and Shepherdess
+K:Amaj
+"A"c/d/e Aa|"D"f2 fa|"A"e>f ec|"E"B/A/G/A/ Bc|
+"A"AE2B/c/|"E"dB e/d/c/B/|"A"ce "E"Bc|"A"A2 A>B:|
+|:"A"cA "D"dB|"A"cA A>B|"A"cA ec|"E"B/A/G/A/ Bc|
+"F#m"AE2B/c/|"D"dB e/d/c/B/|ce Bc|1A2 A>B:|2A2 A2||
+"F#m"a/g/f/g/ ab|"D"ag fe|"A"c/d/e f/g/a| "E"AG FE|
+"Bm"FD dB|"Bm"cA "C#m"e/d/c/B/|"D"ce "E"Bc|1"A"A2 a2:|2"A"A2 A>B||
+
+%%footer ""

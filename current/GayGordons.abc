@@ -1,0 +1,55 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Gay Gordons
+N:Play each tune once
+%%text Play each tune once
+C:Gavin Stoddart (Murdo's Wedding March)
+C:Bob Liddle (Kelso Accordion and Fiddle Club)
+M:4/4
+L:1/8
+R:march
+Q:1/4=140
+P:ABCDEF
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:Scotland the Brave
+d2 | "G"G2 G>A BG Bd | "G"g2 "C"g>f "G"gd BG | "C"c2 e>c "G"B2 d>B | "D"A2 d>e "D7"d>e d/2c/2B/2A/2 |
+"G"G2 G>A BG Bd | "G"g2 "C"g>f "G"gd BG | "Am"c2 e>c "G"Bd BG | "D"A2 "C"G>A "G"G4 |
+"D"a2 a>b af "D7"d2 | "G"g2 b>a g"C"f/2e/2 "D"d2 | "G"g2 g2 "D"f2 gf | "A"eg "A7"fe "D"dc "D7"BA |
+"G"G2 G>A BG Bd | "G"g2 "C"g>f "G"gd BG | "C"c2 e>c "G"Bd BG | "D"A2 "C"G>A "G"G3 |]
+P:B
+T:Mairi's Wedding
+|:"G"D>D DE GA "Em"B2 | "C"AG EG "D"BA Bd | "G"D>D DE GA "Em"B2 | "C"AG EC "D7"D2 D2 :|
+"G"d>d de "Em"dc B2 | "Am"AG EG "D"BA B2 | "G"d>d de "Em"dc B2 | "C"AG EC "D7"D2 D2 |
+"G"d>d de "Em"dc B2 | "Am"AG EG "D"BA Bd | "G"D>D DE GA "Em"B2 | "C"AG EC "D"D2 D2 |]
+P:C
+T:Murdo's Wedding March
+d | "G"G2 GA G2 Bd | "C"g2 ec "D"d4 | "G"G2 GA "Em"G2 Bd | "C"e>d cB "D"A2 d>B |
+"G"G2 GA G2 Bd | "C"g2 ec "D"d4 | "C"g2 ec "D"d2 cA | "G"G2 "C"G>A "G"G4 |
+"C"g2 ec "D"d2 G2 | "G"g2 "C"ec "D"d4 | "G"G2 GA "Em"G2 Bd | "C"e>d cB "D"A2 d>B |
+"G"G2 GA G2 Bd | "C"g2 ec "D"d4 | "C"g2 ec "D"d2 cA | "G"G2 "C"G>A "G"G3 |]
+%%newpage
+P:D
+T:Wings
+d | "G"G2 G>A B3 d | "C"e>d eg "G"d2 Bd | "C"e>f ge "G"d<B AG | "Am"A>B cB "D"Ad "D7"cA |
+"G"G>D GA B3 d | "C"e>d eg "G"d2 Bd | "C"e>f ge "D"d<B AB | "G"G2 "D"G>A G4 "G"|
+"G"g2 g2 gf "Em"ed | "C"e>d eg "G"ed Bd | "C"e>f ge "G"d<B "Em"AG | "Am"A>B cB "D"Ad "D7"cA |
+"G"G>D GA B3 d | "C"e>d eg "G"d2 Bd | "C"e>f ge "D"d<B AB | "G"G2 "C"G>A "G"G3 |]
+P:E
+T:Loch Ruan
+DE | "G"G2 Dd "Em"B2 AG | "Am"A2 Bc "C"E2 A>G | "D"F2 ED "D7"c2 "D"AF | "G"G2 AB "D"D2 "D7"D>E |
+"G"G2 Dd "Em"B2 AG | "Am"A2 Bc "C"E2 A>G | "D"F2 ED "D7"c2 AF | "G"G2 "C"G>A "G"G2 B>c |
+"G"d2 BG Dd BG | "C"A2 Bc E2 A>B | "D"c2 AF "D7"Dc AF | "G"G2 AB "D"D2 B>c |
+"G"d2 BG Dd BG | "Am"A2 Bc "C"E2 A>G | "D"F2 ED "D7"c2 AF | "G"G2 "C"G>A "G"G2 |]
+P:F
+T:Kelso Accordion and Fiddle Club
+GA | "G"B2 AG D2 G>F | "C"EA GE "D"D2 GA | "G"B2 AB "Em"d2 cB | "Am"A2 A>B "D"A2 GA |
+"G"B2 AG D2 G>F | "C"EA GE "D"D2 G>A | "G"Bd cB "D7"Ac BA | "G"G2 "C"G>A "G"G2 Bc |
+"G"d2 Bd g2 fe | "G"d2 BG "C"c2 Bc | "G"d2 Bd g2 fg | "A"ag fe "D"dc "D7"Bc |
+"G"d2 Bd "C"g2 fe | "G"d2 BD "C"E2 G>A | "G"Bd cB "D"Ac BA | "G"G2 "C"G>A "G"G2 |]

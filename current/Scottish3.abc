@@ -1,0 +1,79 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Scottish Reels 3
+R:reel
+M:4/4
+L:1/8
+Q:1/4=180
+P:A2B2C2D2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:Jackie Coleman's Reel
+dB \
+|: "D"AF (3FFF EFDE | "D"F2AF "B7"BFAF | "E7"E2dE cEBE | "A7"ABde fedB |
+"D"AF (3FFF EFDE | "D"F2AF "B7"BFAF | "E7"E2dE cEBE |1 "A7"ABde "D"fddB :|2 "A7"ABde fdde ||
+|: "D"fddc dfag | "D"fd (3ddd fagf | "A7"eA (3AAA gAfA | "A7"eA (3AAA efge |
+"D"fddc dfag | "D"fd (3ddd dfaf | "G"g2gf "Em"gbag | "A7"faeg "D"fdd2 :| 
+P:B
+T:John Keith Lang
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+e \
+|: "A"A2ce fcef | "A"cefc e2ce | "Bm"f2fe faaf | "A"e2ef "E7"cBBc |
+"A"A2ce fcef | "A"cefc e2ce | "Bm"f2fe faaf | "E7"e2ec BAAB :|
+|: "A"Aaaf e2fe | "A"cBBc e2ce | "Bm"f2fe faaf | "A"e2ef "E7"cBBc |
+"A"Aaaf e2fe | "A"cBBc e2ce | "Bm"f2fe "D"faaf |1 "E7"e2ec BAAB :|2 "E7"e2ec BA A |]
+%%newpage
+P:C
+T:The Maid Behind the Bar
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: E | \
+"D"FAAB AFED | \
+"D"FAAB A2de | \
+"Bm"fBBA Bcde | \
+"Bm"fdef "A7"edBA |
+"D"FAAB AFED | \
+"D"FAAB A2de | \
+"Bm"fdBc dedB | \
+"A7"AFEF "D"D3 :|
+|: g | \
+"D"faag fdde | \
+"D"fdad "Bm"fddf | \
+"Em"efga beef | \
+"Em"gebe "A7"geeg |
+"D"fgaf "Bm"b2af | \
+"D"defd "A7"e2de | \
+"Bm"fdBc "G"dedB | \
+"A7"AFEF "D"D3 :| 
+P:D
+T:The Sally Gardens
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: D2| \
+"G"G2DG B2GB | \
+"G"dBeB dBAB | \
+"G"d2Bd "Em"egdB | \
+"Am"AcBA "D7"GEDE |
+"G"G2DG "Em"B2GB | \
+"G"dBeB dBAB | \
+"G"d2Bd "C"egdB | \
+"D7"AcBA "G"G2 :|
+|: d2 | \
+"G"dggf g2df | \
+"G"g2bg "Em"ageg | \
+"Am"eaag a2eg | \
+"Am"a2bg ageg |
+"G"dggf g2df | \
+"G"g2bg ageg | \
+"G"d2Bd "Em"gedB | \
+"D7"AcBA "G"G2 :|

@@ -1,0 +1,42 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.7
+X:1
+T:For the Love of Music
+C:Michael Rooney (Tir Rafartaigh, Gort Na Mona)
+C:Liz Carroll (For the Love of Music)
+L:1/8
+M:9/8
+Q:1/4=180
+P:A2B2C2D2
+R:slip jig
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+%T: Port Gan Ainm 
+T:Tir Rafartaigh
+|: "D"D2F FED EFA | "Bm"d2f fed efa | "G"g2f ede fdA |1 "A"B3 BAF AFE :|2 "A"B3 BAF EFG |
+"G"ABd def ede | "A"fga abf afd | "Em"efe ede fdA | "A"B3 BAF EFG |
+"G"ABd def ede | "A"f2a abf afd | "G"g2f ede "D"fdA | "A"B3 BAF E2A ||
+%
+P:B
+T:Gort Na Mona
+K:G
+%ALTO K:G clef=alto middle=c
+%BASS K:G clef=bass middle=d
+|: "G"G2B BAG ABc | "D"d2g gfd "C"BcA | "G"G2B BAG ABc |1 "D"A2d ded BcA :|2 "D"d3 dgd fga |
+"G"b2a age dgb | "D"aba aga bgd | "C"ege edB ABc | "C"ded "D"dgd fga |
+"G"b2g gba ged | "Em"e3 ede gdB | "A"A3 ABG "C"ABc | "D7"d3 dgf dcA ||
+P:C
+T:Red Haired Girl, The
+|: ed | "Am"c2A AEA "C"cBA | "G"BAG Gge "D"dcB | "Am"c2A AEA "C"cBA | "G"Bge dBG A :|
+Bd | "Am"e2a age "C"aba | "G"g2e dBd "D"ged | "Am"e2a age "C"aba | "G"gfe dBG ABd |
+"Am"e2a age "C"aba | "G"g2e dBG "D"GAB | "F (C on second time)"cec BdB AGE | "E7 (D on second time)"Gge dBG A3 ||
+P:D
+T:For the Love of Music
+|: "G"GED DEG "D"A2B | "G"AGG GBd "C"edd | "G"GED DEG "D"A2c | "Em"Bee BAB GEE :|
+"G"ged e/2f/2gB GB/2c/2d | "G"ged egb "D"a2f | "Em"ged e/2f/2gB "D"ABd | "C"edB dBG "D"ABd |
+"G"ged e/2f/2gB GB/2c/2d | "G"ged egb "D"a2a | "Em"bee e/2f/2ge a2g |1 "C"edB dBG "D"ABA | [2 "C"edB dBG "D"ABA | "G"G3 |]

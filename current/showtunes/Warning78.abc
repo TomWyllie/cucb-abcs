@@ -1,0 +1,47 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.71
+X:1
+T: Warning Seven Eight!
+C:Mike McGoldrick (Waterman's)
+C:Cillian Vallely (Road to Barga)
+L:1/8
+Q:1/4=180
+P:A2B2
+R:jig 7/8
+M:7/8
+K:Emin
+%ALTO K: Emin clef=alto middle=c
+%BASS K: Emin clef=bass middle=d
+T:Too Many Socks
+|:"Em"E2 DE GEA|B2 dB AGA|"G"Bc BA BGE|DB, A,B, DEF|
+"C"E2 DE GEA|"Am7"B2 dB AGA|"B7"~B2 AB cBA|"B7"Bd ed BGF:|
+|:"Em"E2 ef gfe|"G" B2 de fed|"C" ec ef gaf|"B7"~g2 fe fga|
+"Em"bag a2 gf|"G" g2 fe fdc|"C"~B2 AB cBA|"B7"Bd ed BGF:|
+P:B
+T:Waterman's
+|:"Em"E2B2 BAG | A2GA B2E | "D"GAA2 AGA |Bc BG AGF |
+"C"E2B2 BAG | A2GA B2E | "D"GAA2 ABG | AB GF E3 :|
+"Em"g2e2 efg | f2 BA BdB | "D"c2A2 ABG | AB cd eaf |
+"C"g2e2 efg | "Am7"f2 BA BdB | "D"c2A2 ABG | "B7"AB GF EGB |
+"Em"g2e2 efg | "D"a2 gf efd |"C" b2 ag fga |"D" g2 fe fdB |
+"C"g2 \
+%%MIDI gchordoff
+"^stop"e2 efg | f2 BA BdB | \
+%%MIDI gchordon
+"D"c2A2 ABG | AB GF E3 |]
+%
+%%newpage
+%
+T: Road To Barga
+K: Gmaj
+%ALTO K: clef=alto middle=c
+%BASS K: clef=bass middle=d
+M:7/8
+"G"DEG AB dB |"G/B" edB g2 ed |"C" edB dB e2 |"D" dBG AB GE |
+"G"DEG AB dB |"G/B" edB g2 ed |"C" edB dB e2 |"D" dAB "G"G2~G2 :|
+"C"edB g2 eg |"G/B" abg e2 dB |"Em"dBA B2 DE |"D" DEG AB G2 |
+"C"edB g2 eg |"G/B" abg e2 dB |"A" deg e2 dB |"D" dAB "G"G2~G2 ||
+"C"edB g2 ab |"G/B" abg e2 dB |"Em" dBA B2 DE |"D" DEG AB GE |
+"G"DEG AB GA |"G/B" Bde g2 ed |"C" edB dB e2 |"D" dAB "G"G2~G2 ||

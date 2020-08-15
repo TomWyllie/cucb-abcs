@@ -1,0 +1,45 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.75
+X: 1
+T:Zycanthos Jig
+R:jig
+C:Roger Wilson (Zycanthos)
+M:6/8
+L:1/8
+Q:1/4=180
+N:Originally named Zakynthos Jig after the Greek Island (corrupted by Eliza Carthy).
+%%text Played Zycanthos, Jig in A, Zycanthos
+P:A2B2C
+K:Am
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Zycanthos Jig
+|: "Am"a2({a}a) gag| "Am"e2a-agg| "Am"ecc BcB| "F"AFF F2F| "Am"EAB cBA| "F"FAB cBA|
+"G"B2B edB| "Em"Bcd "Am"cBA :: "Am/E"EAB cBA| "F"FAB cBA| "G"B2B edB|
+"Em"Bcd cBA| "Am"EAB cBA| "F"FAB cBA| "G"B2B edB|1 "Am"B2 A2 "F"F2 :|2 "Am"B2 A2 Bc |
+|: "Dm"d2 d2 c2| "Dm"dc2 B2A| "Dm"d2d-dcd| "Em"B2c B2A| "Dm"d2 d2 c2| "Dm"d"^Last time go to coda" c2 B2A O|  [1-5
+"Dm"ddd dcd| "Em"e3-ecA :|  [6 \
+%%staffbreak 0.3cm
+%%Coda 
+O"^Coda""Dm"ddd dcd| "Em"eee e^fg| "Am"a2z z3 |]
+P:B
+T:Jig in A
+|: "Am"EAA AGA| "G"Bdd dcd| "Am"eae "Em"dBG| "Am"ABA "F"AGF|
+"Am"EAA AGA| "G"Bdd dcd| "Am"eae "Em"dBG |1 "Am"BAA A2F :|2
+"Am"BAA ABd |: "A"eaa e3| "A"eaa bag| "A"eaa e3| "G"BGB dBG|
+"A"eaa e3| "A"eaa bag| "A"eae "G"dBG |1 "A"BAA ABd :|2 "A"BAA A3 |]
+%%begintext skip
+%%Part C is a repeat of Zycanthos Jig with coda
+%%Required due to inconsistances with implementing the specification for vairant endings
+P:C
+T:Repeat Zycanthos Jig
+|: "Am"a2({a}a) gag| "Am"e2a-agg| "Am"ecc BcB| "F"AFF F2F| "Am"EAB cBA| "F"FAB cBA|
+"G"B2B edB| "Em"Bcd "Am"cBA :: "Am/E"EAB cBA| "F"FAB cBA| "G"B2B edB|
+"Em"Bcd cBA| "Am"EAB cBA| "F"FAB cBA| "G"B2B edB|1 "Am"B2 A2 "F"F2 :|2 "Am"B2 A2 Bc |
+|: "Dm"d2 d2 c2| "Dm"dc2 B2A| "Dm"d2d-dcd| "Em"B2c B2A| "Dm"d2 d2 c2| "Dm"dc2 B2A "^Last time go to coda" O|1
+"Dm"ddd dcd| "Em"e3-ecA :|2 %%Coda O"^Coda""Dm"ddd dcd| "Em"eee e^fg| "Am"a2 |]
+%%endtext
+

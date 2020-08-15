@@ -1,0 +1,52 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T\t\tPage $P of 1"
+%%footer "2019/20"
+%%scale 0.65
+X:1
+T:Whiskey Exiles
+C:John McSherry (Slide From Grace)
+R:slip jig
+M:9/8
+L:1/8
+K:D
+T:Comb Your Hair And Curl It
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+|:"Em"B2E E2F G2A | "Bm"Bcd e2c "D"d3| "Em"B2E E2F G2A | "G"B3 ABG "D"FED:|
+|:"C"g2e e2d efg | "D"f2d d2c def| "Em"g2e e2d e2c | "Bm"dcB AGF "Em"G2E :|
+%
+P:B
+T:Barney Brannigan
+M:9/8
+L:1/8
+|:"D"F2A ABA ABA|F2A ABA "G"Bcd|"D"F2A ABA ABA|"G"BGB e2d "A7"cBA:|
+|:"D"f2a f2a fed|"Bm"f2a f2a "G"gfe|"D"f2a f2a "F#m"fed|"G"g2f e2d "A7"cBA:|
+|:"D"f3 a3 d2f|"G"g2f e2d "A"cBA|"D"f2a "A/C#"e2f "Bm"d2B|"A"A2B A2G "D"FED:|
+%
+P:C
+T:Slide From Grace
+M:9/8
+L:1/8
+|:"Bm"d2B BAB def|d2B BAF "D"A2B|"Bm"d2B BAB def|"A"f2e e2d "F#m"e2f:|
+"Bm"b2f afe def| "D"ABA AFA def|"G"b2f afe def|"A"gfe e2d "F#m"e2f|
+"Bm"b2f afe def| "D"ABA AFA def|"A"e2d fzA Bde|zfa "G"baf "A7"e2 f|]
+%
+P:D
+T:The Exile's Jig
+M:9/8
+L:1/8
+|:"Em"edB B2A G2E|E2e e2d "C"efg|"Em"edB B2A G2A|"G"BAB d2B "F#m"def:|
+"Em"e2f gfe fed|"G"B2e edB edB|"C"e2f gfe fed|"G"BAB d2B "F#m"def|
+"Em"e2f gfe fed|"G"B2e e2d efg|"D"agf "G"gfe "Bm"fed|"G"BAB d2B "D"def|]
+%
+P:E
+T:The Humours Of Whiskey
+M:9/8
+L:1/8
+|:"Bm"gfe fBB fBB|"Bm"gfe fBB "D"fga|"Bm"gfe fBB efg| "A7"agf efd cBA:|
+|:"D"d2e fdf "A"ecA|"D"d2e fed gfe|"D"d2e fdf "A"efg| "A7" agf efd cBA :|]"^finish on""Bm"B4|]
+
+%%footer ""

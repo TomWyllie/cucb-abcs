@@ -1,0 +1,44 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Killin' Clocks
+L:1/8
+M:4/4
+C:Philip Duffy (Killin' Clocks)
+C:John Brady (Siobh\'an O'Donnell's)
+R:reel
+Q:1/4=200
+P:A2B2C2D2
+K:Gmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:McMahon's
+|: "G"G3D EDB,D | GFGB d2 Bd | "C"e/2f/2ged BAGA | "D"BAGE EDDE |
+"G (Em7)"G3D EDB,D | GFGB "^(Bm)"d2 Bd | "C"eged BAGA | "D"BAGE ED D2 :|
+|: "Am"eaag efge | "G"dBBA B3d | "Em"eBB2 gBfB | "Bm"eBBA B3d |
+"Am (Em)"eaag efge | "G"dBBA B3d | "C"eged "G"BAGA | "Em"BAGE "G"EDDE :|
+P:B
+T:Killin' Clocks
+K:G
+|: "G"G2BG AdBA | "D"G2GE GABd | "Em"egge d2dB | "C"AdBG "D"AGED |
+"G"G2BG AdBA | "D"G2GE GABd | "Em"egeB "G"d2dB |1"D"AdBA "G"G4 :|2"D"AdBA "G"G2 Bd||
+|: "G"g2dg fdfa | "D"f2dc BGG2 | g3f "Em"efge| "G"faag "D"fdfa |
+"G"g2dg fdfa | "C"gfdc BGG2 | "Am"ABcd eaag |1"D"fdcA "G"G2Bd :|2"D"fdcA "G"G4 |]
+%%newpage
+P:C
+T:Sligo Maid, The
+K:Ador
+|: "Am"A2BA Bdef | gedB AGEF | "G"G2BG dGBG | "D"DEGA BAdB |
+"Am"A2BA Bdef | gedB AGEG | "G"B3G "D"A2GE | "G"DEGA "Am"BAA2:|
+|: "Am"eaag a2ga | "Em"bgaf gfed | "C"eggf g2ge | "D"dega bgag |
+"Am"eaag a2ga | "Em"bgaf gfed | "C"eg ~g2 edBA | "G"dBgB "Am"BAA2 :|
+P:D
+T:Siobh\'an O'Donnell's
+K:Amaj
+|:"A"ABce a2ba|"D"~f3a fece|"A"effe cBAF|"E"EFAB cBAF|
+"A"~E3F ABce|"D"f2af fece|"A"efec dBcA|"E"BAGB "A"cAec:|
+|:"A"ABce fece|"D"fA A/2A/2A fAeA|"F#m"fA A/2A/2A fAef|"E"aefa eAce|
+"F#m"effe cBAF|"C#m"~E3F ABce|"Bm"f2ec dBcA|"E"BAGB "A"cAec:|

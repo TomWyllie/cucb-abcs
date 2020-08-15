@@ -1,0 +1,50 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Mostly English Reels
+C:Henrik Jansberg (Pigen i Gult)
+C:Nick Barber (Skirmish)
+M:4/4
+L:1/8
+Q:1/4=180
+P:A2B2C2D2
+R:reel
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Hesleyside
+|: GA|"G"B2 dB "D/F#"AGAB | "Em"GABc "Bm"d2 ef | "C"gfge "G"dBGB | "Am"e2 A2 "D"AcBA |
+"G"B2 dB "D/F#"AGAB | "Em"GABc "Bm"d2 ef | "C"gfge "G"dBGA|"D"B2 G2 "G"G2 :|
+|: Bd | "C"edef gfge | "G"dBGB d2 cd | "C"edef gfge | "G"dBGB "D"A2 GA |
+"G"B2 dB "D/F#"AGAB | "Em"GABc "Bm"d2 ef | "C"gfge "G"dBGA | "D"B2 G2 "G"G2 :|
+P:B
+T:Foul Weather Call
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: ef | "Em"gfed "A"e2 a2 | "Em"gfed dcBA | "D"d2 A2 "Bm"BcdB | g2 f2 "A"e2 ef |
+"Em"gfed "A"e2 a2 | "Em"gfed dcBA | "D"d2 dA "G"BcdG | "A"F2 E2 "D"D2 :|
+|: FD | "Em"GFED "A"A2 A2 | "Em"Bcde dcBA | "D"d2 A2 "Bm"BcdB | g2 f2 "A"e2 ef |
+"Em"gfed "A"e2 a2 | "Em"gfed dcBA | "D"d2 dA "G"BcdG | "A"F2 E2 "D"D2 :|
+%%newpage
+P:C
+T:Pigen i Gult
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "D"A,2 DF A2 cc | d2 fe dcBA | "G"BcBG "D/F#"A2 F2 | "Em"GF E2 "A"ED C2 |
+"D"A,2 DF A2 cc | d2 fe dcBA | "G"BcBG "D/F#"A2 F2 | "A7"GF E2 "D"D4 :|
+|: "Bm"B,2 DE F2 G2 | "F#"FDEF E2 D2 | "G"DEFB AGFD | "A"EFED "A#dim"ED C2 |
+"Bm"B,2 DE F2 G2 | "F#"FDEF E2 D2 | "G"DEFB AG F2 | dc A2 "A (G)"B4 :|
+P:D
+T:Skirmish
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: de | "D"f4 edce | d2 fd ABAG | "Bm"FDAD BDAD | "G"BAGF "A"E2 de |
+"D"f4 edce | d2 fd ABAG | "F#m"FG A2 "G"EF G2 | "A"F2 EC "D"D2 :|
+|: DE | "D"F2 FD "G"G3 G | "D"F2 FD "G"G3 G | "D"F2 DD "Em"GFGA | BAGF "A"E2 DE |
+"D"F2 FD "G"G3 G | "D"F2 FD "G"G3 G | "D"FG A2 "G"EF G2 | "A"F2 EC "D"D2 :|

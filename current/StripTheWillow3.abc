@@ -1,0 +1,140 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Strip the Willow 3
+R:jig
+L:1/8
+M:6/8
+P:A2B2C2
+Q:1/4=180
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Banjo Breakdown
+|: "A"A>AA (c2e) | \
+(a2e) (c2e) | \
+"D"A>AA (d2f) | \
+(a2f) (d2f) |1
+"A"A>AA (c2e) | \
+(a2e) (c2e) | \
+"E"B>BB (c2e) | \
+B>BB (c2e) :|2
+"A"(e>fg) (a>gf) | \
+"E7"(e2d) (c2B) | \
+"A"(A>ce) (a>ec) | \
+A3 A2 |
+|: ue | \
+"A"(a2e) (c2e) | \
+(a2e) (c2e) | \
+"D"(a2f) (d2f) | \
+(a2f) (d2f) |1
+"A"(a2e) (c2e) | \
+(a2e) (c2e) | \
+"E7"B>BB (c2e) | \
+B>BB c2 :|2
+"A"(efg) (agf) | \
+"E7"(e2d) (c2B) | \
+"A"(Ace) (aec) | \
+A3 a3 |
+|: "A"A>AA (c2e) | \
+A>AA (c2e) | \
+"E7"B>BB (d2f) | \
+B>BB (d2f) |1
+"A"A>AA (c2e) | \
+A>AA (c2e) | \
+"E7"(B2e) "A"ccc | \
+"E7"BBB (c2e) :|2
+"A"(efg) (agf) | \
+"E7"(e2d) (c2B) | \
+"A"(Ace) (aec) | \
+A3 (Ace) |
+|: "A"aee cee | \
+aee cee | \
+"D"aff dff | \
+aff dff |1
+"A"aee cee | \
+aee cee | \
+"E7"Bee "A"cee | \
+"E7"Bee "A"cee :|2
+"A"(efg) (agf) | \
+"E7"(e2d) (c2B) | \
+"A"(Ace) (aec) | \
+A3 a3 |]
+%%newpage
+%%scale 0.63
+P:B
+T:The Jig of Slurs
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "D"A>dd dcd | \
+"G"B>dd "D"A>dd | \
+"G"B>dd "D"A>dd | \
+"Em"B>ee "A7"edB |
+"D"A>dd dcd | \
+"G"B>dd "D"A>dd | \
+"G"B>dd "A7"c>ee | \
+"D"f>dd d2 :|
+|: uB | \
+"D"A>ff fef | \
+"D"a>ff fed | \
+"G"B>ee ede | \
+"A"f>ee edB |
+"D"A>ff fef | \
+"D"a>ff fed | \
+"G"B>dd "A"c>ee | \
+"D"f>dd vd2 :|
+|: (B/2A/2) | \
+"G"G>gg gfg | \
+"Em"a>ge "G"gdB | \
+"G"G>gg gfg | \
+"Em"a>ge "G"(g2B) |
+"G"G>gg gfg | \
+"Em"a>ge "G"gdB | \
+"Em"B>ee "C"e>gg | \
+"Bm"f>dd "Em"e2 :|
+|: "G"G>BB B>dd | \
+"G"d>ee "Em"edB | \
+"G"G>BB B>dd | \
+"Em"d>ee e>gg |
+"G"G>BB B>dd | \
+"G"d>ee "Em"edB | \
+"Em"B>ee "C"e>gg | \
+"Bm"f>dd "Em"e3 :|
+P:C
+T:Paddy's Leather Breeches
+|: "Bm"B>BB (f2e) | \
+f>BB (f2e) | \
+B>BB (f2e) | \
+"A"c>AA ({f}e2c) |
+"Bm"B>BB (f2e) | \
+f>BB (f2e) | \
+"D"f>^ga "A"e>fa | \
+c>AA ({f}e2c) :|
+|: "F#m"a3 (f2e) | \
+"Bm"f>BB (f2e) | \
+"F#m"a3 (f2e) | \
+"A"c>AA ({f}e2c) |
+"F#m"a3 (f2e) | \
+"Bm"f>BB (f2e) | \
+"D"f>^ga "A"e>fa | \
+"A"c>AA ({f}e2c) :|
+|: "Bm"B>BB "A"c>cc | \
+"Bm"B>BB (f2e) | \
+"A"c>cc "Bm"B>BB | \
+"A"A>AA ({f}e2c) |
+"Bm"B>BB c>Bc | \
+B>ce (f2e) | \
+"D"f>^ga "A"e>fa | \
+"A"c>AA ({f}e2c) :|
+|: "F#m"a>^ga (f2e) | \
+"Bm"f>BB (f2e) | \
+"F#m"a>^ga (f2e) | \
+"A"c>AA ({f}e2c) |
+"F#m"a>^ga (f2e) | \
+"Bm"f>BB (f2e) | \
+"D"f>^ga "A"e>fa | \
+"A"c>AA ({f}e2c) :|

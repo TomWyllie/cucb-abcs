@@ -1,0 +1,55 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Angus Polkas
+C:Charlie McKerron (Ceilidh Polka)
+R:polka
+M:2/4
+L:1/8
+Q:1/4=140
+P:A2B2C2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Angus Polka 1
+K:D
+%%MIDI gchord zzfc zzfc
+|: "N"A"D"f "N"B"G"g | \
+%%MIDI gchord zzfc fzcz
+"N"A"D"f "D"fe/2f/2 | \
+%%MIDI gchord fzczfzcz
+"G"g/2f/2e/2d/2 c/2d/2e/2f/2 |"A" e/2d/2c/2B/2 A/2G/2F/2G/2 |
+%%MIDI gchord zzfc zzfc
+"N"A"D"f "N"B"G"g | \
+%%MIDI gchord zzfc fzcz
+"N"A"D"f "D"fe/2f/2 | \
+%%MIDI gchord fzczfzcz
+"G" g/2f/2e/2d/2 "A"c/2A/2B/2c/2 |1 "D"df d2 :|2"D"df dA/2G/2||
+|: "D"FA A/2B/2A/2F/2 | "G"GB Bc/2B/2 | "A"Ac/2B/2 A/2G/2F/2E/2 | "D"D/2F/2A/2B/2 A>G |
+"D"FA A/2B/2A/2F/2 | "G"GB Bc/2B/2 |"A" A/2B/2c/2B/2 A/2G/2F/2E/2 |1 "D"DF DA/2G/2 :|2"D"DF D2||
+P:B
+T:Angus Polka 2
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "A"Ec c>B | "D"AF FA/2F/2 |"A" EA "F#m"A/2G/2A/2B/2 |"E" cB B2 |
+"A"Ec c>B | "D"AF FA/2F/2 | "A"EA "E"B/2A/2B/2c/2 | "E"B"A"A "A"A2 :|
+|: "A"CE E/2F/2E/2D/2 | "A"CE E/2F/2E/2D/2 | "A"CE Ac | "E"B/2^A/2B/2c/2 B>E |
+"A"CE E/2F/2E/2D/2 | "A"CE E/2F/2E/2A/2 | "D"FA "E"GB | "E"B"A"A "A"A2 :|
+%%newpage%%
+P:C
+T:Ceilidh Polka
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "A"A>B c>e | "D"fe "A"cB | "A"A>B cB/2A/2 | "E"FE E>F |
+"A"A>B c>e | "D"fe "A"ce | "D"fe "A"cA | "E"B"A"A "A"A2 :|
+|: "D"f3 e/2c/2 | "A"Be cA | "E"B2 BA/2B/2 | "E"cB/2A/2 "D"FE |
+"F#m"f3 e/2c/2 | "A"Be cA | "E"B2 BA/2B/2 | "E"c/2B/2A A2 :|
+|:"A"A>B c>e | "D"fe ce | "A"fe ce | "E"fe cB |
+"A"A>B c>e | "D"fe ce| "A"fe cA | "E"B"A"A "A"A2 :|
+|:"E"B2 BA/2B/2 | "E"cB/2A/2 "D"FE | "E"B2 BA/2B/2 | "D" c/2B/2A A2 |
+"E"B2 BA/2B/2 | "E"cB/2A/2 "D"Fe| "A"fe cA | "E"B"A"A "A"A2 :|

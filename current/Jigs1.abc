@@ -1,0 +1,50 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T\t\tPage $P of 2"
+%%footer "2019/20"
+%%%scale 0.75
+X:1
+T:Jigs 1
+R:jig
+M:6/8
+L:1/8
+Q:1/4=180
+P:A2B2C2D2
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+V:1
+P:A
+T:Banks of Allen
+a \
+|: "A"ccc cBA | "A"cee e2 a | "D"faa "A"eaa | "D"faa "A"eaa |
+"A"ccc cBA | "A"cee e2 a | "D"faf "A"ecA | "E"cBB BAB :|
+|: "A"ccc cBA | "A/E"cee e2 d | "A"ccc cBA | "D"dff fed |
+"A"cde "G"Bcd | "A"ABc cBA | "D"faf "A"ecA | "E"cBB BAB :|
+P:B
+T:Kilfenora Jig
+|:"A"c2 c cBc | "A"ecB A2 c | "A"efe "A/E"e2 c | "A"efe "A/E"c2 A |
+"A"c2 c cBc | "A"ecB A2 c | "E"efe dcB |1 "A"A3 A3 :|2 "D"A3 A3|:
+"F#m"aba "E7"gag | "D"fgf "A"e2 c | "A"efe e2 c | "A"efe c2 A |
+"F#m"aba "E7"gag | "D"fgf "A"e2 c |1: "E7"efe dcB | "A"A3 A3 :|2 "A"eaf eaf | "E" eaf e3|]
+%%newpage
+P:C
+T:Scarce o'Tatties
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Am"Aee efg | "Am"edB "G"dBG | "Am"Aee efg | "Em"edB "Am"A3 |
+"Am"a2 {b}a "C"gag | "D"fgf "Am"eAA | "Am"Aee efg | "Em"edB A3 :|
+|: "Am"aeg a3| "Am"g2 f eAA | "Am"aeg a2 e | "D"gaf "Em"e3 |
+"Am"eee "C"AAA | "D"def fed | "Am"Aee efg | "Em"edB A3 :|
+P:D
+T:Old Rosin the Beau
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: E | "A"ABA ABc | "A"e z2 "D"f3 | "A"ecA ABc | "F#m"F z2 "E"E3 |
+"A"ABA ABc | "A"e z2 "D"f3 | "A"ecA "E7"BcB | "A"A3 A2 :|
+|: c/2d/2 | "A"ece "A7/G"efg | "D/F#"a2 f "D"a2 f | "A"ecA ABc | "D"F z2 "E"E3 |
+"A"ABA ABc | "A"e z2 "D"f3 | "A"ecA "E"BcB | "A"A3 A2 :|
+
+%%footer ""

@@ -1,0 +1,49 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Animal Polkas
+C:Jean Pierre Rasle (Le Petit Coin)
+R:polka
+M:2/4
+L:1/8
+Q:1/4=140
+P:A2B2C2D2
+K:G
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Salmon Tails
+K:G
+"G"GE DE|"Em"G>G GA|"C"Bd AB/2A/2|"D"GE D>E|
+"G"GE DE|"Em"GG/2G/2 GA|"C"Bd "D"AB/2A/2|1 "G"G2 G>D:|2 "G"G2 G>A||
+"G"Bd d>B|"C"ce e>e|"G"dB AB/2A/2|GE D2|
+"G"Bd d>B|"C"ce e>f|"Em"gf ed|"D"ef "C"g2|
+"G"Bd d>B|"C"ce e>e|"G"dB AB/2A/2|"D"GE D>E|
+"G"GE DE|"Em"G>G GA|"C"Bd "D"AB/2A/2|"G"G2 G2||
+P:B
+T:Bourree Les Moutons
+K:G
+|:D|"C"Ez "D"Fz|"G"G3 d|"C"c>B Ac|"G"BA GD|
+"C"Ez "D"Fz|"G"G>G GB|"D"A/2G/2F/2G/2 AB|"C" G3:|
+|: "G"G/2A/2|B>c BA|BA Gd|"C"e>d dB|cB A2|
+"Em"B>c BA|BA GD|"D"EG BA|"C"G2 G:|
+%%newpage%%
+P:C
+T: The Jubilant Goat
+K:G
+|:"G" GD/E/ GA | "Em" Bd dg | "C" eg/e/ dB | "D" AG A2 |
+"G" GD/E/ GA | "C" Bd dg | "D" eg/e/ dB | "D" AB "G" G2 :|
+"Em" eg/e/ dB | "Am" AG A2 | "G" GD/E/ GA | "D" Bd A2 |
+"G" ge dB | "Am" AG A2 | "Em" GD/E/ GA | "G" BG G2 |
+"Em" eg/e/ dB | "Am" AG A2 | "G" GD/E/ GA | "D" Bd A2 |
+"G" GD/E/ GA | "Em" Bd dg | "C" eg/e/ dB | "D" AB "G" G2| 
+P:D
+T:Le Petit Coin
+K:G
+L:1/16
+|:Bc|"G"d2e2 d2Bc|d2e2d4|"Gmaj7"gfed cBAG|B2A2 A2Bc|
+"Em7/G"d2e2 d2Bc|d2e2 d4|"D"gdcB AGAB|G2d2 G2:|
+|:gf|"C"e2d2 BcdB|e2A2 ABcA|"G/B"d2G2 G2AB|cBcd edgf|
+"C"e2d2 BcdB|"(Am7)"e2A2 ABcA|"D"d2G2 G2AB|cdef "(G)"g2:|

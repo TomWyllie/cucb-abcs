@@ -1,0 +1,36 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.85
+X:1
+T:Holm Sweet Home
+N:Transition: Leader/rhythm instrument plays written notes. Reest of band hold quiet Amaj drone.
+R:mixed
+M:3/4
+L:1/8
+Q:1/4=160
+P:A2B2
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%%text Transition: Leader/rhythm instrument plays written notes. Rest of band hold quiet Amaj drone
+P:A
+T:Vanagon
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+AB|:"A"c3 eef|"Amaj7"e3 eag|"D"f3 ef/g/a|"A"fe e2 f2|"Dsus2"e2cBA2|"F#m7"F4A2|"Esus4"B6|1 "E7"B4AB:|2 "A"A4 AG||
+"F#m7"F2F2A2|"D"d3 efd|"A"e3 AcA|"Asus2"B3 ABc|"D"d3 efd|"A"e2c2A2|"Esus4"B6|"E7"B4AB|
+"A"c3 eef|"Amaj7"e3 eag|"D"f3 ef/g/a|"A"fe e2 f2|"Dsus2"e2cBA2|"F#m7"F4A2|"E7"B6|1 "A"A6|]2"A"HA6|
+"Solo, with Amaj drone"[M:6/8]AAA AAA | AAA AAA | A2A A2A | A2z E3||
+P:B
+T:The Holm Band Tune
+M:6/8
+K:A
+%ALTO K:clef=alto middle=C
+%BASS K:clef=bass middle=d
+"A"AGA cBA | "D"F2 A d2 f | "A"ecA GAB | "E7"cAc B2 E |
+"A"AGA cBA | "D"F2 A d2 f | "A"ecA "E7"GAB | "A"cAA A2 z:|
+|:"A"Ace aga | "D"ecA d2 f | "A"ecA GAB | "E7"cAc B2 E |
+[1 "C#m"Ace aga | "F#m"ecA d2 f | "A"ecA "E7"GAB | "A"cAA A2 z :|
+[2 "A"AGA cBA | "D"F2 A d2 f | "A"ecA "E7"GAB | "A"cAA A2 z |]

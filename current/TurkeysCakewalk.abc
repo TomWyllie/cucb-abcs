@@ -1,0 +1,39 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Turkey's Cakewalk
+L:1/8
+M:4/4
+R:reel
+Q:1/4=180
+P:A2B2C2
+K:Emin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Eli Greene's Cakewalk
+K:Emin
+	|: "Em" E3 F G2 F2 | "Em/D"EFGA B2 e2 | "C"E3 F G2 F2 | "Em/B"EFGA B2 B2 |
+"Am" c3 c "Em" B2 B2 | "Am" c3 c "Em" B4 |1 B3 c BAGA | "B7" B8 :|]2 "Em" B3 c "B7" BAGF| "Em" E4 "D" D4||]
+|: "G" d^cde dcde | d2 B2 G2 A2 | "Em" AB - Bc BAGA | "G" BB G2 D2 E2 |
+"D" D3 D "A7" G2 G2 | "D7" F2 d2 d4 | d^cde d=cBA |1 "G" G2 B2 G4 :|]2 "G" G2 B2 G2 "B7"F2||]
+P:B
+T:Little Judique
+K:D
+fg | "D" a^gab a2 f2 | d2 A2 A2 fg | "D7"a^gab a2 f2 | "D"d6 ef |
+"A" gfga g2 e2 | c2 A2 A2 ef | "A7"gfga g2 e2 | "A"c4 f3 g|
+"D" a^gab a2 f2 | d2 A2 A2 fg | "D7"a^gab a2 f2 | "D"d4 g3 a |
+"G" b2 gb "D" a2 fa | "A" g2 eg "D" f2 ed | "A" c2 Ac a2 c2 | "D" d4 c2 d2|
+K:A
+|: "A" e4 e3 f | e2 c2 B2 A2 | "D" agab a2 f2 | "A" e6 fg |
+"D" a3 b a2 f2 | "A" e2 c2 "F#m" a2 f2 |1 "B" e2 c2 B2 A2 | "E" B2 B2 c2 d2 :|]2 "E" e2 c2 B2 c2 | "A" A6 "A7" ||
+%%newpage
+P:C
+T:Turkey in the Straw
+K:D
+fe|"D"dcde d2FG|"A"ABAF A2de|"D"f2f2 fede|"Em"f2e2 "A7"e2fe|
+"D"dcde d2FG|"A"ABAF A2de|"D"fa2b afde|"A7"f2e2 "D"d2:|
+|:e2|"D"fa2f a2a2|fa2f "D7"a4|"G"gb2g b2b2|gb2g "G7"b3c'|
+"D/F#"d'2d'2 "A/E"a2a2|"D"f2f2 "A7/C#"e2de|"G/B"fa2b afde|"A7"f2e2 "D"d2:|

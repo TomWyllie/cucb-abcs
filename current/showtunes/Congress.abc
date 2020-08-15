@@ -1,0 +1,71 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Congress
+C:Gordon Duncan (Jock Broon's 70th)
+L:1/8
+M:4/4
+Q:1/4=210
+P:A2B2C2D2F2
+R:reel
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+%%text Intro
+V:1 clef=perc stafflines=1 stem=up
+[K:none]"A"B>B B/2z/2B- B/2B/2B BB | "G6/A"B>B B/2z/2B- BB BB | "Fmaj7/A"B>B B/2z/2B- B/2B/2B/2B/2 BB | "E/A"B>B B/2z/2B- B/2B/2B BB |
+"A" B>B B/2z/2B- B/2B/2B BB | "G6/A"B>B B/2z/2B- B/2B/2B BB | "Fmaj7/A"B>B B/2z/2B- B/2B/2B BB | "E/A"B>B B/2B/2B- B/2B/2B/2B/2 BB |
+P:B
+T:Prince of Wales
+V:1 clef=treble stafflines=5 stem=auto
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "A"c2BA A3B | "A"ceeA "D"fece | "F#m"c2BA A3c | "F#m"Bcac "E"BGGB|
+"A"c2BA A3B | "A"ceeA "F#m"fece | "D"d3e faaf |1 "E"ecBd cAAB :|2 "E"ecBc "A"A2z2 |
+|: "A"(3cBA eA fAeA | "A"(3cBA eA "D"feca| "F#m"(3cBA eA fAec| "F#m"Bcac "E"BGGB|
+"A"(3cBA eA fAeA | "F#m"(3cBA eA fece| "D"d3e faaf |1 "E"ecBd cAAB :|2 "E"ecBc "A"A2z2 |]
+%
+P:C
+T:The Congress Reel
+V:1 clef=treble stafflines=5 stem=auto
+K:Ador
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Am"eAAA A2Bd|"Am"eaaf gedg|"Am"eAAA eAdA|"G"BGGG Bcdg|
+"Am"eAAA A2Bd|"Am"eaaf gedB|"F"c2-cd ef(3gfe|"G"dBgB A2Bd :|
+|: "F"eaag abag|"F"eaag egd2|"G"egdg egdg|"G"eaaf gedg|
+"F"eaag a2ag|"F"eaag egdB|"E"GABd eaaf|"E"gedB A2Bd :|
+%
+%%newpage
+%
+P:D
+T:Elzic's Farewell
+V:1 clef=treble stafflines=5 stem=auto
+K:Ador
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "Am"e3e eAdA | "C"~c3d cAGE | "F"ga2a agef | "Em"gfga gecA|
+"Am"e3e eAdA | "C"~c3d cAGE | "F"A3B AGED |1 "Em"EGAB "Am"A2z2 :|2 "Em"EGAB A2"Am"A2- |
+ABAG EGAB | "C"c3d eged | "F"c2dA cAGD | "Em"EGAB A2"Am"A2- |
+ABAG EGAB | "C"c3d eged | "F"c2dA cAGD | "Em"EGAB "Am"A2z2 |
+|: "^bar chords" "A" A3G A2GA | "C"c"D"d2d- d_ecA | "C"c"D"d2d- dAcd | "Eb"d_edc "D"dcA=e |
+"A"GAAG A2GA | "C"c"D"d2d- ddcA | "C"c"D"d2d- dAcd | "Eb"d_edc "A"A2z2 :| \
+[P:E] \
+"_last time" "Eb"d_edc "A"A2^cd ||
+%
+P:F
+T:Jock Broon's 70th
+V:1 clef=treble stafflines=5 stem=auto
+K:Amix
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"A" e3e efed|cAA/2A/2A EAce|"G" g4 gfga|"D" f4 fefg|
+"A" aeed e3d|cAA/2A/2A eAcA|"G" GAA/2A/2G d3A|"Bm" GAde d2cd:|
+|:"A" a2cd ecde|cdac decd|"G/A" a2cd ecde|cdac dgg/2g/2g|"D/A"
+a2cd ecde|cdac decA|"C" GAA/2A/2G d3A|1"Bm7" GAde d2cd:|2"Bm7" GAde d2dc|
+|:"A" A2GA -AGA2|GA2G A2dc|"G" A2GA -AGA2|"D"GAde d2dc|
+"A" A2GA -AGA2|GA2G A2dA|"G" GAde d2dA|"Bm" dcde d2dc:|

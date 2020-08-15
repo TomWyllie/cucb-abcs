@@ -1,0 +1,65 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [20/10/2017]
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%footer "2017"
+%%scale 0.75
+
+X:1
+T:Shetland Molecule
+C:Donald Shaw (Tour de Harris)
+C:John McCusker (The Shetland Molecule)
+L:1/8
+R:reel
+M:4/4
+Q:1/4=200
+P:A2B2C2JD2KE2
+K:Dmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T: MacLeod's Farewell
+DE|"D"F2BF AFEF| "Bm"D2 DE FABd|"F#m"e2 fd efdB| "A" ABde "G" dBAG|
+"D" F2BF AFEF| "Bm" D2 DE FABd|"F#m/A"e2fd "G/B"efdB|1 "A/C#"ABde "D"d2:|2 "A/C#"ABde "D"d3 ||
+|: B | "D" A3 f edfd| "A/C#" A3 f edfd| "Bm" ABdA BdAB| "G" dBAF "A" E2 DE|
+"D"F2BF AFEF| "Bm"D2DE FABd| "F#m/A"e2fd "G/B"efdB|1 "A/C#" ABde "D" d3:|2 "A/C#" ABde "D" d2||
+P:B
+T:Donegal Highland
+"G"B2 BA "D"A3B | "D"defd "A"edBA | "G"B2 BA "D"A3 f | "A"af ec "D"d2 dA |
+"G"B2 BA "D"A3B | "D"defd "A"edBA | "G"B2 BA "D"A3 f | "A"af ec "D"d2 de |
+"D"f2 af "G"g2 bg | "D/F#"a2 fd edBA | "D"f2 af "G"g2 bg | "A"af ec "D"d3 e |
+"D"f2 af "G"g2 bg | "D/F#"a2 fd edBA | "G"B2 BA "D"A3 f | "A"af ec "D"d4 |
+%%newpage
+P:C
+T:Tour de Harris
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+"A"BcAc Bcec | "A"BcAc "D"BAFE | "A"BcAc Bcec | "E"BAFE "D"A4 |
+"A"BcAc Bcec | "A"Bcec "D"BAFE | "A"BcAc Bcec | "E"BAFE "D"A4 |
+"A"ceae feae | "A"ceae "D"fecB | "A"ceae feaf | "E"ecBc "D"A3B |
+"A"ceae feae | "A"feae "D"fecB | "A"ceae feaf | "E"ecBc A4 || \
+[P:J] \
+"^Last time bar"ecBc A2|
+P:D
+T:The Shetland Molecule
+|: AB|"A"cAFA E2 AB | "A"ce e/2e/2e "D"fecB|"A"cAFA E2 Ac | "E"BABc AB B/2B/2B |
+"A"cAFA E2 AB |"A"ce e/2e/2e "D"fece |"A"a2 ae "F#m"ffaf |  [1 "E"ecBc A2 :|  [2 "E"ecBc "A"A2 de ||
+|: "D"f4 f3 g| "D"afge fef"A"a-|afec ABce |"F#m"f2ec "E"Bc d/2c/2B |
+"A"cAFA E2 AB |"A"ce e/2e/2e "D"fece |"A"a2 ae "F#m"ffaf |1 "E"ecBc "A"A2de :|2"E"ecBc "A"A2|| \
+[P:K] \
+"^Last time Bar"ecBcA4|
+P:E
+T:The Reconciliation
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "A" A2 (3cBA eA fA| eA "D" fA "E" ecBc| "A" A2 (3cBA eA "D"fA| "E" ecBc AFEF|
+"F#m" A2 (3cBA eA fA| eA "D"fA "E" ec Bc| "D" AB AF Ec df| "E" ecBc "A" A2 cB:|
+|: "A" A2ce a2af| "D" efed cdcB|"A"A2ce a2ag| "E" fbba gbeg|
+"A" agae "A/G#" faec| "F#m" dBcA "E" BAFG| "D/F#" ABAF Ecdf|1 "E" ecBc "A" A2 cB:|2 "E" ecBc "A" A4||
+
+%%footer ""
+

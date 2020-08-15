@@ -1,0 +1,63 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.71
+X:1
+T:Trip to Durrow
+L:1/8
+M:4/4
+Q:1/4=200
+P:A2B2C2D2
+R:reel 48
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%
+P:A
+T:The Trip To Durrow
+|: "D"D2DF ADFA | dfed "G"B3c | "Bm"dBBA dBBA | "A"FADE FE E2 |
+"D"D2DF ADFA | dfed "G"B3c | "Bm"dBBA "F#m"FAdB | "A"AFEG "D"FD D2 :|
+|: "D"dcde fefg | afdf "G"gfed | "A7"(3Bcd ef gebe | gebe gfef |
+"D"d2de fefg | afdf "G"gfed| "A7"(3Bcd ef gbag | fdec "D"d2de |
+"D"fd"A"ec "Bm"d2de | "Bm"fded "E7"B3c | "G"dBBA dBBA | "A7"FADE FE E2 |
+"D"D2DF ADFA | dfed "G"B3c | "Bm"dBBA FAdB | "A"AFEG "D"FD D2 :|
+%
+P:B
+T:The Cup Of Tea
+K:Edor
+%ALTO K: Edor clef=alto middle=c
+%BASS K: Edor clef=bass middle=d
+|: "Em"BAGF GEEF | GEBE GEEA | BAGF GEEG | "D"FDAD FDDA |
+"Em"BAGF GEEF | GEBE GEEA | "G"B2 BA GABc | "D"dBAG FD D2 :|
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|: "D"d2 eg fdec | d2 eg "Bm"fB B2 | "Bm"d2 eg fdec | "A"dBAG "D"FD D2 |
+"D"d2 eg fdec | "D"dfaf "G"g2 fg | "A"afge fdec | "A"dBAG "D"FD D2 :|
+|: "D"FAdA FABA | "D"FAdA "A"FEE2 | "D"FAdA "G"FABc | "A"dBAG "D"FD D2 |
+"D"FAdA FABA | "D"FAde "A"fee2 | "G"fdec dBAF | "A"GBAG "D"FD D2 :|
+%
+%%newpage
+%
+P:C
+T:The Musical Priest
+K:Bmin
+%ALTO K: Bmin clef=alto middle=c
+%BASS K: Bmin clef=bass middle=d
+|: BA | "Bm"FBBA BABd | "A"cBAf ecBA | "Bm"FBBA BABd | "F#m"cBAc "Bm"B2 :|
+|: Bc | "D"d2dc dfed | "A"(3cBA eA fAec | "Bm"dcBc defb | "A"afec "Bm"B2 :|
+|: Bc | "Bm"dBB2 bafb | "A"afec "F#m"ABce | "Bm"dB B2 bafb | "A"afec "Bm"B2 :|
+%
+P:D
+T:McFadden's Handsome Daughter
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+"A"E3F A2cA | BABc ecBA | "A"E3F A2af | ecBd cAAF |
+"A"E3F A2cA | BABc ecBA | "E"E2FG A2af | ecBd cAA2 ||
+"A"aece "D"fgaf | "A"edcA "E"BAFA | "A"aece "D"fgaf | "E"edcB ABce |
+"A"aece aecA | "D"B2cA BAFA | "E7"agfe fgaf | edcB "A"ABcd ||
+"A"e3f ec(3ccc | "A"ecac "E"bB(3BBB | "A"ce(3eee aecA | "E"EFAd cAAc |
+"F#m"e3f ec(3ccc | ecac "E"bB(3BBB | "E7"cefg a3f | [1 "E7"e2ce aecA |] \
+[P:E] \
+[2 "_last time" "E7" e2ce aecB | "A"A8 |]

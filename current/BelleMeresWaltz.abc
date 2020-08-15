@@ -1,0 +1,35 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X: 1
+T:Belle Mere's
+L:1/4
+M:3/4
+R:waltz
+Q:1/4=100
+P:A2B2
+K:Fmaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Belle Mere's Waltz
+|: " \n(Capo 3)"F/2>D/2 | "F \n(D)"C>DF | "Dm \n(Bm)"F>GA | "Gm \n(Em)"f>ga | "C \n(A)"g2 f/2>e/2 | "Bb \n(G)"dfF |
+"F \n(D)"A c/2>A/2G/2>F/2 | "Gm \n(Em)"G>A G/2>F/2 | "Bb \n(G)"D2 "Gm7 \n(Em7)"F/2>D/2 | "F \n(D)"C>DF | "Dm \n(Bm)"F>GA |
+"Gm \n(Em)"f>ga | "C \n(A)"g2 f/2>e/2 | "Bb \n(G)"dfF | "C \n(A)"cC>A | "Bb/C \n(G/A)"F3- | "F \n(D)"F2 :|
+|: f/2>g/2 | "Dm \n(Bm)"a>gf | "Am \n(F#m)"ecF | "Bb \n(G)"d>fd | "F \n(D)"cFF | "Bb \n(G)"d>fd |
+"F \n(D)"cFA | "G \n(E)"G>A G/2>F/2 | [1 "Bb \n(G)"D2 "C \n(A)"f/2>g/2 | "Dm \n(Bm)"a>gf | "Am \n(F#m)"ecF |
+"Bb \n(G)"d>fd | "F \n(D)"cFF | "Bb \n(G)"dfF | "C \n(A)"cC>A | "Bb/C \n(G/A)"F3- | "F \n(D)"F2 :|
+ [2"Bb \n(G)"D2 "Bb/C \n(G/A)"F/2>D/2 | "F \n(D)"C>DF | "Dm \n(Bm)"F>GA | "Gm \n(Em)"f>ga |
+"C \n(A)"g2 f/2>e/2 | "Bb \n(G)"dfF | "C \n(A)"cC>A | "Bb/C \n(G/A)"F3- | "F \n(D)"F2 |]
+%
+%%newpage%%
+%
+P:B
+L:1/8
+T:Sunday River
+FG | "F \n(D)" A2 c3 A | "Bbm \n(Gm)" G4 FG |"F \n(D)" A2 c3 A |"Bbm \n(Gm)" G4 FG |"F \n(D)" A2 f2- "C/E \n(A/C#)" f2|"Dm \n(Bm)" e3 f e2 |
+"Bb \n(G)" d3 e dc | "F \n(D)" A4 FG |"F \n(D)" A c4 A | "Bbm \n(Gm)" G4 FG |"F \n(D)" A2 c4 |"Dm \n(Bm)" d4 FG |
+"F \n(D)" Ad cA GF | "Bb \n(G)" D3 C AG |"Csus4 \n(Asus4)" F4 FG |"F \n(D)" F4 AB |"F \n(D)" c3 d fg |"Am \n(F#m)" a6 |"Gm7 \n(Em7)"
+g4 ga | "Csus4 \n(Asus4)" g4 fd |"F \n(D)" c3 d fg |"Am \n(F#m)" a3 a ba |"Gm \n(Em)" g2 a2 "Bb/F \n(G/D)" f2 | "Csus4 \n(Asus4)" g4 "A \n(F#)" ag |"Dm \n(Bm)" f3 e dc |"Am \n(F#m)" 
+A4 cf |"Bb \n(G)" d3 c BA |"Csus4 \n(Asus4)" G4 FG | "F \n(D)" Ad cA GF |"Bb \n(G)" D3 C AG |"Csus4 \n(Asus4)" F3 E FG |"F \n(D)" F4||

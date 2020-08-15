@@ -1,0 +1,34 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.68
+X: 1
+T:Lovers' Reels
+C:Adam Sutherland (The Road To Errogie)
+M:4/4
+L:1/8
+P:A2B2C2
+R:reel
+K:Amaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Clumsy Lover
+|:"A"ce (3eee fedc|"D"df (3fff =gfed|"A"ce (3eee fedc|"G"dBBA "Bm"B2d2|
+"A"ce (3eee fedc|"D"df (3fff =gfed|"A"ceec "Bm7"dfed|"Em"cAAG "D"A2 AB:|
+|:"A"caac aaca|"Bm7"daad aada|"F#m"caac aaca|"E"Baca daBa|
+"A"caac aaca|"D"daad aada|"A"ceec "Bm7"dfed|"Em"cAAG "D"A4:|
+P:B
+T:The Amorous Lover
+K:Amix
+|:"A"A2 cd cAcd| AccA "G"B2 BG|"A"A2 cd cAcd|eAAG "G"A2 AG:|
+|:"A"A2 ge gazf|"G"g2 gd Bd G2|"A"A2 ge gazf|1 "G"gedB A2 AG:|2 "G"gedB "A"A2 z2||
+P:C
+T:The Road To Errogie
+K:Amaj
+|:"A"EA A/2A/2A BABc|eA A/2A/2A Bcec|"D"f3a ecA2|"E"B3c BAFA|
+"F#m"EA A/2A/2A BABc|"C#m"eA A/2A/2A Bcec|"D"f3a ecA2|"E"BAGE "A"A2 cA:|
+"A"eaa2 a2ba|"A/C#"bc'2b a3e|"D"f2ea2ef2-|"E"feae fecd|
+"F#m"eaa2 a2ba|"A"bc'2b a3e|"D"f3a ecAF|"E"BAGE A4|
+"A"eaa2 a2ba|"F#m"bc'2b a3e|"D"f2ea2ef2-|"E"feae fecA|
+"F#m"EA A/2A/2A BABc|"C#m"eA A/2A/2A Bcec|"D"f3a ecA2|"E"BAGE A2 cA|]

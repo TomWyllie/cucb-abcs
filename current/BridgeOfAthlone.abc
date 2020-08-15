@@ -1,0 +1,55 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.73
+X:1
+T:Bridge of Athlone
+C: Robin Dunn (The Redheugh Library Jig)
+L:1/8
+M:6/8
+P:A2B2C2D2
+Q:1/4=180
+R:jig 48
+K:Gmaj
+%ALTO K: clef=alto middle=c
+%BASS K: clef=bass middle=d
+P:A
+T:The Redheugh Library Jig
+|: D | "G"GAB "D"ABc | "G"B2G GAB | "C"c2D "G"B2D | "D7"A2D FED | 
+"G"GAB "D"ABc | "G"B2G GAB |"C"cDD "G"BDD | "D"AGF "G"G2 :| 
+|: "D"AFD DFA | "G"BGG GAB | "C"c2D "G"B2D | "D"A2D FED |
+"D7"AFD DFA | "G"BGG GAB | "C"cDD "G"BDD | "D"AGF G3 :| 
+K:D
+|: "D"F2D "A7/E"A2F | "D/F#"d2A "D"f2d |"A"c2e Ace | "A7/G"g2e c2A | 
+"D"F2D "A7/E"A2F | "D/F#"d2A "D"f2d | "A"c2e "A7"ABc | "D"d3 d3 :|
+%
+P:B
+T:Morgan Rattler
+K: Dmaj
+d |: "D" AGF "Em" EFG | "D" FEF D2 d | "D" AGF "Em" EFG | "G" B2 A Bcd |
+"D" AGF "Em" EFG | "D" FEF D2 A | "D" def "A" edc | "G" B2 A Bcd :|
+|: "Bm" d2 e fdB | "A" c2 d ecA | "Bm" d2 e fdB | "G" g2 e fga |
+"Bm" d2 e fdB | "A" c2 d ecA | "D" def "A" ecA | "G" B2 A Bcd :|
+|: "D" D2 d dcd | "A" E2 e ede | "D" D2 d dcd | "G" B2 A Bcd |
+"D" D2 d dcd | "A" E2 e efg | "D" agf "A" edc | "G" B2 A Bcd :| 
+%%newpage
+%
+P:C
+T: The Bridge Of Athlone
+K: Dmaj
+|:F|"A" A2A ABc|"D" d2A FDF|"Em" A2G EFG|"G" B2A FDF|
+"A" A2A ABc|"D" dfd A2F|"G" GBA "A" GFE|"D" D3 D2:|
+|:A|"D" f2d AFA|"D" f2d AFA|"A" g2e cde|"G" dcB "A" A2A|
+"D" f2d AFA|"D" f2d A2A|"A" Aef gec|"D" d3 d2:|
+|:B|"Bm" AFA d2z|"D" dfd A2z|"A" g2f e2d|"A" cec A2z|
+"D" AFA d2z|"D" dfd A2z|"A" gfe cde|"D" d3 d2:| 
+%
+P:D
+T:Basquet Of Oysters
+K:G
+|: Bc | "G" d2 g gfg | "D" a2 f d2 B | "C" c2 c cBc | "D" d2 B GBc |
+"G" d2 g gfg | "D" a2 f d2 B | "C" cdc "D" B2 A |1 "G" G3-G :|2 "G" G3 G3 |
+|: "G" Bcd Bcd | "C" e2 c e2 c | "D" ABc ABc | "G" d2 B d2 B|
+"D" ded B2 g | "C" f2 e c2 e | "D" ded cBA |1 "G" G3 G3 :|2 "G" G3 G2|
+|: d | "C" e2 d B2 G | "D" AAA A2 d | "C" e2d cBA | "G" GGG G2 d |
+"C" e2 d B2 G | "D" AAA A2 d | "C" e2 d cBA |1 "G" G3 G2 :|2 "G" G3 G3 ||

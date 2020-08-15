@@ -1,0 +1,51 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.7
+X: 1
+T:Captain Pugwash
+R:hornpipe
+M:2/2
+L:1/8
+Q:1/4=140
+P:A2B2C2D2
+K:Em
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:King of the Fairies
+K:Edor
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:B,2|"Em"EDEF GFGA|B2B2 G2GA|"C"B2E2 EFGE|"D"FGFE D2B,2|
+"Em"EDEF GFGA|BAGB "D"d3c|"Em"B2E2 "Bm"GFE_E|"Em"E6 :|
+d2|"Em"e2e2 Bdef|gagf "C"e3f|"Em"e2B2 BABc|"Bm"dedc BcdB|
+"Em"e2B2 Bdef|gagf "C"efed|"Em"Bdeg "D"fedf|"C"e6 ef|
+"Em"g3e "D"f3d|"Em"edBc "Bm"d3e|"D"dBAF "Em"GABc|"Bm"dBAF "Em"GFED|
+"Em"B,2E2 EFGA|B2e2 edef|"C"e2B2 "Bm"BAGF|"Em"E6|]
+P:B
+T:Underwood Hornpipe
+K:D
+%%staves 1 2
+V:1
+|: "Em"E2 (3EFG E2 (3EFG | B>G A>F G>E F>D | E2 (3EFG "C/G"E2 (3EFG | "G"E>G F>A "D/F#"G>B A>D |
+"Em"E2 (3EFG E2 (3EFG | B>G A>F G>E F>D | E2 (3EFG "Am"E2 (3EFG | "Bm"B>A G>D "Em"E4 :|
+|: "Em"B2 (3Bcd e>f g>a | "Bm"b>B a>B g>B f>B | "Em"B2 (3Bcd "C"e>f g>a | "Bm"b>a g>f "Em"e2 B2 |
+"Em"B2 (3Bcd "C/G"e>f g>a | "G"b>B a>B "B7"g>B f>B | "Em"B2 (3Bcd "C"e>f g>a | "Bm"b>a g>f "Em"e2 D2 :|
+%
+V:2
+|: E8 | F8 | G8 | A8 |
+B2c2 d2e2 | E2F2 G2A2 | B2c2 d2e2 | f2d2 B4 :|
+|: B8 | B2c2 d2e2 | B8 | B2E2 E4 |
+B8 | B2c2 d2e2 | B8 | B2E2 E4 :|
+%%newpage
+%%staves 1
+P:C
+T:Trumpet Hornpipe (Captain Pugwash)
+K:G
+D2 \
+|: "G"(3GGG G2 (3GGG G2 | "G"B>GB>d g>dB>G | "D"(3DDD D2 (3DDD D2 |
+"D"F>DF>A "D7"c>AF>D | "G"(3GGG G2 (3GGG G2 | "G"B>GB>d g2 g2 | "A"f>ag>f "A7"e>gf>e |1
+"D"d>^cd>e "D7"d>=cB>A :|2 "D"d>^cd>e "D7"d>=cB>c |: "G/B"(3ddd d2 (3ddd d2 |
+"G/B"e>fg>f e>dc>B | "C"c>de>d c>BA>G | "D"F>GA>G "D7"F>DE>F | "G"(3GGG G2 "G7/F"(3=F=F=F =F2 |
+"C/E"(3EEE E2 "Eb7"(3_E_E_E _E2 | "D"D>gf>e d>cB>A |1 "G"G2 "D"B2 "G"G2 B>c:|2 "G"G2 "D"B2 "G"G2 |]
