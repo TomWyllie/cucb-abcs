@@ -1,0 +1,57 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Flora MacAulay's
+C:Erik Laughton (The Sorquoy)
+C:Allan MacDonald (Dr Flora MacAulay Of Carradale)
+C:Larry Unger (All The Rage)
+R:jig
+L:1/8
+M:6/8
+Q:1/4=180
+P:A2B2C2D2
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:The Moon and The Seven Stars
+|:c|"D"d2A A2F | "G"GAB "D"A3 | "G"Bcd efg | "A"fed cBA |
+"D"d2A A2F | "G"GAB "D"A3 | "Bm"Bcd "Em"efg | "A7"Adc "D"Dd2 :|
+|: c|"A"e2A A3 | "A7"efg "D"f3 | "A7"efg "D"fed | "G"cdB "A"A3 |
+"G"BGB "D"AFA | "G"BGB "D"AFA | "Bm"Bcd "Em"efg | "A7"Adc "D"d2 :|
+P:B
+T:The Sorquoy
+K:Dmin
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"Dm"DAA BAA|dAA BAA|"Gm"GAA FDD|"C"CDD "A7"FDD|
+"Dm"DAA BAA|"Gm"dAA BAA|"C"GAA FDD|"A7"CDF "Dm"D3:|
+|:"Gm"G3 GFG|AGG GFD|"F"CDD DCD|FDD DCD|
+"Eb"G3 GFG|AGG GFD|"C"dcA GFD|"A7"FGA "D"D3:|
+%%newpage
+%%scale 0.70
+P:C
+T:Dr Flora MacAulay Of Carradale
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:"A"Acc c2B|Acc ecB|"D"Aff f2e|"D"Afe "E7"c2B|
+"A"Acc c2B|Acc ece|"D"fcc "E"ecB|1"A"A3 "E7"A2a:|2"A"A3 Ace|]
+|:"F#m"a3 f2e|"D"Afe c2B|"A"Aff f2e|"E"Afe c2e|
+"D"a3 f2e|"A"Afe c2B|"F#m"Aff ecB|1"D"A3 "E7"Ace:|2"D"A3 "E7"A2a|]
+|:"A"ABB c3|ecB c2B|"D"Aff A2B|"D"Aff "E7"ecB|
+"F#m"ABB c3|ecB c2B|"D"Aff "E"ecB|1"A"A3 "E7"A2a:|2"A"A3 "A7"Ace|]
+|:"D"a2f aee|"C#m"fcc e2f|"F#m"eAA f2c|"Bm7"eAA "E7"fec|
+[1"D"a2f aee|"C#m"fcc e2f|"F#m"fcc "E7"ecB|"A"A3 "A7"Ace:|]
+[2"D"a2f aee|"C#m"fcc eff|"D"fcc ecB|"D#/Adim"A3 A2|]
+P:D
+T:All The Rage
+K:Emaj
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:e |"E" fgg gfe|"E"fgg g2e|"A"cee "E"Bee|"F#m"gfe "B7"f2e|
+"E" fgg gfe|"C#m"fgg g2b|"A"gfe "B7"fed|"E"e3-e2:|
+|:e |"A"cee "E"Bee|"A"cee"E"B2e|"F#m"ece fef |"B"gbg f2 e |
+"A"cee "E"Bee|"C#m"cee"G#m"B2b|"A"gfe "B7"fed |"E"e3-e2:|]
