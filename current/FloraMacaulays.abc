@@ -4,6 +4,7 @@
 %%scale 0.75
 X:1
 T:Flora MacAulay's
+C:Gordon Duncan (The Famous Baravan)
 C:Erik Laughton (The Sorquoy)
 C:Allan MacDonald (Dr Flora MacAulay Of Carradale)
 C:Larry Unger (All The Rage)
@@ -16,11 +17,11 @@ K:D
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 P:A
-T:The Moon and The Seven Stars
-|:c|"D"d2A A2F | "G"GAB "D"A3 | "G"Bcd efg | "A"fed cBA |
-"D"d2A A2F | "G"GAB "D"A3 | "Bm"Bcd "Em"efg | "A7"Adc "D"Dd2 :|
-|: c|"A"e2A A3 | "A7"efg "D"f3 | "A7"efg "D"fed | "G"cdB "A"A3 |
-"G"BGB "D"AFA | "G"BGB "D"AFA | "Bm"Bcd "Em"efg | "A7"Adc "D"d2 :|
+T:The Famous Baravan
+|:d2c dAB | d2c def | g2f gef | g2f gef |
+a2a aed | c2e ecA |1 A2c ecA | dcd eAB :|2 Ace edc | d3 def ||
+|:g2f gdB | GBd gag | eff fed | dcd fed |
+e2e age | age age |1 a2a aed | cAd AeA :|2 a2a edc | d3 d3 ||
 P:B
 T:The Sorquoy
 K:Dmin
@@ -34,6 +35,7 @@ K:Dmin
 %%scale 0.70
 P:C
 T:Dr Flora MacAulay Of Carradale
+N:Play once only
 K:A
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
