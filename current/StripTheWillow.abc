@@ -1,0 +1,100 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.75
+X:1
+T:Strip the Willow
+C:Donald Macleod (Rory Macleod)
+R:jig
+L:1/8
+M:6/8
+P:A2B2C2
+Q:1/4=180
+K:D
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+%%scale 0.70
+P:A
+T:The Jig of Slurs
+|: "D"Add dcd | \
+"G"Bdd "D"Add | \
+"G"Bdd "D"Add | \
+"Em"Bee "A7"edB |
+"D"Add dcd | \
+"G"Bdd "D"Add | \
+"G"Bdd "A7"cee | \
+"D"fdd d2 :|
+|: B | \
+"D"Aff fef | \
+"D"aff fed | \
+"G"Bee ede | \
+"A"fee edB |
+"D"Aff fef | \
+"D"aff fed | \
+"G"Bdd "A"cee | \
+"D"fdd d2 :|
+|: (B/2A/2) | \
+"G"Ggg gfg | \
+"Em"age "D"gdB | \
+"G"Ggg gfg | \
+"Em"age "C"(g2B) |
+"G"Ggg gfg | \
+"Em"age gdB | \
+"C"Bee egg | \
+"Bm"fdd "Em"e2 :|
+|: "G"GBB Bdd | \
+"G"dee "Em"edB | \
+"G"GBB Bdd | \
+"Em"dee egg |
+"G"GBB Bdd | \
+"G"dee "Em"edB | \
+"Em"Bee "C"egg | \
+"Bm"fdd "Em"e3 :|
+P:B
+K:Bmin
+T:Paddy's Leather Breeches
+|: "Bm"BBB f2e | \
+fBB f2e | \
+BBB f2e | \
+"A"cAA fec |
+"Bm"BBB f2e | \
+fBB f2e | \
+"D"f^ga "A"efa | \
+cAA ecB :|
+|: "Bm"a3 f2e | \
+fBB f2e | \
+"A"a3 f2e | \
+cAA ecB |
+"G"a3 f2e | \
+fBB f2e | \
+"F#m"f^ga efa | \
+cAA ecB :|
+%%newpage
+%%scale 0.75
+|: "Bm"BBB "A"ccc | \
+"Bm"BBB f2e | \
+"A"ccc "Bm"BBB | \
+"A"AAA ecB |
+"Bm"BBB cBc | \
+Bce f2e | \
+"D"f^ga "A"efa | \
+"A"cAA ecB :|
+|: "F#m"a^ga f2e | \
+"Bm"fBB f2e | \
+"F#m"a^ga f2e | \
+"A"cAA ecB |
+"F#m"a^ga f2e | \
+"Bm"fBB f2e | \
+"D"f^ga "A"efa | \
+"A"cAA ecB :|
+P:C
+T:Rory Macleod
+K:Amaj
+|:"A"c2A cee|"D"fee faa|"A"c2A cee|"E"fec cBB|
+"A"c2A cee|"D"fee faa|"D"fcc "E7"ecB|"A"cAA A2 e:|
+|:"F#m"cee fee|"D"aee fee|"A"cee fee|"E"aee eff|
+"F#m"cee fee|"D"aee fee|"D"fcc "E7"ecB|1"A"cAA A2 e:|2 cAA A3||
+|:"A"Acc cdd|"G#/E"dcc c2B|"F#m"Acc cdd|"E"dcc cBB|
+"D"Acc cdd|"C#m"dcc c2e|"D"fcc ecB|1 "E7"cAA A3:|2 "D#/Adim"cAA A2 e||
+|:"F#m"faa aff|"C#m"fee e2c|"Bm"cBB Bce|"E7"fee eff|
+"D"faa aff|"C#m"fee e2c|"E7"fec ecB|1"A" cAA A2 e:|2 "A"cAA A3||
