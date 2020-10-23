@@ -1,7 +1,7 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T		Page $P of 2"
-%%scale 0.75
+%%scale 0.8
 X:1
 T:Foxhunter's, The
 C:Mike McGoldrick (Farewell to Whalley Range)
@@ -24,13 +24,14 @@ K: Dmaj
 |: "D" fdf f2d "G" g2e | "D" fdf f2d "A7" e2d | "D" fdf f2d "G" g2b | "D" afd def "A7" e2d :|
 |: "Em" gfe dcB "D" AGF | "Em" B2 E E2 F G2 B | "A" ABc dcB ABc | "D" d2 D DEF E2 D :| 
 P:B
-T: Cucanandy
-K: Gmaj
+T:The Butterfly
+K:Emin
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-|:"G" B3 B2A G2A|"Em" B2d d2B d2e|"G" B3 B2A G2A|"Em" B2e efd e3:|
-"C" e2f g2f g2A|"G" B2d d2B d3|"C" e2f gfe dBA|"Em" B2e efd ~e3|
-"C" e2f g2f g2A|"G" B2d d2B d3|"Em" e2B B2A G2A|"Em" B2e efd e3|| 
+|:"Em"B2E G2E F3|B2E G2E "Bm"FED|"Em"B2E G2E F3|"G"B2d d2B "D"AFD:|
+|:"Em"B2d e2f g3|"G"B2d g2e dBA|"C"B2d e2f g2a|"G"b2a g2e "D"dBA:|
+|:"G"B3 B2A G2A|"C"B3 BAB dBA|"G"B3 B2A G2A|"D"B2d g2e dBA:|
+|:"Em"B2d e2f g3|"G"B2d g2e dBA|"C"B2d e2f g2a|"G"b2a g2e "D"dBA:|
 %%newpage
 P:C
 T: The Rabbit
@@ -48,6 +49,7 @@ K: Amaj
 P:E
 T: Farewell to Whalley Range
 K: Amaj
-|:"F#m"F2c BAF F2E|"F#m"F2c BAc fec|"Esus4"~B3 BAB cBA|1"E"~B3 BAB cBA:|2~B3 BAB cef||
-"F#m"a3 fec fec|"E"B3 BAB cef|"D"a3 baf afe|"E"fec Bce fec|
-"F#m"a2f fec fec|"E"B3 BAB cef|"D"a3 baf afe|"E"fec fec BAB"(F#m)"||
+|:"F#m"F2c BAF F2E|F2c BAc fec|"E"B3 BAB cBA|B3 BAB cBA|
+"D"F2c BAF F2E|"C#/A"F2c BAc fec|"B"B3 BAB cBA| "E7"B3 BAB cef|
+"A"a3 fec fec|"E"B3 BAB cef|"F#m"a3 baf afe|"D"fec Bce fec|
+"A"a2f fec fec|"E"B3 BAB cef|"D"a3 baf afe|"E"fec fec BAB"(F#m)":|
