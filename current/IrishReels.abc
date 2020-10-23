@@ -8,7 +8,7 @@ R:reel
 M:4/4
 L:1/8
 Q:1/4=200
-P:A2B2C2D2E2
+P:A2B2C2D2
 K:D
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
@@ -16,8 +16,8 @@ P:A
 T:Cooley's Reel
 GF|:"Em"EBBA B2 EB|"Em"B2 AB "G"dBAG| "D"FDAD "G"BD"D"AD| "D"FDAD "Bm7"BAGF|
 "Em"EBBA B2 EB| "Em"B2 AB "G"defg| "Bm"afec "Bm7"dBAF|1 "D"DEFD "Em"E2 GF:|2"D"DEFD "Em"E2 gf||
-|: "Em"eB ~B2 eBgf| "Em"eB ~B2 "G"gedB| "D"A2 FA DAFA| "D"BAFA "Bm"defg|
-"Em"eB ~B2 eBgf| "Em"eB ~B2 "G"defg| "Bm"afec "Bm7"dBAF|1 "D"DEFD "Em"E2 gf :|2"D"DEFD "Em"E2 GF||
+|: "Em"eB B2 eBgf| "Em"eB B2 "G"gedB| "D"A2 FA DAFA| "D"BAFA "Bm"defg|
+"Em"eB B2 eBgf| "Em"eB B2 "G"defg| "Bm"afec "Bm7"dBAF|1 "D"DEFD "Em"E2 gf :|2"D"DEFD "Em"E2 GF||
 P:B
 T:The Teetotaler's
 K:Gmaj
@@ -25,25 +25,19 @@ K:Gmaj
 "G"G2 GF GABc|"Em" dBeB dBAc|"C"BEED EFGA |"D/F#"BGAF "G" G4:|
 |:"Em"Beed e2ef|"G" gfaf gfed| "Bm"B^cde d2ef|"A" gfaf gfed|
 "Em"Beed e2ef|"G"gfaf gfed|"C"BEED EFGA|1,2"D/F#"BGAF "G"G4:|"_Last time" "D/F#"BGAF "G"G2GA||
-P:C
-T:Drag Her Round The Road
-K:Emin
-|: "Em"BEED E2GE|E2GE DEGA|BEED E2DE|1 "G"GABG "D/F#"A2GA:|2 "G"GABG "B7"A2BA||
-"Em"~G3F GBdB|"C"c2AB cded|"G"~B3A GBde|dBGB "D/F#"A2BA|
-"Em"~G3F GBdB|"C"c2AB cdef|"G"gedB c2ge|1 dBGB "B7"A2GA|] "_Last time"dBGB "F#m"A2GF||
 %%newpage
+P:C
+T:The Road To Rio
+K:Gmaj
+|:GE|"G"DEGA BABd|"Em"eg~g2 agef|"C/G"gede "G"gedB|"D/F#"AcBA "C/G"GEE2|
+"G"DEGA "B7"BABd|"Em"egg2 agef|"C/G"gede "G"gedB|"D/F#"cABA "G"G2:|
+|:Bc|"G"dgg2 bgg2|"G/F#"bgag edBd|"Em"eBB2 GABd|"Em"e2dB "C"AGEG|
+"G"DEGA "G(B7)" BABd|"Em"egg2 agef|"C/G"gede "G"gedB|"D/F#"cABA "G"G2:|"_last time" DE ||
 P:D
-T:The Fermoy Lasses
-K:Emin
-|: "Em"GE (3EEE BE (3EEE|"C"GE (3EEE BcBA|"Am7"GE (3EEE BE (3EEE|"D/F#"AFDF AcBA:|
-"G"G2 BG dGBG|"Em"G2 Bd efg2|"G"G2 BG dGBG|"D/F#"AFDF AcBA|
-"G"G2 BG dGBG|"Em"G2 Bd efg2|"C"afge fded|1 "D/F#"AFDF AcBA|] "_Last time" "D" ^cABc dAFA||
-P:E
-T:Hand Me Down the Tackle
-K:Dmaj
-|:"D"dD ~D2 FAAB | "D"defd "G"edBc | "D"dD ~D2 FAAF | "C"GFEF "A7"GABc |
-"D"dD ~D2 FAAB | "D"defd "A7"cdeg | "Bm"fdec "G"dcBA | "Em"GFEF "A7"GABc :|
-"D"d2 fd Adfd | "D"d2 fd "A"cdec | "D"d2 fd Adfd | "C"eEEF "A7"GABc |
-"D"d2 fd Adfd | "D"d2 fd "A7"cdeg | "Bm"fdec "G"dcBA | "Em"GFEF "A7"GABc |
-"D"d2 fd Adfd | "D"d2 fd "A"cdec | "D"d2 fd Adfd | "Em"eEEF "A7"GAfg |
-"D"a3 b afdf | "C"gfed "A7"ceag | "Bm"fdec "G"dcBA | "Em"GFEF "A7"GABc|] "_Last time" "D"d8|]
+T:Spootiskerry
+K:Gmaj
+|: "G"G2 DE GDEG | DEGA B2 AB | "C"G2 DE GABd |"D/F#"eged B2 AB |
+"G" G2 DE GDEG | "Em"DEGA B2 AB | "C"g2 ed edBA | B2 "D/F#"G2 "G"G2 ef :|
+|: "Em" g2 ed ed B2 | "Bm" BABG E2 DE | "C" GABd eged | "D"B2 A2 A2 ef |
+ [1 "Em" g2 ed ed B2 | "Bm" BABG E2 DE | "C" GABd eged | B2 "D/F#" G2 "G" G2 ef :|
+ [2 "G" G2 DE GDEG | DEGA B2 AB | "C" g2 ed edBA |B2 "D/F#" G2 "G" G4|]
