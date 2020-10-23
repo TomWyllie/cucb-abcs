@@ -1,104 +1,45 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T		Page $P of 2"
-%%footer "2017"
-%%scale 0.75
+%%scale 0.8
 X:1
 T:Shetland Reels 1
+C:Davie Eunson (The Moul Head)
 R:reel
 L:1/8
 M:4/4
-P:A2B2C2D2E2
+P:A2B2C2D2
 Q:1/4=200
-%%staves 1
-%%score 1
-%ALTO K:clef=alto middle=c
-%BASS K:clef=bass middle=d
-%% Voice 2 used to provide solo accompanment
-K: Dmaj
-P:A
-T: Da Ferry
-A|:"D"d2 d(A d2)d2 |"A"efed c2 A2 |"G"(Bc)dB "D"(AB)A(F|"Em"G2)E2 E3 A |
-"D" d2 d(A d2)d2 |"A"efed c2 A2 |"G"(Bc)dB "A"(AG)FE |"D" D2 d2 d2 z:|
-|:(e|"D" f2) f(d faf)(d| fg)a(g fe)d(f|"A" e2)e(c e2)e(c| ef)e(d cA)Ag |
-"D" f2 f(d fa)f(d| fg)a(g fe)d(f|"Em"ef)g(f "A" ed)cB |"D" A2 d2 d2 z:|
-P:B
-T:Da Mirrie Boys o' Greenland
-K:D
-|: "D"(ABd)e fdf2 | \
-"A7"[A2e2]ce Aec([Ae] | \
-"D"AB)de fdf(a | \
-"A7"ge)cA "D"d2d2 :|
-|: "D"({a}fg)(fe) "B7"fga(f | \
-"Em"gf)"A7"(ec) "Em"(ef)"A7"ge | \
-"D"(fg)(fe) "B7"fga(f | \
-"A7"ge)cA "D"[D2d2][D2d2] :|
-P:C
-T:Far frae Hame
 K:G
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-|: (DE) | \
-"G"GEDE G2(GA) | \
-"G"B2(BA) Bcd2 | \
-"G"(GE)DE G2(GB) | \
-"A7"AGAB "D7"AGEF |
-"G"GEDE G2(GA) | \
-"G"B2(BA) Bcd2 | \
-"C"(ed)ef gedc | \
-"G"BG"D7"AF "G"G2 :|
-|: (Bd) | \
-"Em"g2ge "Bm"f2fd | \
-"Em"edef edB2 | \
-"G"(ge)dB G2(GB) | \
-"C"AGAB AGE2 |
-"G"(GE)DE G2(GA) | \
-"G"B2(BA) Bcd2 | \
-"C"(ed)ef "G"gedc | \
-"G"BG"D7"AF "G"G2 :|
+P:A
+T:Far frae Hame
+|: (DE) | "G"GEDE G2(GA) | "G"B2(BA) Bcd2 | "G"(GE)DE G2(GB) | "Am"AGAB "D7"AGEF |
+"G"GEDE G2(GA) | "G"B2(BA) Bcd2 | "C"(ed)ef gedc | "G"BG"D7"AF "G"G2 :|
+|: (Bd) | "Em"g2ge "Bm"f2fd | "Em"edef edB2 | "G"(ge)dB G2(GB) | "C"AGAB AGE2 |
+"G"(GE)DE G2(GA) | "G"B2(BA) Bcd2 | "C"(ed)ef "G"gedc | "G"BG"D7"AF "G"G2 :|
+P:B
+T:The Moul Head
+K:G
+|: BA | "G"GEED B,DDE | "Em"GDGA BddB | "C"ceec Bdge | "Am"dBBG "D7"A2BA |
+"G"GEED B,DDE | "Em"GDGA BddB | "C"ceec Bdge | "D7"dBAB "G"G2 :|
+Bd | "Em"eBBA Bdge | "Bm"dBAB GEEe | "C"dBBA Bdge | "D"dBBG A2 Bd |
+"Em"eBBA Bdge | "Bm"dBAB GEEG | "C"DEGA Bdge | "D7"dBAB "G"G2  Bd |
+"Em"eBBA Bdge | "Bm"dBAB GEEe | "C"dBBA Bdge | "Am"dBBG "D7"A2 BA |
+"G"GEED B,DDE | "B/G7"GDGA BddB | "C"ceec "Am"Bdge | "D7"dBAB "G"G2 ||
 %%newpage
-P:D
+P:C
 T:Willafjord
 K:D
-%ALTO K:clef=alto middle=c
-%BASS K:clef=bass middle=d
-|: uB2 | \
-"D"A2FA- "D/F#"ADFA | \
-"G"B2GB- BDGB | \
-"D"A2FA- ADFA | \
-"Em"EFGA "A7"GFED |
-"D"A2FA- "D/F#"ADFA | \
-"G"B2GB- BDGB | \
-"A7"ABc(d e)fge | \
-"D"f2 "G"d2 "D"d2 :|
-|: ue2 | \
-"D"f2df- ffdf | \
-"Em"gea(f gf)eg | \
-"D"f2df- fAdf | \
-"A7"e2ce- eAce |
-"D"f2df- ffdf | \
-"Em"gea(f gf)ed | \
-"A7"ABc(d e)fge | \
-"D"f2 d2 d2 :|
-P:E
+|: uB2 | "D"A2FA- "D/F#"ADFA | "G"B2GB- BDGB | "D"A2FA- ADFA | "Em"EFGA "A7"GFED |
+"D"A2FA- "D/F#"ADFA | "G"B2GB- BDGB | "A7"ABc(d e)fge | "D"f2 "G"d2 "D"d2 :|
+|: ue2 | "D"f2df- ffdf | "Em"gea(f gf)eg | "D"f2df- fAdf | "A7"e2ce- eAce |
+"D"f2df- ffdf | "Em"gea(f gf)ed | "A7"ABc(d e)fge | "D"f2 d2 d2 :|
+P:D
 T:St Anne's Reel
-|: (de) | \
-"D"fedc "G"edcB | \
-"D"A2(FA) DAFA | \
-"G"B2(GB) EBGB | \
-"D"A2(FA) DAFA |
-"D"fedc "G"edcB | \
-"D"A2(FA) DAFA | \
-"E7"(3(BcB) (ed) "A7"cABc | \
-"D"d2(dc) d2 :|
-|: (de) | \
-"D"f2(fg) "Bm"fdef | \
-"Em"gagf g2(gf) | \
-"A7"edcB Aceg | \
-"D"baa^g a2(a=g) |
-"D"f2(fg) fdef | \
-"Em"gagf g2(gf) | \
-"A"edcB Aceg | \
-"D"fddc d2 :|
+|: (de) | "D"fedc "G"edcB | "D"A2(FA) DAFA | "G"B2(GB) EBGB | "D"A2(FA) DAFA |
+"D"fedc "G"edcB | "D"A2(FA) DAFA | "E7"(3(BcB) (ed) "A7"cABc | "D"d2(dc) d2 :|
+|: (de) | "D"f2(fg) "Bm"fdef | "Em"gagf g2(gf) | "A7"edcB Aceg | "D"baa^g a2(a=g) |
+"D"f2(fg) fdef | "Em"gagf g2(gf) | "A"edcB Aceg | "D"fddc d2 :|
 
-%%footer ""
