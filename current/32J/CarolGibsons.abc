@@ -30,7 +30,7 @@ K:Bmin
 |:"Bm"f3 edc|"G"B3 cAG|"D"F3 cAG|"A"F/G/AB cde|
 "Bm"f3 edc|"G"B3 cAG|"D"F3 cAG|"F#m"FGA "Bm"Bz2:|
 |:"Bm"F3 BFD|"A"F3 BFD|"G"F3 cFG|"F#m"FcF "F#m7"dFc|
-"Bm"F3 BFD|"D"F3 BFG|"A"F3 cAG|1"F#m"FGA "Em"BGE:|2"Fm"FGA "Bm"Bz2|]
+"Bm"F3 BFD|"D"F3 BFG|"A"F3 cAG|1"F#m"FGA "Em"BGE:|2"F#m"FGA "Bm"Bz2|]
 %%newpage
 P:C
 T:The Donegal Lass
@@ -38,9 +38,9 @@ K:Amix
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 |:"A"Ace aed|cdB A3|"G"GBd G3|"D"FAd F3|
-"A"Ace aed|cdB A2g|"G"aed cdB|"Em"ABG "A"A3:|
+"A"Ace aed|cdB A2^g|"G"aed cdB|"Em"ABG "A"A3:|
 |:"G"GBd G3|"D"FAd F3|"A"e2e ecA|e2e ecA|
-"G"GBd G3|"D"FAd F2g|"A"aed cdB|"Em"ABG "A"A3:|
+"G"GBd G3|"D"FAd F2^g|"A"aed cdB|"Em"ABG "A"A3:|
 P:D
 T:Dram Behind The Curtain
 K:Emaj
@@ -48,6 +48,6 @@ K:Emaj
 %BASS K:clef=bass middle=d
 |:"E"E2F GFG | B2c efg | "A"gee fec | "B"eBc BGF |
 "C#m"E2F GFG | "A"B2c efg | "F#m"gee fec |1 "B7"eBc BGF :|2 "B7"eBc "E"ez2 |]
-| "E"g2e fec | "B"fge fec | "C#m"eBB cBG | "A"BFG FEC |
+|: "E"g2e fec | "B"fge fec | "C#m"eBB cBG | "A"BFG FEC |
 [1 "G#/E"E2F GFG | "A"B2c efg | "A#/Edim"gee fec | "B"eBc cef :|
 [2 "G#/E"E2F GFG | "A"B2c efg | "F#m"bag az(g|"B7"g)ec BGF|]

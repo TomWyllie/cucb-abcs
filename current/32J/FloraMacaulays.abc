@@ -18,10 +18,10 @@ K:D
 %BASS K:clef=bass middle=d
 P:A
 T:The Famous Baravan
-|:d2c dAB | d2c def | g2f gef | g2f gef |
-a2a aed | c2e ecA |1 A2c ecA | dcd eAB :|2 Ace edc | d3 def ||
-|:g2f gdB | GBd gag | eff fed | dcd fed |
-e2e age | age age |1 a2a aed | cAd AeA :|2 a2a edc | d3 d3 ||
+|:"D"d2c dAB | d2c def | "G"g2f gef | g2f gef |
+"A"a2a aed | c2e ecA |1 "A7"A2c ecA | "G"dcd "A"eAB :|2 "A7"Ace edc | "D"d3 "F#/D7"def ||
+|:"G"g2f gdB | GBd gag | "D"eff fed | "Bm"dcd fed |
+"A"e2e age | age age |1 "A7"a2a aed | "G"cAd "A"AeA :|2 "A7"a2a edc | "D"d3 d3 ||
 P:B
 T:The Sorquoy
 K:Dmin
@@ -36,6 +36,7 @@ K:Dmin
 P:C
 T:Dr Flora MacAulay Of Carradale
 N:Play once only
+%%text Play once only
 K:A
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
