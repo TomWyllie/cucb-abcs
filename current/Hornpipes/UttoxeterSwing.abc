@@ -57,11 +57,16 @@ G2 GA Bc d2-|de d^c de f2|gB2g c2 gg|fg fd e4:|
 %
 P:B
 V:1
-T:Tabletop Mountain
-|:"Am"A2 A2 ABcA|"Em"BcBA G4 |"F"edcB ABcA|"G"BcBA "Em"G2E2|
-"Am"A2 A2 ABcA|"Em"BcBA G4 |"F"edcB ABcB|"Am"A2 "G"G2 "D"A4:|
-|:"Am"ecAc e2 e2|"G"dBGB d2 d2|"F"cBAG EGAB |"D/F#"cBAG EGAB|
-"Am"ecAc e2 e2 |"G"dBGB d2 d2 |"F"cBAG EGAc |"Am"A2 "G"G2 "D"A4:|
+T:King of the Fairies
+K:Edor
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+|:B,2|"Em"EDEF GFGA|B2B2 G2GA|"C"B2E2 EFGE|"D"FGFE D2B,2|
+"Em"EDEF GFGA|BAGB "D"d3c|"Em"B2E2 "Bm"GFE^D|"Em"E6 :|
+d2|"Em"e2e2 Bdef|gagf "C"e3f|"Em"e2B2 BABc|"Bm"dedc BcdB|
+"Em"e2B2 Bdef|gagf "C"efed|"Em"Bdeg "D"fedf|"C"e6 ef|
+"Em"g3e "D"f3d|"Em"edBc "Bm"d3e|"D"dBAF "Em"GABc|"Bm"dBAF "Em"GFED|
+"Em"B,2E2 EFGA|B2e2 edef|"C"e2B2 "Bm"BAGF|"Em"E6|]
 P:C
 T:Paul's Hornpipe
 K:D

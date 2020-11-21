@@ -18,7 +18,7 @@ K:Edor
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 |:B,2|"Em"EDEF GFGA|B2B2 G2GA|"C"B2E2 EFGE|"D"FGFE D2B,2|
-"Em"EDEF GFGA|BAGB "D"d3c|"Em"B2E2 "Bm"GFE_E|"Em"E6 :|
+"Em"EDEF GFGA|BAGB "D"d3c|"Em"B2E2 "Bm"GFE^D|"Em"E6 :|
 d2|"Em"e2e2 Bdef|gagf "C"e3f|"Em"e2B2 BABc|"Bm"dedc BcdB|
 "Em"e2B2 Bdef|gagf "C"efed|"Em"Bdeg "D"fedf|"C"e6 ef|
 "Em"g3e "D"f3d|"Em"edBc "Bm"d3e|"D"dBAF "Em"GABc|"Bm"dBAF "Em"GFED|
