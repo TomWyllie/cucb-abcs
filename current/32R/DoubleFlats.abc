@@ -7,7 +7,7 @@ T:Double Flats
 C:Mairearad Green (The First Rule Of Box Club)
 C:Liz Carroll (Old Maid of Galway)
 C:Bruce MacGregor (Helium Disciples)
-C:Angus R Grant (She's In The Attic)
+C:Liz Carroll (Anne Lacey's)
 P:A2C2D2E2      
 L:1/8
 M:4/4
@@ -50,11 +50,11 @@ K:Bbmaj
 |: FE | "Bb \n(G)" DFBF dFBF | "Ab \n(F)" E2 BE cEBE | "Gm \n(Em)" D2 BD cDBD | "F \n(D)" ABcB AFAc |
 "Bb \n(G)" DFBF dFBF | "Ab \n(F)" E2 eE dEcE | "F \n(D)" ABcB AFAc | "F \n(D)" AFAc "Bb \n(G)" B2 :|
 P:E
-T:She's In The Attic
-K:Gmin
+T: Anne Lacey's
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-|: "Gm \n(Em)" gGBA cBAG | "F \n(D)" FCDF CDFG | "Gm \n(Em)" gGBA cBAG | "Bb \n(G)" FGAB "C \n(A)" AG G2 |
-"Gm \n(Em)" gGBA cBAG | "F \n(D)" FCDF CDFG | "Gm \n(Em)" gGBA cBAG | "Bb \n(G)" FGAB "C \n(A)" AG G2 :|
-|: "Eb \n(C)" BGEG EGDG | "F \n(D)" CGDG EG^FG | "Eb \n(C)" BGEG EGDG | "F \n(D)" ^FGAB AG G2 |
-"Eb \n(C)" BGEG EGDG | "F \n(D)" CGDG EG^FG | "Eb \n(C)" BGEB GEBG | "F (D) \n(D (B))" ^FGAF "(Gm) \n((Em))" G4 :|
+K: Gdor
+|:"Gm \n(Em)"G2GF GBGA|BGFD CB,DF|"Eb  \n(C)"G2GF GBdc|BGFD CB,B,=B,|
+"C \n(A)"C2CB, CDFG|BGFD GDF^F|"Eb  \n(C)"GG,~G,2 G,B,DG|1 "D7 \n(B7)"BGFD GDF^F:|2 BGFD G4||
+|:"Gm \n(Em)"g3f dcBc|"Bb \n(G)"dcBc dg~g2|"C \n(A)"ecfc gcfg|"Eb  \n(C)"bgfd cBdf|
+"Gm \n(Em)"g3f- "D/F# \n(B/D#)"fcBc|"F \n(D)"dcBG "C/E \n(A/C#)"FDGD|"Eb  \n(C)"C2CB, CDFG|1 "D7 \n(B7)"BGFD G4 :|2 "D7 \n(B7)"BGFD GDF^F||
