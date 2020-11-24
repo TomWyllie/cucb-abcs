@@ -9,17 +9,12 @@ R:reel
 L:1/8
 M:4/4
 Q:1/4=200
-P:AB2C2D2E2
+P:AB2C2D2
 K:Bmin
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 P:A
-V:1 clef=perc stafflines=1 stem=up
-[K:none] "Bm7"B8 | "D"B8 | "A"B8 | "Bm7"B>B B/2B/2B BB/2B/2 BB/2B/2 |
-"F#m7"B>B B/2 z/2 B/2B/2- B/2BB/2 BB/2B/2 | "Bm7"B>B B/2B/2B BB/2B/2 BB/2B/2 |"F#m7"BB/2B/2- B/2B/2B- B3 B |
-P:B
 T:Maggie's Pancakes
-V:1 clef=treble stafflines=5 stem=auto
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 K:Bm
@@ -27,14 +22,14 @@ K:Bm
 "Bm \n(Am)"fB B/2B/2B fgfe | "G \n(F)"dB B/2B/2B GBdB | "A \n(G)"cABc ABce-|"A \n(G)"efec Bcde:|
 |: "G \n(F)"f2 dB GBdB | "A \n(G)"caec "Bm \n(Am)"dB B/2B/2B | "G \n(F)"f2 dB GBdB | "A \n(G)"cAec Bcde |
 "D \n(C)"fd d/2d/2d fgfe | "G \n(F)"dB B/2B/2B GBdB | "A \n(G)"cA"D \n(C)"dA "A \n(G)"ecAa-|"A \n(G)"afec Bcde:|
-P:C
+P:B
 T:The Otter's Holt
 |: "Bm \n(Am)"fBBA FEFB | "Bm \n(Am)"AFEF "A \n(G)"ABde | "G \n(F)"fBBA FEFA | "A \n(G)"BdcA B3e|
 "G \n(F)"fBBA FEFB | "A \n(G)"AFEF ABde | "Bm \n(Am)"faaf "G \n(F)"egfe|1"A \n(G)"dBAF B3e:|2"A \n(G)"dBAF B3c||
 |: "D \n(C)"cd2f a2fa | "D \n(C)"bfaf "G \n(F)"egfe | "D \n(C)"dcdf a2fa | "G \n(F)"bfaf "A \n(G)"e3c|
 "D \n(C)"cd2f a2fa | "A \n(G)"bfaf egfe | "G \n(F)"fBBA FEFA |1 "A \n(G)"BdcA B3c:|2"A \n(G)"BdcA "Bm \n(Am)"B3 c|]
 %%newpage
-P:D
+P:C
 T:Hull's Reel
 K:E
 %ALTO K:clef=alto middle=c
@@ -43,7 +38,7 @@ K:E
 "E \n(D)"BEEc B2 Bc|"E \n(D)"BEEB cBce|"F#m \n(Em)"fgfe cagf|1"A \n(G)"eccB ceec:|2"A \n(G)"eccB ceef||
 |:"E \n(D)"gB (3BBB g2fe|"F#m \n(Em)"fc (3ccc c2 Bc|"A \n(G)"fc (3ccc c2 Bc|"E \n(D)"eB (3BBB Bcef|
 "C#m \n(Bm)"gB (3BBB g2 fe|"F#m \n(Em)"fc (3ccc c2 ce|"A \n(G)"fgfe cagf|1"A \n(G)"eccB ceef:|2"A \n(G)"eccB ceec|]
-P:E
+P:D
 T:MacArthur's Road
 |: "E \n(D)"BG G/2G/2G Bcef | "E \n(D)"g/2g/2g ge fece | "F#m \n(Em)"f3g fece| "A \n(G)"gefg fece|
 "E \n(D)"BG G/2G/2G Bcef | "C#m \n(Bm)"fg-ge fece | "A \n(G)"f2ge fece|1 "B \n(A)"Bcef e3A :|2 "B \n(A)"Bcef "E \n(D)"e3g||
