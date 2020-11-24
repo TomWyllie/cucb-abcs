@@ -4,7 +4,6 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T		Page $P of 2"
-%%footer "2019"
 %%scale 0.7
 
 X:1
@@ -22,29 +21,29 @@ T:Staten Island
 K:D
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-A2 |: "D"FDFG A2A2 | "Bm"dfed dcBA | "G"B2GB "D"A2FA | "G"G2E2 "A"E2A2 |
-"D"FDFG A2A2 | "Bm"dfed dcBA | "D"d2d2 "A7"efge |1 "D"f2d2 d2A2 :|2 "D"f2d2 d2fg |
-|: "D"a2fa "G"g2eg | "D"f2df "A"ecA2 | \
+|: A2 | "D"FDFG A2A2 | "Bm"dfed dcBA | "G"B2GB "D"A2FA | "G"G2E2 "A"E2A2 |
+"D"FDFG A2A2 | "Bm"dfed dcBA | "D"d2d2 "A7"efge | "D"f2d2 d2 :|
+|: fg | "D"a2fa "G"g2eg | "D"f2df "A"ecA2 | \
 %%MIDI gchord czczzzzz
 "C"=c2 c2 e=fge | "C"=c2"C"c2 e=fge |
 %%MIDI gchord fzczfzcz
-"D"a2fa "G"g2eg | "D"f2df "A"ecA2 | "D"d2d2 "A7"efge |1 "D"f2d2 d2fg :|2 "D"f2d2 d2 |]
+"D"a2fa "G"g2eg | "D"f2df "A"ecA2 | "D"d2d2 "A7"efge | "D"f2d2 d2 :|
 P:B
 T:Fairy Dance
 K:D
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-de |: "D"f2fd f2fd | "D"f2fd "A"cdeg | "Bm"f2fa "G"gfed | "A"cABc "A7"defg |
+de | "D"f2fd f2fd | "D"f2fd "A"cdeg | "Bm"f2fa "G"gfed | "A"cABc "A7"defg |
 "D"f2fd f2fd | "D"f2fd "A"cdeg | "Bm"f2fa "G"gfed | "A"cABc "A7"defg |
 "D"a2af "G"b2ba | "Em"g2ge "A"a2ag | "Bm"f2fa "G"gfed | "A"cABc "A7"defg |
-"D"a2af "G"b2ba | "Em"g2ge "A"a2ag | "Bm"f2fa "G"gfed |1 "A"cABc "D"d2de :|2 "A"cABc "D"d2 |]
+"D"a2af "G"b2ba | "Em"g2ge "A"a2ag | "Bm"f2fa "G"gfed | "A"cABc "D"d2 ||
 P:C
 T:Mrs McLeod
 K:A
 cB |: "A"A2 a2 "D"fefa | "A"c2 cB c2 cB | "A"A2 a2 "D"fefa | "E"B2 BA BdcB |
 "A"A2 a2 "D"fefa | "A"c2 cB c2 ce | "D"f2 fg "E7"fefg | "A"afec "E7"BdcB :|
 |: "A"ABcd eAcA | "A"c2 cB c2 cB | "A"ABcd eAcA | "E"B2 BA BdcB |
-"A"ABcd eAcA | "A"c2 cB c2 ce | "D"f2 fg "E7"fefg |1 "A"afec "E7"BdcB :|2 "A"a4 a2 |]
+"A"ABcd eAcA | "A"c2 cB c2 ce | "D"f2 fg "E7"fefg |1 "A"afec "E7"BdcB :|2 "A"a4 a4 |]
 %%newpage
 P:D
 T:High Road to Linton
@@ -60,10 +59,8 @@ T:The Drunken Piper
 K:Amix
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-"Am"AAAB e2 ef|edBd e2 g2|"G"GGGB d2 de|dBGB "E7"d2 e2|
+|:"Am"AAAB e2 ef|edBd e2 g2|"G"GGGB d2 de|dBGB "E7"d2 e2|
 "Am"AAAB e2 ef|edBd "D7"e2 fa|"G"g2 fa "Em"efgG|"Am"B2 A2 A2:|
 |:(3(efg)|"Am"a4 e2 a2|edef g2 fa|"G"G2 GB d2 de|dBGB "E7"d2 e2|
 [1 "Am"a4 e2 a2|edef "D7"g2 fa|"G"g2 fd "Em"efgG|"Am"B2 A2 A2:|
 [2"Am"AAAB e2 ef|edBd "D7"e2 (3(fga)|"G"g2 fa "Em"efgG|"Am"B2 A2 A4:|]
-
-%%footer ""
