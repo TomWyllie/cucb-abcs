@@ -1,0 +1,35 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 1"
+%%scale 0.75
+X: 1
+T:Special Dances
+L:1/8
+M:2/4
+Q:1/4=140
+P:A2B2C2
+R:polka
+K:G
+%%text Both tunes are played many times over for specific dances. Not to be played together.
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T:Horse's Bransle
+K:Gmaj
+|:"G"G>A BB | "C"cB Ac |"G" BA GF | "Am"E2 "D"D2 |
+"G"G>A BB | "C"cB Ac | "G"BG "D"A(F | "G"F)G G2 :|
+|:"G"dc/2B/2 AB | "C"cB/2A/2 GB | "Am"AG FG |"D" AD A2 |
+"G"dc/2B/2 AB | "C"cB/2A/2 GB | "Am"AG "D"G(F | "G"F)G G2 :|
+|:"Gm"_BA/2G/2 BA/2G/2 | "D" FG A2 | "C" DE FG | "D" A_B AG |
+"Gm"_BA/2G/2 BA/2G/2 | "D" FG A2 | "C" DE FG | "G" GF G2 :|
+P:B
+T:Cherkessia Kfula
+K:G
+|:"G"BB2A|GFD2|"C"GG2B|c2c2|"G"BB2A|[1"G"G2F2|"D"A4|"D7"A4:|[2"D"G2F2|"G"G4|"G7"G4||
+|:"C"cc2B|ABc2|"G"BB2A|GAB2|"D"AA2G|[1"D"F2GA|"G"B4|"G7"B4:|[2"D7"F2GF|"G"D4|D4|]
+P:C
+N: Minor Variation
+%%text Minor Variation
+K:Gm
+|:"Gm"BB2A|G^FD2|"Cm"GG2B|c2c2|"Gm"BB2A|[1"Gm"G2^F2|"D7"A4|A4:|[2"D7"G2^F2|"Gm"G4|"G7"G4||
+|:"Cm"cc2B|ABc2|"Gm"BB2A|GAB2|"D7"AA2G|[1"D7"^F2GA|"G"=B4|"G7"=B4:|[2"D7"^F2GF|"Gm"D4|D4|]
