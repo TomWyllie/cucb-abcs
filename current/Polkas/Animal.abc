@@ -40,10 +40,9 @@ K:G
 "Em" eg/e/ dB | "Am" AG A2 | "G" GD/E/ GA | "D" Bd A2 |
 "G" GD/E/ GA | "Em" Bd dg | "C" eg/e/ dB | "D" AB "G" G2| 
 P:D
-T:Le Petit Coin
-K:G
-L:1/16
-|:Bc|"G"d2e2 d2Bc|d2e2d4|"Gmaj7"gfed cBAG|B2A2 A2Bc|
-"Em7/G"d2e2 d2Bc|d2e2 d4|"D"gdcB AGAB|G2d2 G2:|
-|:gf|"C"e2d2 BcdB|e2A2 ABcA|"G/B"d2G2 G2AB|cBcd edgf|
-"C"e2d2 BcdB|"(Am7)"e2A2 ABcA|"D"d2G2 G2AB|cdef "(G)"g2:|
+T: The Vatersay Ambulance
+K: Amaj
+|: "A"a2 ae | fe ce | "D"B>e ce | "E7"Be c/B/A |
+"F#m"a>a ae | "D"fe ce | "E7"B>e dB |[1 "D"BA "A"A2 :|[2 "A"BA A>F ||
+|: "A"EA A>c | "E/G#"BA A>c | "F#m"BA A>c | "E"ec BA |
+"D"EA A>c | "C#/A"BA A2 | "Bm"e>f "E7"ec |[1 "D"BA A>F :|[2 BA A2 ||
