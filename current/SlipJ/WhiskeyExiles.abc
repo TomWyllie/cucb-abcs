@@ -1,8 +1,7 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T\t\tPage $P of 1"
-%%footer "2019/20"
-%%scale 0.65
+%%scale 0.62
 X:1
 T:Whiskey Exiles
 C:John McSherry (Slide From Grace)

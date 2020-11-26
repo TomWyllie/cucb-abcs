@@ -4,8 +4,7 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T		Page $P of 2"
-%%footer "2017"
-%%scale 0.75
+%%scale 0.72
 
 X:1
 T:Shetland Molecule
