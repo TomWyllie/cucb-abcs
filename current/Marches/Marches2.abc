@@ -1,0 +1,41 @@
+%%printparts 0
+%%printtempo 0
+%%header "$T		Page $P of 2"
+%%scale 0.8
+X: 1
+T:Marches 2
+M:4/4
+L:1/8
+Q:1/4=180
+P:A2B2C2
+R:march
+K:A
+%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:A
+T: The Headlands
+M: 4/4
+L: 1/8
+K: Amaj
+|: "E7"e>d | "A"dc BA A<c "A7"E>A | "D"FA df "A"e2 "E7"ef/g/ | "A"a>e fa "F#m"fe dc | "B7"c>B Ac "Bm"B2 "E7"e>d |
+"A"dc BA A<c "A7"E>A | "D"FA df a2 "D#dim"gf | "A/E"ea "F#m"Ac "Bm"Bf "E7"ed | "A"c2 "D"A2 "A"A2 :|
+"E7"ef/g/ | "A"a>e fa ce "A7"cA | "D"dA df "A"e2 "E7"ef/g/ | "A"a>e fa "F#m"fe dc | "B7"c>B Ac "Bm"B2 "E7"ef/g/ |
+"A"a>e fa "A7"ce cA | "D"dA df a2 "D#dim"gf | "A/E"ea "F#m"Ac "Bm"Bf "E7"ed | "A"c2 "D"A2 "A"A2 "E7"ef/g/ |
+"A"a>e fa ce "A7"cA | "D"dA df "A"e2 "E7"ef/g/ | "A"a>e fa "F#m"fe dc | "B7"c>B Ac "Bm"B2 "E7"e>d |
+"Em/A"dc BA A<c E>A | "D/A"FA df a2 gf | "F#m"ea Ac "E"Bf ed | "A"c2 "D"A2 "A"A2 ||
+%%newpage
+P:B
+T: Battle of Waterloo
+K: Amix
+|: "Em7"ed/B/|"A"A>AAB "G"AGGA | "A"c>dec "G"d2 ef/g/|"A"a>ged "Em"edBA| "G"G>GGA G2 "Em7"ed/B/|
+"A"A>AAB "G"AGGA | "A"c>dec "G"d2 ef/g/|"A"a>ged "Em"edBG| "D"A2 A>B A2:|
+|:"Em7"ef/g/|"A"a>ged c>def| "G"g>age "Em"g2 ef/g/| "A"a>ged edBA| "G"G>GGA G2"Em7" ed/B/|
+"A"A>AAB "G"AGGA | "A"c>dec "G"d2 ef/g/|"A"a>ged "Em"edBG| "D"A2 A>B "A"A2 :|%ALTO K:clef=alto middle=c
+%BASS K:clef=bass middle=d
+P:C
+T:Flett Fae Flotta
+K: Amaj
+||:"E7"f>e|"A"cecB c2 A>c|"F#m"e3/f/ec e2ce|"D"f3/e/fa fece|"Bm"f>e"B7"cA "E"B2 "G#/E7"f>e|
+"A"cecB c2 A>c|"C#m"e>fec "D"a2 AB|"A"c2a3/f/ "E7"ecBc|1 "D"A2A>B A2 :|2 "A"A2A>B A2 |]
+|:"E7"Ac|"A"e2 Ac "D"a2 Ac|"A"e3/f/ ec "G#/E"e2Ac|"F#m"a2Ac "C#m"e2ce|"Bm"f>e"B7"cA "E"B2 "G#/E7"f>e|
+"A"cecB c2 A>c|"C#m"e>fec "D"a2 AB|"A"c2a3/f/ "E7"ecBc|1 "D"A2A>B A2 :|2 "A"A2A>B A2 |]
