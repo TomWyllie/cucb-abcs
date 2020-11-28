@@ -23,8 +23,8 @@ for line in sys.stdin:
 total_pages = 0
 for i, (path, pages) in enumerate(sets):
     if pages == 2 and total_pages % 2:
-        copyfile('spacer.pdf', sets[i-1][0].replace('.pdf', '.spacerpdf'))
-        print('Space after', sets[i-1][0])
+        copyfile('spacer.pdf', sets[i-2][0].replace('.pdf', '.spacerpdf'))
+        print('Space before', sets[i-1][0])
         total_pages += 1
     total_pages += pages
 

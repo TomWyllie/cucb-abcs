@@ -1,1 +1,1 @@
-convert xc:none -page A4 spacer.pdf
+convert xc:none -page letter spacer.pdf
