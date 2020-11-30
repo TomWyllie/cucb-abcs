@@ -44,8 +44,6 @@ Inisheer
 1
 IrishJigs
 2
-IrishReels
-2
 IslayInDaMornin
 1
 Jigs1
@@ -68,10 +66,12 @@ Marches1
 2
 Marches2
 2
-MostlyEnglish
-2
 MorningStar
 1
+MostlyEnglish
+2
+MostlyIrish
+2
 NorthumbrianWaltzes
 1
 OxoReels

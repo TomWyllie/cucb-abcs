@@ -14,13 +14,13 @@ K:A
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
 P:A
-T:Untitled March
+T:Willie Anderson's Farewell to Dalharn
 M:4/4
 L:1/8
 K:A
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-e2|"A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 EFAE | "D"c2B2"E"B2e2|
+|:e2|"A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 EFAE | "D"c2B2"E"B2e2|
 "A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 GABe | "E"c2 A2 A2 :| cd |
 "A"eA A2 "D"fA A2 |"A"eA A2 BcBA|"A"E2 A2 EFAE | "E"c2 B2 B2 cd |
 "F#m"eA A2 fA A2 |"D"eA A2 BcBA|"A"E2 A2 GABe | "E"c2 A2 A2 cd |
@@ -29,7 +29,7 @@ e2|"A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 EFAE | "D"c2B2"E"B2e2|
 %%newpage
 P:B
 T:Tartan Bonnets
-"A"A3B c2 e2 | "D"dcde f2 g2 | "A"a3fe2a2 | "E"c2B2B2e2|
+|:"A"A3B c2 e2 | "D"dcde f2 g2 | "A"a3fe2a2 | "E"c2B2B2e2|
 "A"A3B c2 e2 | "D"dcde f2 g2 |"A"a3fe2a2 |"E"c2A2A2e2:|
 "A"a2A2e2A2|"D"f2A2"A"e2A2|"A"agaf e2a2| "E"c2B2B2e2|
 "F#m"a2A2e2A2|"D"f2A2"A"e2fg|"D"agaf e2a2|"E"c2A2A2fg|
@@ -40,9 +40,9 @@ T:Stony Brawl
 K:Amix
 %ALTO K:clef=alto middle=c
 %BASS K:clef=bass middle=d
-"A"e3d c2A2| "A"Bcdc B2A2|"A"e3f g2f2|"G"d4-"D"d4|
+|:"A"e3d c2A2| "A"Bcdc B2A2|"A"e3f g2f2|"G"d4-"D"d4|
 "A"e3d c2A2| "A"Bcdc B2A2|1"G"GABc d2c2|"Em" B8:|2"G"GABc "Em"d2c2| "A"A8||
-"A"a4e3d|"D"cdef "Em"g2f2|"D"d3e f2g2|"Em"a4 e4|
+|:"A"a4e3d|"D"cdef "Em"g2f2|"D"d3e f2g2|"Em"a4 e4|
 "A"a4e3d|"D"cdef "G"g2f2|"A"e3d c2e2|"Em"B8:|
 
 

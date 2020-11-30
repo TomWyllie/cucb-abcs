@@ -1,5 +1,5 @@
 rm -f Out.ps
-find tunes/*.abc -exec abcm2ps {} -O = \;
+find tunes/*/*.abc -exec abcm2ps {} -O = \;
 mkdir -p rendered
 rm -f rendered/*
 mv *.ps rendered
