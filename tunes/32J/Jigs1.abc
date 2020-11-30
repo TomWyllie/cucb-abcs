@@ -1,8 +1,7 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T\t\tPage $P of 2"
-%%footer "2019/20"
-%%%scale 0.75
+%%scale 0.75
 X:1
 T:Jigs 1
 R:jig
@@ -26,7 +25,7 @@ T:Kilfenora Jig
 |:"A"c2 c cBc | "A"ecB A2 c | "A"efe "A/E"e2 c | "A"efe "A/E"c2 A |
 "A"c2 c cBc | "A"ecB A2 c | "E"efe dcB |1 "A"A3 A3 :|2 "D"A3 A3|:
 "F#m"aba "E7"gag | "D"fgf "A"e2 c | "A"efe e2 c | "A"efe c2 A |
-"F#m"aba "E7"gag | "D"fgf "A"e2 c |1: "E7"efe dcB | "A"A3 A3 :|2 "A"eaf eaf | "E" eaf e3|]
+"F#m"aba "E7"gag | "D"fgf "A"e2 c |1 "E7"efe dcB | "A"A3 A3 :|2 "A"eaf eaf | "E" eaf e3|]
 %%newpage
 P:C
 T:Scarce o'Tatties
