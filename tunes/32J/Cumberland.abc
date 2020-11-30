@@ -23,16 +23,20 @@ P:B
 T:Cock o' the North
 N:Play once only
 %%text Play once only
-|: e | "A"cAc "E"B2 A | "A"Ace "D"f2 e | "A"cAc cBA | "G"B3 B2 e | "A"cAc "E"B2 A |
-"A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 :| g | "A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e |
-"A"cAc cBA | "G"B3 B2 g | "A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g |
-"A/C#"a2e "D"f2 e | "A/C#"a2e "G"f2 e | "A"cAc cBA | "G"B3 Bcd | "A"efe c2 A |
-"A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 |:e | "A"c2 c cBA | "A"c2 e "D"f2 e |
-"A"c2 c cBA | "Em".B z z e2 d| "A"c2 c cBA| "A"c2 e "D"f2 e| "A"cAc "G"B2 G| "A"A3 A2 :|
+|: e | "A"cAc "E"B2 A | "A"Ace "D"f2 e | "A"cAc cBA | "G"B3 B2 e | 
+"A"cAc "E"B2 A | "A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 :| 
+g | "A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e | "A"cAc cBA | "G"B3 B2 g | 
+"A/C#"a2 e "D"f2 e | "A/C#"a2 e "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g |
+"A/C#"a2e "D"f2 e | "A/C#"a2e "G"f2 e | "A"cAc cBA | "G"B3 Bcd | 
+"A"efe c2 A | "A"Ace "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 |
 %%newpage
-g | "A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e | "A/C#"cAc cBA | "E7/B"B3 B2 g | "A/C#"aee "D"f2 e |
-"A/C#"aee "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g | "A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e |
-"A"cAc cBA | "G"B3 Bcd | "A"efe c2 A| "A"Ace "D"f2 e| "A"cAc "G"B2 G | "A"A3 A2||
+%% scale 0.68
+|: e | "A"c2 c cBA | "A"c2 e "D"f2 e | "A"c2 c cBA | "Em".B z z e2 d| 
+"A"c2 c cBA| "A"c2 e "D"f2 e| "A"cAc "G"B2 G| "A"A3 A2 :|
+g | "A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e | "A/C#"cAc cBA | "E7/B"B3 B2 g | 
+"A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e | "A"cAc "G"B2 G | "A"A3 A2 g | 
+"A/C#"aee "D"f2 e | "A/C#"aee "D"f2 e | "A"cAc cBA | "G"B3 Bcd | 
+"A"efe c2 A| "A"Ace "D"f2 e| "A"cAc "G"B2 G | "A"A3 A2||
 P:C
 T:Atholl Highlanders
 K:A

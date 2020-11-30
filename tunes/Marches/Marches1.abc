@@ -1,7 +1,7 @@
 %%printparts 0
 %%printtempo 0
 %%header "$T		Page $P of 2"
-%%scale 0.71
+%%scale 0.8
 X: 1
 T:Marches 1
 C:Gideon Stove (Tartan Bonnets)
@@ -26,6 +26,7 @@ e2|"A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 EFAE | "D"c2B2"E"B2e2|
 "F#m"eA A2 fA A2 |"D"eA A2 BcBA|"A"E2 A2 GABe | "E"c2 A2 A2 cd |
 "A"eA A2 "D"fA A2 |"A"eA A2 BcBA|"D"E2 A2 EFAE | "E"c2 B2 B2 e2 |
 "A"c3B A2 c2 | BcBA "D"F2 AF | "A"E2 A2 GABe | "E"c2 A2 A4 ||
+%%newpage
 P:B
 T:Tartan Bonnets
 "A"A3B c2 e2 | "D"dcde f2 g2 | "A"a3fe2a2 | "E"c2B2B2e2|
@@ -34,7 +35,6 @@ T:Tartan Bonnets
 "F#m"a2A2e2A2|"D"f2A2"A"e2fg|"D"agaf e2a2|"E"c2A2A2fg|
 "A"a2A2e2A2|"D"f2A2"A"e2A2|"A"agaf e2a2| "E"c2B2B2e2|
 "A"aAeA "D"f2e2|"F#m"aAeA c2Bc|"D"dcdf"E"e2ed|"E"c2A2A4||
-%%newpage
 P:C
 T:Stony Brawl
 K:Amix
