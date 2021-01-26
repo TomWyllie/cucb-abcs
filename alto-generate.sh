@@ -10,6 +10,6 @@ cd rendered-alto/
 find *.ps -exec ps2pdf {} \; -exec echo {} \;
 rm *.ps
 echo "Generating merged alto pdf"
-pdftk * cat output cucb_all_sets_alto.pdf
 cd ..
+pdftk rendered-alto/* cat output merged-pdfs/CUCB_all_alto.pdf
 echo "Done"

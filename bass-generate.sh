@@ -10,6 +10,6 @@ cd rendered-bass/
 find *.ps -exec ps2pdf {} \; -exec echo {} \;
 rm *.ps
 echo "Generating merged bass pdf"
-pdftk * cat output cucb_all_sets_bass.pdf
+pdftk * cat output ../merged-pdfs/CUCB_all_bass.pdf
 cd ..
 echo "Done"
